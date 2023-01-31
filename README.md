@@ -74,7 +74,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | Ethiopia |
 | __?__ | Fidji |                            <!-- F -->
 | __?__ | Finland |
-| __?__ | France |
+| __✗__ | [France](Countries/France.md) |
 | __?__ | Gabon |                            <!-- G -->
 | __?__ | Gambia |
 | __?__ | Georgia |
