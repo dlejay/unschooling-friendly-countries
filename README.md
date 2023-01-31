@@ -5,8 +5,7 @@
 Whithin the context of the following list, an _unschooling friendly country_ is a sovereign state in which:
 1. Homeschooling is a legal form of schooling ;
 2. It requires no prior authorisation ;
-3. It can be curriculum-free ;
-4. There are no formal examinations before age 11.
+3. It can be curriculum-free.
 
 ## List of countries
 
