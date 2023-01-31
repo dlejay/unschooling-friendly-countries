@@ -137,7 +137,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | Namibia |                          <!-- N -->
 | __?__ | Nauru |
 | __?__ | Nepal |
-| __?__ | Netherlands |
+| __✗__ | [Netherlands](Countries/Netherlands.md) |
 | __?__ | New Zealand |
 | __?__ | Nicaragua |
 | __?__ | Niger |
