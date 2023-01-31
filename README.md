@@ -29,7 +29,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | Bangladesh |
 | __?__ | Barbados |
 | __?__ | Belarus |
-| __?__ | Belgium |
+| __✗__ | [Belgium](Countries/Belgium.md) |
 | __?__ | Belize |
 | __?__ | Benin |
 | __?__ | Bhutan |
