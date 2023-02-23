@@ -78,7 +78,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | Gabon |                            <!-- G -->
 | __?__ | Gambia |
 | __?__ | Georgia |
-| __?__ | Germany |
+| __✗__ | [Germany](Countries/Germany.md) |
 | __?__ | Ghana |
 | __?__ | Greece |
 | __?__ | Grenada |
