@@ -128,7 +128,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | Mexico |
 | __?__ | Micronesia |
 | __?__ | Moldova |
-| __?__ | Monaco |
+| __✓__ | [Monaco](Countries/Monaco.md) |
 | __?__ | Mongolia |
 | __?__ | Montenegro |
 | __?__ | Morocco |
