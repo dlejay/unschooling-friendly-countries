@@ -8,7 +8,7 @@
 
 ## Context
 
-Homeschooling in Monaco is governement by Article 5 of the _Loi n. 1.334 du 12/07/2007 sur l'éducation_ :
+Homeschooling in Monaco is governed by Article 5 of the _Loi n. 1.334 du 12/07/2007 sur l'éducation_ :
 
 > Anyone who intends to have a child subject to compulsory schooling given home education must,
 > within the time limits referred to in the preceding article,
