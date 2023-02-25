@@ -96,7 +96,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | Iraq |
 | __?__ | Ireland |
 | __?__ | Isreal |
-| __?__ | Italy |
+| __✗__ | [Italy](Countries/Italy.md) |
 | __?__ | Ivory Coast |
 | __?__ | Jamaica |                          <!-- J -->
 | __?__ | Japan |
