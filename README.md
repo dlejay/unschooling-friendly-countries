@@ -15,7 +15,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | Afghanistan |
 | __?__ | Albania |
 | __?__ | Algeria |
-| __?__ | Andorra |
+| __✗__ | [Andorra](Countries/Andorra.md) |
 | __?__ | Angola |
 | __?__ | Antigua and Barbuda |
 | __?__ | Argentina |
