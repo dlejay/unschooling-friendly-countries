@@ -1,6 +1,6 @@
 # Unschooling in Switzerland
 
-Switzerland is a fedearl country in which cantons are responsible for homeschooling laws.
+Switzerland is a federal country in which cantons are responsible for homeschooling laws.
 
 ## List of cantons
 
