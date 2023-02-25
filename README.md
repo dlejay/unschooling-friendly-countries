@@ -187,7 +187,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | Spain |
 | __?__ | Sri Lanka |
 | __?__ | Sudan |
-| __?__ | Suriname |
+| __✗__ | [Suriname](Countries/Suriname.md) |
 | __?__ | Sweden |
 | __?__ | Switzerland |
 | __?__ | Syria |
