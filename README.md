@@ -184,7 +184,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | South Korea |
 | __?__ | South Ossetia |
 | __?__ | South Sudan |
-| __?__ | Spain |
+| __✗__ | [Spain](Countries/Spain.md) |
 | __?__ | Sri Lanka |
 | __?__ | Sudan |
 | __✗__ | [Suriname](Countries/Suriname.md) |
