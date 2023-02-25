@@ -26,7 +26,7 @@ Switzerland is a federal country in which cantons are responsible for homeschool
 | __?__ | Solothurn |
 | __?__ | St Gall |
 | __?__ | Thurgau |
-| __?__ | [Ticino](Ticino.md) |
+| __✗__ | [Ticino](Ticino.md) |
 | __?__ | Uri |
 | __?__ | Valais |
 | __?__ | Vaud |
