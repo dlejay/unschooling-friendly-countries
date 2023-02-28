@@ -211,7 +211,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | Uruguay |
 | __?__ | Uzbekistan |
 | __?__ | Vanuatu |                          <!-- V -->
-| __?__ | Vatican City |
+| __✓__ | [Vatican City](Countries/Vatican-City.md) |
 | __?__ | Venezuela |
 | __?__ | Vietnam |
 | __?__ | Yemen |                            <!-- Y -->
