@@ -56,7 +56,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | Cook Islands |
 | __?__ | Costa Rica |
 | __?__ | Croatia |
-| __?__ | Cuba |
+| __✗__ | [Cuba](Countries/Cuba.md) |
 | __?__ | Cyprus |
 | __?__ | Czech Republic |
 | __?__ | Denmark |                          <!-- D -->
