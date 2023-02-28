@@ -167,7 +167,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | Saint Lucia |
 | __?__ | Saint Vincent and the Grenadines |
 | __?__ | Samoa |
-| __?__ | San Marino |
+| __✗__ | [San Marino](Countries/San-Marino.md) |
 | __?__ | São Tomé and Príncipe |
 | __?__ | Saudi Arabia |
 | __?__ | Senegal |
