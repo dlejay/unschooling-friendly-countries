@@ -160,7 +160,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | Portugal |
 | __?__ | Qatar |                            <!-- Q -->
 | __?__ | Romania |                          <!-- R -->
-| __?__ | Russia |
+| __✓__ | [Russia](Countries/Russia.md) |
 | __?__ | Rwanda |
 | __?__ | Sahrawi ADR | <!-- S -->
 | __?__ | Saint Kitts and Nevis |
