@@ -22,7 +22,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __✗__ | [Armenia](Countries/Armenia.md) |
 | __?__ | Artsakh |
 | __?__ | Australia |
-| __?__ | Austia |
+| __?__ | Austria |
 | __?__ | Azerbaijan |
 | __?__ | Bahamas |                          <!-- B -->
 | __?__ | Bahrain |
