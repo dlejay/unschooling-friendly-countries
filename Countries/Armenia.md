@@ -8,7 +8,7 @@
 
 ## Context
 
-Homeschooling is not allowed in Andorra. Article 18 of the _Law on Education_ states that :
+Homeschooling is not allowed in Armenia. Article 18 of the _Law on Education_ states that :
 
 > 7. The basic general education shall be mandatory.
 
