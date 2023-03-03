@@ -19,7 +19,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | Angola |
 | __?__ | Antigua and Barbuda |
 | __?__ | Argentina |
-| __?__ | Armenia |
+| __✗__ | [Armenia](Countries/Armenia.md) |
 | __?__ | Artsakh |
 | __?__ | Australia |
 | __?__ | Austia |
