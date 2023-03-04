@@ -45,7 +45,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | Cameroon |
 | __?__ | Canada |
 | __?__ | Cape Verde |
-| __?__ | Centratrique |
+| __?__ | Centrafrique |
 | __?__ | Chad |
 | __?__ | Chile |
 | __?__ | China |
