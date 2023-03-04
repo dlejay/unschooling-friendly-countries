@@ -113,7 +113,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | Lesotho |
 | __?__ | Liberia |
 | __?__ | Libya |
-| __?__ | Liechtenstein |
+| __✗__ | [Liechtenstein](Countries/Liechtenstein.md) |
 | __?__ | Lithuania |
 | __✗__ | [Luxembourg](Countries/Luxembourg.md) |
 | __?__ | Madagascar |                       <!-- M -->
