@@ -54,7 +54,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | Congo-Brazzaville |
 | __?__ | Congo-Kinshasa |
 | __?__ | Cook Islands |
-| __?__ | Costa Rica |
+| __✗__ | [Costa Rica](Countries/Costa-Rica.md) |
 | __?__ | Croatia |
 | __✗__ | [Cuba](Countries/Cuba.md) |
 | __?__ | Cyprus |
