@@ -20,7 +20,7 @@ Switzerland is a federal country in which cantons are responsible for homeschool
 | __?__ | Lucerne |
 | __?__ | Neuchâtel |
 | __?__ | Nidwald |
-| __?__ | Obwald | 
+| __✗__ | [Obwalden](Obwalden.md) | 
 | __?__ | Schaffhausen |
 | __?__ | Schwyz |
 | __?__ | Solothurn |
