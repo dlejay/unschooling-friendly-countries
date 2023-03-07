@@ -32,7 +32,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __✗__ | [Belgium](Countries/Belgium.md) |
 | __?__ | Belize |
 | __?__ | Benin |
-| __?__ | Bhutan |
+| __?__ | [Bhutan](Countries/Bhutan.md) |
 | __?__ | Bolivia |
 | __?__ | Bosnia and Herzegovina |
 | __?__ | Botswana |
