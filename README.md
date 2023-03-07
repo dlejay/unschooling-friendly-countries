@@ -38,7 +38,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | Botswana |
 | __✗__ | [Brazil](Countries/Brazil.md) |
 | __?__ | Brunei |
-| __?__ | Bulgaria |
+| __✗__ | [Bulgaria](Countries/Bulgaria.md) |
 | __?__ | Burkina Faso |
 | __?__ | Burundi |
 | __?__ | Cambodia |                         <!-- C -->
