@@ -202,7 +202,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | Tunisia |
 | __✗__ | [Turkey](Countries/Turkey.md) |
 | __?__ | Turkmenistan |
-| __?__ | Tuvalu |
+| __?__ | [Tuvalu](Countries/Tuvalu.md) |
 | __?__ | Uganda |                           <!-- U -->
 | __?__ | Ukraine |
 | __?__ | United Arab Emirates |
