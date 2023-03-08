@@ -171,7 +171,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | São Tomé and Príncipe |
 | __?__ | Saudi Arabia |
 | __?__ | Senegal |
-| __?__ | Serbia |
+| __✗__ | [Serbia](Countries/Serbia.md) |
 | __?__ | Seychelles |
 | __?__ | Sierra Leone |
 | __?__ | Singapore |
