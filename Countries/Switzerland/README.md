@@ -14,7 +14,7 @@ Switzerland is a federal country in which cantons are responsible for homeschool
 | __?__ | Berne |
 | __?__ | Fribourg |
 | __?__ | Geneva |
-| __?__ | Glarus |
+| __✗__ | [Glarus](Glarus.md) |
 | __?__ | Grisons |
 | __?__ | Jura |
 | __?__ | Lucerne |
