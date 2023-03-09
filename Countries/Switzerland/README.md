@@ -7,7 +7,7 @@ Switzerland is a federal country in which cantons are responsible for homeschool
 | | Cantons |
 | - | :------ |
 | __?__ | Aargau |
-| __?__ | Appenzell Inner-Rhodes |
+| __✗__ | [Appenzell Inner-Rhodes](Appenzell-Inner-Rhodes.md) |
 | __✗__ | [Appenzell Outer-Rhodes](Appenzell-Outer-Rhodes.md) |
 | __✗__ | [Basel-City](Basel-City.md) |
 | __✗__ | [Basel-Country](Basel-Country.md) |
