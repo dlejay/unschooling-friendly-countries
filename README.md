@@ -190,7 +190,7 @@ or a self-governing territory not part of a sovereign state, in which:
 | __?__ | Sri Lanka |
 | __?__ | Sudan |
 | __✗__ | [Suriname](Countries/Suriname.md) |
-| __?__ | Sweden |
+| __✗__ | [Sweden](Countries/Sweden.md) |
 | __?__ | Switzerland |
 | __?__ | Syria |
 | __?__ | Taiwan |                           <!-- T -->
