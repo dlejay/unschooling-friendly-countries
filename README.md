@@ -2,7 +2,8 @@
 
 ## Definition
 
-Whithin the context of the following list, an _unschooling friendly country_ is a sovereign state in which:
+Whithin the context of the following list, an _unschooling friendly country_ is a sovereign state
+or a self-governing territory not part of a sovereign state, in which:
 1. Homeschooling is a legal form of schooling ;
 2. It requires no prior authorisation ;
 3. It can be curriculum-free.
@@ -80,6 +81,7 @@ Whithin the context of the following list, an _unschooling friendly country_ is 
 | __?__ | Georgia |
 | __✗__ | [Germany](Countries/Germany.md) |
 | __?__ | Ghana |
+| __✓__ | [Gibraltar](Countries/Gibraltar.md) |
 | __✗__ | [Greece](Countries/Greece.md) |
 | __?__ | Grenada |
 | __?__ | Guatemala |
