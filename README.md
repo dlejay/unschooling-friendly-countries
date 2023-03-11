@@ -120,7 +120,7 @@ or a self-governing territory not part of a sovereign state, in which:
 | __✗__ | [Luxembourg](Countries/Luxembourg.md) |
 | __?__ | Madagascar |                       <!-- M -->
 | __?__ | Malawi |
-| __?__ | Malaysia |
+| __✗__ | [Malaysia](Countries/Malaysia.md) |
 | __?__ | Maldives |
 | __?__ | Mali |
 | __?__ | Malta |
