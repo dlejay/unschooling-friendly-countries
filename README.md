@@ -196,7 +196,7 @@ or a self-governing territory not part of a sovereign state, in which:
 | __?__ | Taiwan |                           <!-- T -->
 | __?__ | Tajikistan |
 | __?__ | Tanzania |
-| __?__ | Thailand |
+| __✗__ | [Thailand](Countries/Thailand.md) |
 | __?__ | Togo |
 | __?__ | Tonga |
 | __?__ | Transnistria |
