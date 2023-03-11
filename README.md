@@ -19,7 +19,7 @@ or a self-governing territory not part of a sovereign state, in which:
 | __✗__ | [Andorra](Countries/Andorra.md) |
 | __?__ | Angola |
 | __?__ | Antigua and Barbuda |
-| __?__ | Argentina |
+| __✗__ | [Argentina](Countries/Argentina.md) |
 | __✗__ | [Armenia](Countries/Armenia.md) |
 | __?__ | Artsakh |
 | __?__ | Australia |
