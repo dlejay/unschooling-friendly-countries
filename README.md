@@ -207,7 +207,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Sudan |
 | __✗__ | [Suriname](Countries/Suriname.md) |
 | __✗__ | [Sweden](Countries/Sweden.md) |
-| __?__ | Switzerland |
+| __✗__ | [Switzerland](Countries/Switzerland/README.md) |
 | __?__ | Syria |
 | __?__ | Taiwan |                           <!-- T -->
 | __?__ | Tajikistan |
