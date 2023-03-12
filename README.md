@@ -91,7 +91,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Ghana |
 | __✓__ | [Gibraltar](Countries/Gibraltar.md) |
 | __✗__ | [Greece](Countries/Greece.md) |
-| __?__ | Grenada |
+| __✗__ | [Grenada](Countries/Grenada.md) |
 | __?__ | Guam |
 | __?__ | Guatemala |
 | __?__ | Guernsey |
