@@ -7,6 +7,8 @@
 
 ## Context
 
+According to the Education Act :
+
 > (3) An educational plan for each student who is receiving home education shall be prepared and provided
 > to the Chief Education Officer subject to the following conditions—
 >
