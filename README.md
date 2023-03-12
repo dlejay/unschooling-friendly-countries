@@ -16,6 +16,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Afghanistan |
 | __?__ | Albania |
 | __?__ | Algeria |
+| __?__ | American Samoa |
 | __✗__ | [Andorra](Countries/Andorra.md) |
 | __?__ | Angola |
 | __?__ | Anguila |
@@ -89,6 +90,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✓__ | [Gibraltar](Countries/Gibraltar.md) |
 | __✗__ | [Greece](Countries/Greece.md) |
 | __?__ | Grenada |
+| __?__ | Guam |
 | __?__ | Guatemala |
 | __?__ | Guernsey |
 | __?__ | Guinea |
@@ -156,6 +158,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Niue |
 | __?__ | North Korea |
 | __?__ | Northern Macedonia |
+| __?__ | Northern Mariana Islands |
 | __?__ | Northern Cyprus |
 | __?__ | Norway |
 | __?__ | Oman |                             <!-- O -->
@@ -170,6 +173,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Pitcairn, Henderson, Ducie and Oeno Islands |
 | __?__ | Poland |
 | __?__ | Portugal |
+| __?__ | Puerto Rico |
 | __?__ | Qatar |                            <!-- Q -->
 | __?__ | Romania |                          <!-- R -->
 | __✓__ | [Russia](Countries/Russia.md) |
@@ -223,6 +227,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | United Arab Emirates |
 | __?__ | United Kingdom |
 | __?__ | United States |
+| __?__ | U. S. Virgin Islands |
 | __?__ | Uruguay |
 | __?__ | Uzbekistan |
 | __?__ | Vanuatu |                          <!-- V -->
