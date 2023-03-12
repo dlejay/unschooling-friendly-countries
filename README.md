@@ -24,6 +24,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Argentina](Countries/Argentina.md) |
 | __✗__ | [Armenia](Countries/Armenia.md) |
 | __?__ | Artsakh |
+| __?__ | Aruba |
 | __?__ | Australia |
 | __?__ | Austria |
 | __?__ | Azerbaijan |
@@ -63,6 +64,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Costa Rica](Countries/Costa-Rica.md) |
 | __?__ | Croatia |
 | __✗__ | [Cuba](Countries/Cuba.md) |
+| __?__ | Curaçao |
 | __?__ | Cyprus |
 | __?__ | Czech Republic |
 | __?__ | Denmark |                          <!-- D -->
@@ -192,6 +194,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Seychelles |
 | __?__ | Sierra Leone |
 | __?__ | Singapore |
+| __?__ | Sint Maarten |
 | __?__ | Slovakia |
 | __?__ | Slovenia |
 | __?__ | Solomon Islands |
