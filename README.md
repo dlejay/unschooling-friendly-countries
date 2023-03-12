@@ -183,7 +183,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Sahrawi ADR |                      <!-- S -->
 | __?__ | Saint Helena, Ascension and Tristan da Cunha |
 | __?__ | Saint Kitts and Nevis |
-| __?__ | Saint Lucia |
+| __✗__ | [Saint Lucia](Countries/Saint-Lucia.md) |
 | __?__ | Saint Vincent and the Grenadines |
 | __?__ | Samoa |
 | __✗__ | [San Marino](Countries/San-Marino.md) |
