@@ -31,4 +31,4 @@ Switzerland is a federal country in which cantons are responsible for homeschool
 | __?__ | Valais |
 | __✗__ | [Vaud](Vaud.md) |
 | __✗__ | [Zug](Zug.md) |
-| __?__ | Zurich |
+| __✗__ | [Zurich](Zurich.md) |
