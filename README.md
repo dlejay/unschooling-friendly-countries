@@ -20,7 +20,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Andorra](Countries/Andorra.md) |
 | __?__ | Angola |
 | __?__ | Anguila |
-| __?__ | Antigua and Barbuda |
+| __✗__ | [Antigua and Barbuda](Countries/Antigua-and-Barbuda.md) |
 | __✗__ | [Argentina](Countries/Argentina.md) |
 | __✗__ | [Armenia](Countries/Armenia.md) |
 | __?__ | Artsakh |
