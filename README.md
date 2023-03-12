@@ -3,7 +3,7 @@
 ## Definition
 
 Whithin the context of the following list, an _unschooling friendly country_ is a sovereign state
-or a self-governing territory not part of a sovereign state, in which:
+or a self-governing territory with permanent population not part of a sovereign stat, in which:
 1. Homeschooling is a legal form of schooling ;
 2. It requires no prior authorisation ;
 3. It can be curriculum-free.
@@ -18,6 +18,7 @@ or a self-governing territory not part of a sovereign state, in which:
 | __?__ | Algeria |
 | __✗__ | [Andorra](Countries/Andorra.md) |
 | __?__ | Angola |
+| __?__ | Anguila |
 | __?__ | Antigua and Barbuda |
 | __✗__ | [Argentina](Countries/Argentina.md) |
 | __✗__ | [Armenia](Countries/Armenia.md) |
@@ -33,11 +34,13 @@ or a self-governing territory not part of a sovereign state, in which:
 | __✗__ | [Belgium](Countries/Belgium.md) |
 | __?__ | Belize |
 | __?__ | Benin |
+| __?__ | Bermuda |
 | __?__ | [Bhutan](Countries/Bhutan.md) |
 | __?__ | Bolivia |
 | __?__ | Bosnia and Herzegovina |
 | __?__ | Botswana |
 | __✗__ | [Brazil](Countries/Brazil.md) |
+| __?__ | British Virgin Islands |
 | __?__ | Brunei |
 | __✗__ | [Bulgaria](Countries/Bulgaria.md) |
 | __?__ | Burkina Faso |
@@ -46,6 +49,7 @@ or a self-governing territory not part of a sovereign state, in which:
 | __?__ | Cameroon |
 | __?__ | Canada |
 | __?__ | Cape Verde |
+| __?__ | Cayman Islands |
 | __?__ | Centrafrique |
 | __?__ | Chad |
 | __?__ | Chile |
@@ -73,7 +77,8 @@ or a self-governing territory not part of a sovereign state, in which:
 | __?__ | Estonia |
 | __?__ | Eswatini |
 | __?__ | Ethiopia |
-| __?__ | Fidji |                            <!-- F -->
+| __?__ | Falkland Islands |                 <!-- F -->
+| __?__ | Fidji |
 | __?__ | Finland |
 | __✗__ | [France](Countries/France.md) |
 | __?__ | Gabon |                            <!-- G -->
@@ -136,6 +141,7 @@ or a self-governing territory not part of a sovereign state, in which:
 | __✓__ | [Monaco](Countries/Monaco.md) |
 | __?__ | Mongolia |
 | __?__ | Montenegro |
+| __?__ | Montserrat |
 | __?__ | Morocco |
 | __?__ | Mozambique |
 | __?__ | Myanmar |
@@ -161,13 +167,15 @@ or a self-governing territory not part of a sovereign state, in which:
 | __?__ | Paraguay |
 | __?__ | Peru |
 | __?__ | Philippines |
+| __?__ | Pitcairn, Henderson, Ducie and Oeno Islands |
 | __?__ | Poland |
 | __?__ | Portugal |
 | __?__ | Qatar |                            <!-- Q -->
 | __?__ | Romania |                          <!-- R -->
 | __✓__ | [Russia](Countries/Russia.md) |
 | __?__ | Rwanda |
-| __?__ | Sahrawi ADR | <!-- S -->
+| __?__ | Sahrawi ADR |                      <!-- S -->
+| __?__ | Saint Helena, Ascension and Tristan da Cunha |
 | __?__ | Saint Kitts and Nevis |
 | __?__ | Saint Lucia |
 | __?__ | Saint Vincent and the Grenadines |
@@ -189,6 +197,7 @@ or a self-governing territory not part of a sovereign state, in which:
 | __?__ | South Korea |
 | __?__ | South Ossetia |
 | __?__ | South Sudan |
+| __?__ | Sovereign Base Areas of Akrotiri and Dhekelia |
 | __✗__ | [Spain](Countries/Spain.md) |
 | __?__ | Sri Lanka |
 | __?__ | Sudan |
@@ -207,6 +216,7 @@ or a self-governing territory not part of a sovereign state, in which:
 | __?__ | Tunisia |
 | __✗__ | [Turkey](Countries/Turkey.md) |
 | __?__ | Turkmenistan |
+| __?__ | Turks and Caicos Islands |
 | __?__ | [Tuvalu](Countries/Tuvalu.md) |
 | __?__ | Uganda |                           <!-- U -->
 | __?__ | Ukraine |
