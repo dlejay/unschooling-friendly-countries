@@ -7,16 +7,21 @@
 
 ## Context
 
-As explained by UNESCO
+Article 79 of the Education Act states :
 
-> Homeschooling is legal in Dominica and regulated under the Art. 79 from the Education Act.
-> The Parent or tutor must register their children with the Chief Education Officer on an annual basis and submit three months before starting
-> home education an education plan based on the guiding principles stated by the Ministry.
-> If homeschool standards are not being met, the Chief of Education Officer can terminate the homeschooling program.
-
-Article 79 of the Education Act states in particular :
-> 3 (d) the education plan shall be based on the national curriculum […]
+> (3) An educational plan for each student who is receiving home education shall be prepared and provided
+> to the Chief Education Officer subject to the following conditions—
+>
+> (a) the initial educational plan shall be prepared and provided to the Chief Education Officer 3 months prior to the commencement
+> of the home education programme;
+> 
+> (b) the educational plan shall be for a minimum period of 3 school years and shall cover every year of the home education programme;
+> 
+> (c) the educational plan shall include a description of the learning activities for the student that will comply with the goals
+> and objectives set out in section 4(2); and
+> 
+> (d) the educational plan shall be based on the national curriculum as established by the Minister under Part VIII.
+> 
 ## Sources
 
-* [education-profiles.org](https://education-profiles.org/latin-america-and-the-caribbean/dominica/~non-state-actors-in-education)
 * [Education Act](http://www.education.gov.dm/images/documents/education_laws/Education%20Act%201997%20Act%2011%20of%201997.pdf)
