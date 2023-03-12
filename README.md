@@ -85,6 +85,7 @@ or a self-governing territory not part of a sovereign state, in which:
 | __✗__ | [Greece](Countries/Greece.md) |
 | __?__ | Grenada |
 | __?__ | Guatemala |
+| __?__ | Guernsey |
 | __?__ | Guinea |
 | __?__ | Guinea-Bissau |
 | __?__ | Guyana |
@@ -97,11 +98,13 @@ or a self-governing territory not part of a sovereign state, in which:
 | __?__ | Iran |
 | __?__ | Iraq |
 | __?__ | Ireland |
+| __?__ | Isle of Man |
 | __?__ | Israel |
 | __✗__ | [Italy](Countries/Italy.md) |
 | __?__ | Ivory Coast |
 | __?__ | Jamaica |                          <!-- J -->
 | __?__ | Japan |
+| __?__ | Jersey |
 | __?__ | Jordan |
 | __?__ | Kazakhstan |                       <!-- K -->
 | __?__ | Kenya |
