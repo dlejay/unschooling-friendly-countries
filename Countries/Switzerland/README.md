@@ -18,7 +18,7 @@ Switzerland is a federal country in which cantons are responsible for homeschool
 | __✗__ | [Grisons](Grisons.md) |
 | __?__ | Jura |
 | __✗__ | [Lucerne](Lucerne.md) |
-| __?__ | Neuchâtel |
+| __✗__ | [Neuchâtel](Neuchâtel.md) |
 | __✗__ | [Nidwalden](Nidwalden.md) |
 | __✗__ | [Obwalden](Obwalden.md) | 
 | __✗__ | [Schaffhausen](Schaffhausen.md) |
