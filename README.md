@@ -42,7 +42,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Bosnia and Herzegovina |
 | __?__ | Botswana |
 | __✗__ | [Brazil](Countries/Brazil.md) |
-| __?__ | British Virgin Islands |
+| __✗__ | [British Virgin Islands](Countries/British-Virgin-Islands.md) |
 | __?__ | Brunei |
 | __✗__ | [Bulgaria](Countries/Bulgaria.md) |
 | __?__ | Burkina Faso |
