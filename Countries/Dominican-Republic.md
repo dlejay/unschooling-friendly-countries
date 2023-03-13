@@ -12,7 +12,7 @@ According to Art 63.2 of the Constitution :
 
 > The family is responsible for the education of its members and has the right to choose the type of education of their minor children.
 
-Also, according to the _Ley General de Educación_ :
+Also, according to Art 4g) of the _Ley General de Educación_ :
 
 > The family, primarily responsible for the education of its children, has the duty and the right to educate them.
 > It is free to decide the type and form of education it wishes for its children;
