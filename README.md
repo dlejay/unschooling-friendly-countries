@@ -173,7 +173,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Peru |
 | __?__ | Philippines |
 | __?__ | Pitcairn, Henderson, Ducie and Oeno Islands |
-| __?__ | Poland |
+| __✗__ | [Poland](Countries/Poland.md) |
 | __?__ | Portugal |
 | __✗__ | [Puerto Rico](Countries/Puerto-Rico.md) |
 | __?__ | Qatar |                            <!-- Q -->
