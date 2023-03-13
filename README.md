@@ -128,7 +128,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Liberia |
 | __?__ | Libya |
 | __✗__ | [Liechtenstein](Countries/Liechtenstein.md) |
-| __?__ | Lithuania |
+| __✗__ | [Lithuania](Countries/Lithuania.md) |
 | __✗__ | [Luxembourg](Countries/Luxembourg.md) |
 | __?__ | Madagascar |                       <!-- M -->
 | __?__ | Malawi |
