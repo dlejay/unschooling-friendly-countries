@@ -70,7 +70,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Denmark |                          <!-- D -->
 | __?__ | Djibouti |
 | __✗__ | [Dominica](Countries/Dominica.md) |
-| __?__ | Dominican Republic |
+| __✓__ | [Dominican Republic](Countries/Dominican-Republic.md) |
 | __?__ | East Timor |                       <!-- E -->
 | __?__ | Ecuador |
 | __?__ | Egypt |
