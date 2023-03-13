@@ -139,7 +139,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Marshall Islands |
 | __?__ | Mauritania |
 | __?__ | Mauritius |
-| __?__ | Mexico |
+| __✗__ | [Mexico](Countries/Mexico.md) |
 | __?__ | Micronesia |
 | __?__ | Moldova |
 | __✓__ | [Monaco](Countries/Monaco.md) |
