@@ -31,7 +31,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✓__ | [Bahamas](Countries/Bahamas.md) |                          <!-- B -->
 | __?__ | Bahrain |
 | __?__ | Bangladesh |
-| __?__ | Barbados |
+| __✗__ | [Barbados](Countries/Barbados.md) |
 | __✗__ | [Belarus](Countries/Belarus.md) |
 | __✗__ | [Belgium](Countries/Belgium.md) |
 | __?__ | Belize |
