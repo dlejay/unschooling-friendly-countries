@@ -28,7 +28,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Australia |
 | __?__ | Austria |
 | __?__ | Azerbaijan |
-| __?__ | Bahamas |                          <!-- B -->
+| __✓__ | [Bahamas](Countries/Bahamas.md) |                          <!-- B -->
 | __?__ | Bahrain |
 | __?__ | Bangladesh |
 | __?__ | Barbados |
