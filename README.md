@@ -167,7 +167,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Pakistan |                         <!-- P -->
 | __?__ | Palau |
 | __?__ | Palestine |
-| __?__ | Panama |
+| __✗__ | [Panama](Countries/Panama.md) |
 | __?__ | Papua New Guinea |
 | __?__ | Paraguay |
 | __?__ | Peru |
