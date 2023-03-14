@@ -15,6 +15,7 @@ According to the Education Ordinance :
 > […]
 > 
 > **44** A child is excused from attendance at school–
+> 
 >   a) if, in the opinion of the Minister, he is receiving satisfactory instruction at home or elsewhere ;
 
 
