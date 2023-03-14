@@ -111,7 +111,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Israel |
 | __✗__ | [Italy](Countries/Italy.md) |
 | __?__ | Ivory Coast |
-| __?__ | Jamaica |                          <!-- J -->
+| __✓__ | [Jamaica](Countries/Jamaica.md) |  <!-- J -->
 | __?__ | Japan |
 | __?__ | Jersey |
 | __?__ | Jordan |
