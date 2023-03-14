@@ -24,7 +24,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Argentina](Countries/Argentina.md) |
 | __✗__ | [Armenia](Countries/Armenia.md) |
 | __?__ | Artsakh |
-| __?__ | Aruba |
+| __✗__ | [Aruba](Countries/Aruba.md) |
 | __?__ | Australia |
 | __?__ | Austria |
 | __?__ | Azerbaijan |
