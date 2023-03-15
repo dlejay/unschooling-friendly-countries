@@ -169,7 +169,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Palestine |
 | __✗__ | [Panama](Countries/Panama.md) |
 | __?__ | Papua New Guinea |
-| __?__ | Paraguay |
+| __✗__ | [Paraguay](Countries/Paraguay.md) |
 | __✓__ | [Peru](Countries/Peru.md) |
 | __?__ | Philippines |
 | __?__ | Pitcairn, Henderson, Ducie and Oeno Islands |
