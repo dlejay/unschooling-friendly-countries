@@ -235,7 +235,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Uzbekistan |
 | __?__ | Vanuatu |                          <!-- V -->
 | __✓__ | [Vatican City](Countries/Vatican-City.md) |
-| __?__ | Venezuela |
+| __~__ | [Venezuela](Countries/Venezuela.md) |
 | __?__ | Vietnam |
 | __?__ | Yemen |                            <!-- Y -->
 | __?__ | Zambia |                           <!-- Z -->
