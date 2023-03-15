@@ -154,7 +154,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Nepal |
 | __✗__ | [Netherlands](Countries/Netherlands.md) |
 | __?__ | New Zealand |
-| __?__ | Nicaragua |
+| __~__ | [Nicaragua](Countries/Nicaragua.md) |
 | __?__ | Niger |
 | __?__ | Nigeria |
 | __?__ | Niue |
