@@ -99,7 +99,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Guinea-Bissau |
 | __?__ | Guyana |
 | __✓__ | [Haiti](Countries/Haiti.md) |      <!-- H -->
-| __?__ | Honduras |
+| __✗__ | [Honduras](Countries/Honduras.md) |
 | __?__ | Hungary |
 | __?__ | Iceland |                          <!-- I -->
 | __?__ | India |
