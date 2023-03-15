@@ -214,7 +214,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Syria |
 | __?__ | Taiwan |                           <!-- T -->
 | __?__ | Tajikistan |
-| __?__ | Tanzania |
+| __✗__ | [Tanzania](Countries/Tanzania.md) |
 | __✗__ | [Thailand](Countries/Thailand.md) |
 | __?__ | Togo |
 | __?__ | Tonga |
