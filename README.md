@@ -80,7 +80,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Estonia |
 | __?__ | Eswatini |
 | __?__ | Ethiopia |
-| __?__ | Falkland Islands |                 <!-- F -->
+| __✗__ | [Falkland Islands](Countries/Falkland-Islands.md) |  <!-- F -->
 | __?__ | Fidji |
 | __?__ | Finland |
 | __✗__ | [France](Countries/France.md) |
