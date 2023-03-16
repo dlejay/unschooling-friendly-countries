@@ -72,7 +72,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Dominica](Countries/Dominica.md) |
 | __✓__ | [Dominican Republic](Countries/Dominican-Republic.md) |
 | __?__ | East Timor |                       <!-- E -->
-| __?__ | Ecuador |
+| __✗__ | [Ecuador](Countries/Ecuador.md) |
 | __?__ | Egypt |
 | __✓__ | [El Salvador](Countries/El-Salvador.md) |
 | __?__ | Equatorial Guinea |
