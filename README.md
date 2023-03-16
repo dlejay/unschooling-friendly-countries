@@ -230,7 +230,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | United Arab Emirates |
 | __?__ | United Kingdom |
 | __?__ | United States |
-| __✓__ | [U. S. Virgin Islands](Countries/US-Virgin-Islands.md) |
+| __✗__ | [U. S. Virgin Islands](Countries/US-Virgin-Islands.md) |
 | __✗__ | [Uruguay](Countries/Uruguay.md) |
 | __?__ | Uzbekistan |
 | __?__ | Vanuatu |                          <!-- V -->
