@@ -54,7 +54,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Cayman Islands](Countries/Cayman-Islands.md) |
 | __?__ | Centrafrique |
 | __?__ | Chad |
-| __?__ | Chile |
+| __✓__ | [Chile](Countries/Chile.md) |
 | __?__ | China |
 | __✓__ | [Colombia](Countries/Colombia.md) |
 | __?__ | Comoros |
