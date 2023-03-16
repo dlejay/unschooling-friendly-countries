@@ -74,7 +74,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | East Timor |                       <!-- E -->
 | __?__ | Ecuador |
 | __?__ | Egypt |
-| __?__ | El Salvador |
+| __✓__ | [El Salvador](Countries/El-Salvador.md) |
 | __?__ | Equatorial Guinea |
 | __?__ | Eritrea |
 | __?__ | Estonia |
