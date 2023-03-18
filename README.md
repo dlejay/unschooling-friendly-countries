@@ -48,7 +48,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Burkina Faso |
 | __?__ | Burundi |
 | __?__ | Cambodia |                         <!-- C -->
-| __?__ | Cameroon |
+| __✗__ | [Cameroon](Countries/Cameroon.md) |
 | __?__ | Canada |
 | __?__ | Cape Verde |
 | __✗__ | [Cayman Islands](Countries/Cayman-Islands.md) |
