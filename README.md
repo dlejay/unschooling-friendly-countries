@@ -232,7 +232,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | United States |
 | __✗__ | [U. S. Virgin Islands](Countries/US-Virgin-Islands.md) |
 | __✗__ | [Uruguay](Countries/Uruguay.md) |
-| __?__ | Uzbekistan |
+| __✗__ | [Uzbekistan](Countries/Uzbekistan.md) |
 | __?__ | Vanuatu |                          <!-- V -->
 | __✓__ | [Vatican City](Countries/Vatican-City.md) |
 | __~__ | [Venezuela](Countries/Venezuela.md) |
