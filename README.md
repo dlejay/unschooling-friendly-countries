@@ -212,7 +212,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Sweden](Countries/Sweden.md) |
 | __✗__ | [Switzerland](Countries/Switzerland/README.md) |
 | __?__ | Syria |
-| __?__ | Taiwan |                           <!-- T -->
+| __✗__ | [Taiwan](Countries/Taiwan.md) |    <!-- T -->
 | __?__ | Tajikistan |
 | __✗__ | [Tanzania](Countries/Tanzania.md) |
 | __✗__ | [Thailand](Countries/Thailand.md) |
