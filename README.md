@@ -195,7 +195,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Sierra Leone](Countries/Sierra-Leone.md) |
 | __?__ | Singapore |
 | __✗__ | [Sint Maarten](Countries/Sint-Maarten.md) |
-| __?__ | Slovakia |
+| __✗__ | [Slovakia](Countries/Slovakia.md) |
 | __?__ | Slovenia |
 | __?__ | Solomon Islands |
 | __?__ | Somalia |
