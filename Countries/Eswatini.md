@@ -10,7 +10,7 @@ According to The Free Primary Education Act :
 
 > *Offences*
 > 
-> 10. (1) A parent of a child to whom this Act applies who neglects or refuses to cause the child to attend school, unless the child is excllsed under section 11, commits an offence and is liable on con\'iction to a fine
+> 10. (1) A parent of a child to whom this Act applies who neglects or refuses to cause the child to attend school, unless the child is excused under section 11, commits an offence and is liable on conviction to a fine
 > not exceeding E1,000 or in default of which, to three months commutiny services.
 
 ## Sources
