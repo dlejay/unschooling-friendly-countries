@@ -78,7 +78,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Equatorial Guinea |
 | __?__ | Eritrea |
 | __?__ | Estonia |
-| __?__ | Eswatini |
+| __✗__ | [Eswatini](Countries/Eswatini.md) |
 | __?__ | Ethiopia |
 | __✗__ | [Falkland Islands](Countries/Falkland-Islands.md) |  <!-- F -->
 | __?__ | Fidji |
