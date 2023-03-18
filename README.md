@@ -29,7 +29,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Austria](Countries/Austria.md) |
 | __?__ | Azerbaijan |
 | __✓__ | [Bahamas](Countries/Bahamas.md) |                          <!-- B -->
-| __?__ | Bahrain |
+| __✓__ | [Bahrain](Countries/Bahrain.md) |
 | __?__ | Bangladesh |
 | __✗__ | [Barbados](Countries/Barbados.md) |
 | __✗__ | [Belarus](Countries/Belarus.md) |
