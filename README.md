@@ -62,7 +62,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Congo-Kinshasa |
 | __?__ | Cook Islands |
 | __✗__ | [Costa Rica](Countries/Costa-Rica.md) |
-| __?__ | Croatia |
+| __✗__ | [Croatia](Countries/Croatia.md) |
 | __✗__ | [Cuba](Countries/Cuba.md) |
 | __✗__ | [Curaçao](Countries/Curaçao.md) |
 | __✗__ | [Cyprus](Countries/Cyprus.md) |
