@@ -35,7 +35,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Belarus](Countries/Belarus.md) |
 | __✗__ | [Belgium](Countries/Belgium.md) |
 | __✗__ | [Belize](Countries/Belize.md) |
-| __?__ | Benin |
+| __✓__ | [Benin](Countries/Benin.md) |
 | __✗__ | [Bermuda](Countries/Bermuda.md) |
 | __?__ | [Bhutan](Countries/Bhutan.md) |
 | __✓__ | [Bolivia](Countries/Bolivia.md) |
