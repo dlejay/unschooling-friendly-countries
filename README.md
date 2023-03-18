@@ -40,7 +40,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | [Bhutan](Countries/Bhutan.md) |
 | __✓__ | [Bolivia](Countries/Bolivia.md) |
 | __✗__ | [Bosnia and Herzegovina](Countries/Bosnia-Herzegoniva.md) |
-| __?__ | Botswana |
+| __✓__ | [Botswana](Countries/Botswana.md) |
 | __✗__ | [Brazil](Countries/Brazil.md) |
 | __✗__ | [British Virgin Islands](Countries/British-Virgin-Islands.md) |
 | __✗__ | [Brunei](Countries/Brunei.md) |
