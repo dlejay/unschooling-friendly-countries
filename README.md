@@ -201,7 +201,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Somalia |
 | __?__ | Somaliland |
 | __?__ | South Africa |
-| __?__ | South Korea |
+| __✗__ | [South Korea](Countries/South-Korea.md) |
 | __?__ | South Ossetia |
 | __?__ | South Sudan |
 | __?__ | Sovereign Base Areas of Akrotiri and Dhekelia |
