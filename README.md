@@ -60,7 +60,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Comoros |
 | __?__ | Congo-Brazzaville |
 | __?__ | Congo-Kinshasa |
-| __?__ | Cook Islands |
+| __✗__ | [Cook Islands](Countries/Cook-Islands.md) |
 | __✗__ | [Costa Rica](Countries/Costa-Rica.md) |
 | __✗__ | [Croatia](Countries/Croatia.md) |
 | __✗__ | [Cuba](Countries/Cuba.md) |
