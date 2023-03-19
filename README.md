@@ -165,7 +165,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Norway |
 | __?__ | Oman |                             <!-- O -->
 | __?__ | Pakistan |                         <!-- P -->
-| __?__ | Palau |
+| __✗__ | [Palau](Countries/Palau.md) |
 | __?__ | Palestine |
 | __✗__ | [Panama](Countries/Panama.md) |
 | __?__ | Papua New Guinea |
