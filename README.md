@@ -171,7 +171,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Papua New Guinea |
 | __✗__ | [Paraguay](Countries/Paraguay.md) |
 | __✓__ | [Peru](Countries/Peru.md) |
-| __?__ | Philippines |
+| __✗__ | [Philippines](Countries/Philippines.md) |
 | __?__ | Pitcairn, Henderson, Ducie and Oeno Islands |
 | __✗__ | [Poland](Countries/Poland.md) |
 | __?__ | Portugal |
