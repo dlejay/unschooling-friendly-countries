@@ -150,7 +150,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Mozambique |
 | __?__ | Myanmar |
 | __?__ | Namibia |                          <!-- N -->
-| __?__ | Nauru |
+| __✗__ | [Nauru](Countries/Nauru.md) |
 | __?__ | Nepal |
 | __✗__ | [Netherlands](Countries/Netherlands.md) |
 | __?__ | New Zealand |
