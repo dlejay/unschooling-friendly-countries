@@ -239,4 +239,4 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Vietnam |
 | __?__ | Yemen |                            <!-- Y -->
 | __?__ | Zambia |                           <!-- Z -->
-| __?__ | Zimbabwe |
+| __✗__ | [Zimbabwe](Countries/Zimbabwe.md) |
