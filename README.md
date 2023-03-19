@@ -176,7 +176,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Poland](Countries/Poland.md) |
 | __✗__ | [Portugal](Countries/Portugal.md) |
 | __✗__ | [Puerto Rico](Countries/Puerto-Rico.md) |
-| __?__ | Qatar |                            <!-- Q -->
+| __✗__ | [Qatar](Countries/Qatar.md) |                            <!-- Q -->
 | __?__ | Romania |                          <!-- R -->
 | __✓__ | [Russia](Countries/Russia.md) |
 | __?__ | Rwanda |
