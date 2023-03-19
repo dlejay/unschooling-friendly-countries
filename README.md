@@ -122,7 +122,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Kuwait |
 | __?__ | Kyrgyzstan |
 | __?__ | Laos |                             <!-- L -->
-| __?__ | Latvia |
+| __✗__ | [Latvia](Countries/Latvia.md) |
 | __?__ | Lebanon |
 | __?__ | Lesotho |
 | __?__ | Liberia |
