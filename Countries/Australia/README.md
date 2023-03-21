@@ -1,8 +1,8 @@
 # Unschooling in Australia
 
-Australia is a federal country in which states are responsible for homeschooling laws.
+Australia is a federal country in which states and territories are responsible for homeschooling laws.
 
-## List of states
+## List of states and territories
 
 | | States |
 | - | :------ |
@@ -12,3 +12,5 @@ Australia is a federal country in which states are responsible for homeschooling
 | __?__ | Western Australia |
 | __?__ | South Australia |
 | __?__ | Tasmania |
+| __?__ | Northern Territory |
+| __?__ | Australian Capital Territory |
