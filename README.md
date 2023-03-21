@@ -57,7 +57,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✓__ | [Chile](Countries/Chile.md) |
 | __?__ | China |
 | __✓__ | [Colombia](Countries/Colombia.md) |
-| __?__ | Comoros |
+| __?__ | [Comoros](Countries/Comoros.md) |
 | __?__ | Congo-Brazzaville |
 | __?__ | Congo-Kinshasa |
 | __✗__ | [Cook Islands](Countries/Cook-Islands.md) |
