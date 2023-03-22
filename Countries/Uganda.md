@@ -1,4 +1,7 @@
 # Unschooling in Uganda
+| | |
+|-|-|
+| __✓__ | Homeschooling is a legal form of schooling |
 
 ## Context
 
