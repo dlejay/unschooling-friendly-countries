@@ -163,7 +163,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Northern Mariana Islands](Countries/Northern-Mariana-Islands.md) |
 | __?__ | Northern Cyprus |
 | __?__ | Norway |
-| __?__ | Oman |                             <!-- O -->
+| __✗__ | [Oman](Countries/Oman.md) |                             <!-- O -->
 | __?__ | Pakistan |                         <!-- P -->
 | __✗__ | [Palau](Countries/Palau.md) |
 | __?__ | Palestine |
