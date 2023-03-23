@@ -82,7 +82,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Ethiopia |
 | __✗__ | [Falkland Islands](Countries/Falkland-Islands.md) |  <!-- F -->
 | __✗__ | [Fidji](Countries/Fidji.md) |
-| __?__ | Finland |
+| __✗__ | [Finland](Countries/Finland.md) |
 | __✗__ | [France](Countries/France.md) |
 | __?__ | Gabon |                            <!-- G -->
 | __✓__ | [Gambia](Countries/Gambia.md) |
