@@ -50,7 +50,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Cambodia |                         <!-- C -->
 | __✗__ | [Cameroon](Countries/Cameroon.md) |
 | __?__ | Canada |
-| __?__ | Cape Verde |
+| __✗__ | [Cape Verde](Countries/Cape-Verde.md) |
 | __✗__ | [Cayman Islands](Countries/Cayman-Islands.md) |
 | __?__ | [Centrafrique](Countries/Centrafrique.md) |
 | __?__ | [Chad](Countries/Chad.md) |
