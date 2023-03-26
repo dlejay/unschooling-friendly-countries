@@ -147,7 +147,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Montenegro](Countries/Montenegro.md) |
 | __✗__ | [Montserrat](Countries/Montserrat.md) |
 | __?__ | Morocco |
-| __?__ | Mozambique |
+| __?__ | [Mozambique](Countries/Mozambique.md) |
 | __?__ | Myanmar |
 | __?__ | Namibia |                          <!-- N -->
 | __✗__ | [Nauru](Countries/Nauru.md) |
