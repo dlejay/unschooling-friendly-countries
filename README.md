@@ -131,7 +131,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Lithuania](Countries/Lithuania.md) |
 | __✗__ | [Luxembourg](Countries/Luxembourg.md) |
 | __?__ | Madagascar |                       <!-- M -->
-| __?__ | Malawi |
+| __?__ | [Malawi](Countries/Malawi.md) |
 | __✗__ | [Malaysia](Countries/Malaysia.md) |
 | __✗__ | [Maldives](Countries/Maldives.md) |
 | __?__ | [Mali](Countries/Mali.md) |
