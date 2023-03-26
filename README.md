@@ -120,7 +120,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Kiribati](Countries/Kiribati.md) |
 | __?__ | Kosovo |
 | __?__ | Kuwait |
-| __?__ | Kyrgyzstan |
+| __✗__ | [Kyrgyzstan](Countries/Kyrgyzstan.md) |
 | __?__ | Laos |                             <!-- L -->
 | __✗__ | [Latvia](Countries/Latvia.md) |
 | __?__ | Lebanon |
