@@ -158,7 +158,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | [Niger](Countries/Niger.md) |
 | __✗__ | [Nigeria](Countries/Nigeria.md) |
 | __?__ | [Niue](Countries/Niue.md) |
-| __?__ | North Korea |
+| __✗__ | [North Korea](Countries/North-Korea.md) |
 | __✗__ | [Northern Macedonia](Countries/Northern-Macedonia.md) |
 | __✗__ | [Northern Mariana Islands](Countries/Northern-Mariana-Islands.md) |
 | __?__ | Northern Cyprus |
