@@ -116,7 +116,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Jersey |
 | __?__ | Jordan |
 | __?__ | Kazakhstan |                       <!-- K -->
-| __?__ | Kenya |
+| __✗__ | [Kenya](Countries/Kenya.md) |
 | __✗__ | [Kiribati](Countries/Kiribati.md) |
 | __?__ | Kosovo |
 | __?__ | Kuwait |
