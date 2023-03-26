@@ -125,7 +125,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Latvia](Countries/Latvia.md) |
 | __?__ | Lebanon |
 | __?__ | [Lesotho](Countries/Lesotho.md) |
-| __?__ | Liberia |
+| __?__ | [Liberia](Countries/Liberia.md) |
 | __✗__ | [Libya](Countries/Libya.md) |
 | __✗__ | [Liechtenstein](Countries/Liechtenstein.md) |
 | __✗__ | [Lithuania](Countries/Lithuania.md) |
