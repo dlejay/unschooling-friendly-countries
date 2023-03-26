@@ -59,7 +59,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✓__ | [Colombia](Countries/Colombia.md) |
 | __?__ | [Comoros](Countries/Comoros.md) |
 | __✗__ | [Congo-Brazzaville](Countries/Congo-Brazzaville.md) |
-| __?__ | Congo-Kinshasa |
+| __?__ | [Congo-Kinshasa](Countries/Congo-Kinshasa.md) |
 | __✗__ | [Cook Islands](Countries/Cook-Islands.md) |
 | __✗__ | [Costa Rica](Countries/Costa-Rica.md) |
 | __✗__ | [Croatia](Countries/Croatia.md) |
