@@ -200,7 +200,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | [Solomon Islands](Countries/Solomon-Islands.md) |
 | __?__ | [Somalia](Countries/Somalia.md) |
 | __?__ | Somaliland |
-| __?__ | South Africa |
+| __✓__ | [South Africa](Countries/South-Africa.md) |
 | __✗__ | [South Korea](Countries/South-Korea.md) |
 | __?__ | South Ossetia |
 | __✗__ | [South Sudan](Countries/South-Sudan.md) |
