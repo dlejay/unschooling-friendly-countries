@@ -1,4 +1,4 @@
-# Unschooling in Sudan
+# Unschooling in South Sudan
 | | |
 |-|-|
 | __✗__ | Homeschooling is a legal form of schooling |
