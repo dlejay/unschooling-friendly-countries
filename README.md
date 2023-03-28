@@ -203,11 +203,11 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | South Africa |
 | __✗__ | [South Korea](Countries/South-Korea.md) |
 | __?__ | South Ossetia |
-| __?__ | South Sudan |
+| __✗__ | [South Sudan](Countries/South-Sudan.md) |
 | __?__ | Sovereign Base Areas of Akrotiri and Dhekelia |
 | __✗__ | [Spain](Countries/Spain.md) |
 | __✓__ | [Sri Lanka](Countries/Sri-Lanka.md) |
-| __✗__ | [Sudan](Countries/Sudan.md) |
+| __?__ | Sudan |
 | __✗__ | [Suriname](Countries/Suriname.md) |
 | __✗__ | [Sweden](Countries/Sweden.md) |
 | __✗__ | [Switzerland](Countries/Switzerland/README.md) |
