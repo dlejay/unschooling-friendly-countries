@@ -7,7 +7,7 @@ Australia is a federal country in which states and territories are responsible f
 | | States |
 | - | :------ |
 | __?__ | New South Wales |
-| __?__ | Victoria |
+| __✗__ | [Victoria](Victoria.md) |
 | __✗__ | [Queensland](Queensland.md) |
 | __✗__ | [Western Australia](Western-Australia.md) |
 | __?__ | South Australia |
