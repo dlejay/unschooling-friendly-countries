@@ -10,7 +10,7 @@ Australia is a federal country in which states and territories are responsible f
 | __✗__ | [Victoria](Victoria.md) |
 | __✗__ | [Queensland](Queensland.md) |
 | __✗__ | [Western Australia](Western-Australia.md) |
-| __?__ | South Australia |
+| __✗__ | [South Australia](South-Australia.md) |
 | __✗__ | [Tasmania](Tasmania.md) |
 | __?__ | Northern Territory |
 | __?__ | Australian Capital Territory |
