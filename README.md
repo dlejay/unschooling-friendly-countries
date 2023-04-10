@@ -108,7 +108,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Iraq |
 | __?__ | Ireland |
 | __✓__ | [Isle of Man](Countries/Isle-of-Man.md) |
-| __?__ | Israel |
+| __✗__ | [Israel](Countries/Israel.md) |
 | __✗__ | [Italy](Countries/Italy.md) |
 | __?__ | Ivory Coast |
 | __✓__ | [Jamaica](Countries/Jamaica.md) |  <!-- J -->
