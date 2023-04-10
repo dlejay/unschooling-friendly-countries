@@ -189,7 +189,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [San Marino](Countries/San-Marino.md) |
 | __?__ | São Tomé and Príncipe |
 | __✗__ | [Saudi Arabia](Countries/Saudi-Arabia.md) |
-| __?__ | Senegal |
+| __?__ | [Senegal](Countries/Senegal.md) |
 | __✗__ | [Serbia](Countries/Serbia.md) |
 | __?__ | Seychelles |
 | __✗__ | [Sierra Leone](Countries/Sierra-Leone.md) |
