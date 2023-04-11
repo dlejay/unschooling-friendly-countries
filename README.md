@@ -121,7 +121,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Kosovo |
 | __?__ | Kuwait |
 | __✗__ | [Kyrgyzstan](Countries/Kyrgyzstan.md) |
-| __?__ | Laos |                             <!-- L -->
+| __?__ | [Laos](Countries/Laos.md) |                             <!-- L -->
 | __✗__ | [Latvia](Countries/Latvia.md) |
 | __?__ | Lebanon |
 | __?__ | [Lesotho](Countries/Lesotho.md) |
