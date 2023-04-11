@@ -8,4 +8,4 @@ China has two special administrative regions : Hong Kong and Macao.
 | - | :------ |
 | __?__ | Hong Kong |
 | __?__ | Macao |
-| __?__ | Mainland |
+| __✗__ | [Mainland](Countries/Mainland.md) |
