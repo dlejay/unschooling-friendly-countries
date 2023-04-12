@@ -114,7 +114,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✓__ | [Jamaica](Countries/Jamaica.md) |  <!-- J -->
 | __✗__ | [Japan](Countries/Japan.md) |
 | __?__ | Jersey |
-| __?__ | Jordan |
+| __✗__ | [Jordan](Countries/Jordan.md) |
 | __?__ | Kazakhstan |                       <!-- K -->
 | __✗__ | [Kenya](Countries/Kenya.md) |
 | __✗__ | [Kiribati](Countries/Kiribati.md) |
