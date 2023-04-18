@@ -187,7 +187,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Saint Vincent and the Grenadines](Countries/Saint-Vincent-and-the-Grenadines.md) |
 | __?__ | [Samoa](Countries/Samoa.md) |
 | __✗__ | [San Marino](Countries/San-Marino.md) |
-| __?__ | São Tomé and Príncipe |
+| __?__ | [São Tomé and Príncipe](Countries/São-Tomé-and-Príncipe.md) |
 | __✗__ | [Saudi Arabia](Countries/Saudi-Arabia.md) |
 | __?__ | [Senegal](Countries/Senegal.md) |
 | __✗__ | [Serbia](Countries/Serbia.md) |
