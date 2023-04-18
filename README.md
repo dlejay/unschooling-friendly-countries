@@ -143,7 +143,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Micronesia](Countries/Micronesia.md) |
 | __✗__ | [Moldova](Countries/Moldova.md) |
 | __✓__ | [Monaco](Countries/Monaco.md) |
-| __?__ | Mongolia |
+| __✓__ | [Mongolia](Countries/Mongolia.md) |
 | __✗__ | [Montenegro](Countries/Montenegro.md) |
 | __✗__ | [Montserrat](Countries/Montserrat.md) |
 | __✓__ | [Morocco](Countries/Morocco.md) |
