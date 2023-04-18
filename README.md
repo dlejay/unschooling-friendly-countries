@@ -204,7 +204,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [South Korea](Countries/South-Korea.md) |
 | __?__ | South Ossetia |
 | __✗__ | [South Sudan](Countries/South-Sudan.md) |
-| __?__ | Sovereign Base Areas of Akrotiri and Dhekelia |
+| __✗__ | [Sovereign Base Areas of Akrotiri and Dhekelia](Countries/SBAs.md) |
 | __✗__ | [Spain](Countries/Spain.md) |
 | __✓__ | [Sri Lanka](Countries/Sri-Lanka.md) |
 | __?__ | [Sudan](Countries/Sudan.md) |
