@@ -180,7 +180,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Romania](Countries/Romania.md) |                          <!-- R -->
 | __✓__ | [Russia](Countries/Russia.md) |
 | __✓__ | [Rwanda](Countries/Rwanda.md) |
-| __?__ | Sahrawi ADR |                      <!-- S -->
+| __✓__ | [Sahrawi ADR](Countries/SADR.md) |                      <!-- S -->
 | __✓__ | [Saint Helena, Ascension and Tristan da Cunha](Countries/Saint-Helena.md) |
 | __✗__ | [Saint Kitts and Nevis](Countries/Saint-Kitts-and-Nevis.md) |
 | __✗__ | [Saint Lucia](Countries/Saint-Lucia.md) |
