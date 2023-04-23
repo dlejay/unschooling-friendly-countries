@@ -12,7 +12,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 
 | | Countries |
 | - | :------ |
-| __?__ | Abkhazia |                         <!-- A -->
+| __✓__ | [Abkhazia](Countries/Abkhazia.md) |                         <!-- A -->
 | __✗__ | [Afghanistan](Countries/Afghanistan.md) |
 | __✗__ | [Albania](Countries/Albania.md) |
 | __✓__ | [Algeria](Countries/Algeria.md) |
