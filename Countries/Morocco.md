@@ -1,16 +1,17 @@
 # Unschooling in Morocco
 | | |
 |-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
+| __✗__ | Homeschooling is a legal form of schooling |
 
 ## Context
 
-In Morocco, homeschooling is free from state supervision.
+According to a Reddit user :
+
+> Homeschooling is technically illegal in Morocco except for children over 16. The old law mandating formal education for children does seem to only apply to Moroccan children, but a more recent law from 2019 doesn't make a distinction between Moroccan and non-citizen children.
+
+Preschooling is also becoming compulsory.
 
 ## Sources
 
-* [_Le homeschooling en vogue au Maroc_](https://lematin.ma/journal/2020/homeschooling-vogue-maroc/344296.html)
-* [_‘‘Homeschooling’’, l'école livrée à domicile !_](http://www.babmagazine.ma/homeschooling-lecole-livree-domicile)
-* [_ÉCOLE À LA MAISON, IEF AU MAROC_](https://www.youtube.com/watch?v=OaBkSbOur_A)
+* [reddit](https://www.reddit.com/r/Morocco/comments/11ngbz1/homeschooling_in_morocco/)
+* [Preschool education to become compulsory in Morocco](https://www.moroccoworldnews.com/2020/12/330039/preschool-education-to-become-compulsory-in-morocco/)
