@@ -18,4 +18,4 @@ Canada is a federal country in which provinces and territories are responsible f
 | __✓__ | [Prince Edward Island](Prince-Edward-Island.md) |
 | __?__ | Quebec |
 | __?__ | Saskatchewan |
-| __?__ | Yukon |
+| __✗__ | [Yukon](Yukon.md) |
