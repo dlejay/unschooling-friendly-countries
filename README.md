@@ -49,7 +49,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | [Burundi](Countries/Burundi.md) |
 | __✓__ | [Cambodia](Countries/Cambodia.md) |                         <!-- C -->
 | __✗__ | [Cameroon](Countries/Cameroon.md) |
-| __?__ | Canada |
+| __~__ | [Canada](Countries/Canada/README.md) |
 | __✗__ | [Cape Verde](Countries/Cape-Verde.md) |
 | __✗__ | [Cayman Islands](Countries/Cayman-Islands.md) |
 | __?__ | [Centrafrique](Countries/Centrafrique.md) |
