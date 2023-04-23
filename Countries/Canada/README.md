@@ -15,7 +15,7 @@ Canada is a federal country in which provinces and territories are responsible f
 | __✓__ | [Nova Scotia](Nova-Scotia.md) |
 | __?__ | Nunavut |
 | __?__ | Ontario |
-| __?__ | Prince Edward Island |
+| __✓__ | [Prince Edward Island](Prince-Edward-Island.md) |
 | __?__ | Quebec |
 | __?__ | Saskatchewan |
 | __?__ | Yukon |
