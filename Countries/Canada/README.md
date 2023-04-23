@@ -9,7 +9,7 @@ Canada is a federal country in which provinces and territories are responsible f
 | __✗__ | [Alberta](Alberta.md) |
 | __✓__ | [British Columbia](British-Columbia.md) |
 | __✓__ | [Manitoba](Manitoba.md) |
-| __?__ | New Brunswick |
+| __✗__ | [New Brunswick](New-Brunswick.md) |
 | __?__ | Newfoundland and Labrador |
 | __?__ | Northwest Territories |
 | __?__ | Nova Scotia |
