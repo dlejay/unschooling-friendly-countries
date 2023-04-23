@@ -100,7 +100,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | [Guyana](Countries/Guyana.md) |
 | __✓__ | [Haiti](Countries/Haiti.md) |      <!-- H -->
 | __✗__ | [Honduras](Countries/Honduras.md) |
-| __?__ | Hungary |
+| __✗__ | [Hungary](Countries/Hungary.md) |
 | __✗__ | [Iceland](Countries/Iceland.md) |  <!-- I -->
 | __?__ | India |
 | __✓__ | [Indonesia](Countries/Indonesia.md) |
