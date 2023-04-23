@@ -10,6 +10,7 @@
 According to the Education Reform Act :
 
 > HOME EDUCATION
+> 
 > 83 (1) A parent may provide to a child of the parent a home education program centred in the child's home.
 >
 > (2) A parent providing a home education program to a child shall, as prescribed by the regulations,
