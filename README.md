@@ -119,7 +119,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Kenya](Countries/Kenya.md) |
 | __✗__ | [Kiribati](Countries/Kiribati.md) |
 | __✗__ | [Kosovo](Countries/Kosovo.md) |
-| __?__ | Kuwait |
+| __✓__ | [Kuwait](Countries/Kuwait.md) |
 | __✗__ | [Kyrgyzstan](Countries/Kyrgyzstan.md) |
 | __?__ | [Laos](Countries/Laos.md) |                             <!-- L -->
 | __✗__ | [Latvia](Countries/Latvia.md) |
