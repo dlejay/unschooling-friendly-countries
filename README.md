@@ -110,7 +110,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✓__ | [Isle of Man](Countries/Isle-of-Man.md) |
 | __✗__ | [Israel](Countries/Israel.md) |
 | __✗__ | [Italy](Countries/Italy.md) |
-| __?__ | Ivory Coast |
+| __✗__ | [Ivory Coast](Countries/Ivory-Coast.md) |
 | __✓__ | [Jamaica](Countries/Jamaica.md) |  <!-- J -->
 | __✗__ | [Japan](Countries/Japan.md) |
 | __?__ | Jersey |
