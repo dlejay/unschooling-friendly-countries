@@ -88,7 +88,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✓__ | [Gambia](Countries/Gambia.md) |
 | __?__ | Georgia |
 | __✗__ | [Germany](Countries/Germany.md) |
-| __?__ | Ghana |
+| __✗__ | [Ghana](Countries/Ghana.md) |
 | __✓__ | [Gibraltar](Countries/Gibraltar.md) |
 | __✗__ | [Greece](Countries/Greece.md) |
 | __✗__ | [Grenada](Countries/Grenada.md) |
