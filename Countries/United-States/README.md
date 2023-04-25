@@ -9,7 +9,7 @@ are decided in each individual State.
 
 |   | State |
 | - |   -   |
-| __?__ | Alaska |
+| __✓__ | [Alaska](Alaska.md) |
 | __✗__ | [Alabama](Alabama.md) |
 | __✓__ | [Arkansas](Arkansas.md) |
 | __✗__ | Arizona |
