@@ -40,7 +40,7 @@ are decided in each individual State.
 | __✗__ | North Dakota |
 | __✗__ | Nebraska |
 | __✗__ | New Hampshire |
-| __✓__ | [New Jersey](New-Jersey.md) |
+| __✗__ | [New Jersey](New-Jersey.md) |
 | __✗__ | New Mexico |
 | __✗__ | Nevada |
 | __✗__ | New York |
