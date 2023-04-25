@@ -1,4 +1,4 @@
-# Unschooling in Tenessee
+# Unschooling in Tennessee
 | | |
 |-|-|
 | __✓__ | Homeschooling is a legal form of schooling |
