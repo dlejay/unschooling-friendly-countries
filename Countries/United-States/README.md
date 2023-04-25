@@ -10,7 +10,7 @@ are decided in each individual State.
 |   | State |
 | - |   -   |
 | __?__ | Alaska |
-| __?__ | Alabama |
+| __✗__ | [Alabama](Alabama.md) |
 | __✓__ | [Arkansas](Arkansas.md) |
 | __✗__ | Arizona |
 | __✗__ | California |
