@@ -7,8 +7,8 @@ are decided in each individual State.
 
 ## List of States
 
-|   |       |
-| - | State |
+|   | State |
+| - |   -   |
 | __?__ | Alaska |
 | __?__ | Alabama |
 | __?__ | Arkansas |
