@@ -51,7 +51,7 @@ are decided in each individual State.
 | __✗__ | Rhode Island |
 | __✗__ | South Carolina |
 | __✗__ | South Dakota |
-| __?__ | Tennessee |
+| __✗__ | [Tennessee](Tennessee.md) |
 | __✗__ | Texas |
 | __✗__ | Utah |
 | __?__ | Virginia |
