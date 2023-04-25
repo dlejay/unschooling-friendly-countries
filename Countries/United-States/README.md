@@ -20,7 +20,7 @@ are decided in each individual State.
 | __?__ | Delaware |
 | __?__ | Florida |
 | __✗__ | Georgia |
-| __?__ | Hawaii |
+| __✗__ | [Hawaii](Hawaii.md) |
 | __✗__ | [Iowa](Iowa.md) |
 | __✗__ | Idaho |
 | __✗__ | Illinois |
