@@ -229,7 +229,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | Ukraine |
 | __✗__ | [United Arab Emirates](Countries/UAE.md) |
 | __?__ | United Kingdom |
-| __?__ | United States |
+| __~__ | [United States](Countries/United-States/README.md) |
 | __✗__ | [U. S. Virgin Islands](Countries/US-Virgin-Islands.md) |
 | __✗__ | [Uruguay](Countries/Uruguay.md) |
 | __✗__ | [Uzbekistan](Countries/Uzbekistan.md) |
