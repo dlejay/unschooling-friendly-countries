@@ -36,7 +36,7 @@ are decided in each individual State.
 | __✗__ | Missouri |
 | __?__ | Mississippi |
 | __✗__ | Montana |
-| __?__ | North Carolina |
+| __✗__ | [North Carolina](North-Carolina.md) |
 | __✗__ | North Dakota |
 | __✗__ | Nebraska |
 | __✗__ | New Hampshire |
