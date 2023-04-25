@@ -1,4 +1,4 @@
-# Unschooling in Mississipi
+# Unschooling in Mississippi
 | | |
 |-|-|
 | __✓__ | Homeschooling is a legal form of schooling |
