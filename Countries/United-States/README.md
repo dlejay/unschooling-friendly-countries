@@ -54,7 +54,7 @@ are decided in each individual State.
 | __✗__ | [Tennessee](Tennessee.md) |
 | __✗__ | Texas |
 | __✗__ | Utah |
-| __?__ | Virginia |
+| __✗__ | [Virginia](Virginia.md) |
 | __✗__ | Vermont |
 | __✗__ | Washington |
 | __✗__ | Wisconsin |
