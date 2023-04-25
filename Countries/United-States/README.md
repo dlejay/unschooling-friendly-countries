@@ -17,7 +17,7 @@ are decided in each individual State.
 | __✗__ | Colorado |
 | __✗__ | Connecticut |
 | __?__ | District of Columbia |
-| __?__ | Delaware |
+| __✓__ | [Delaware](Delaware.md) |
 | __✓__ | [Florida](Florida.md) |
 | __✗__ | Georgia |
 | __✗__ | [Hawaii](Hawaii.md) |
