@@ -25,7 +25,7 @@ are decided in each individual State.
 | __✗__ | Idaho |
 | __✗__ | Illinois |
 | __?__ | Indiana |
-| __?__ | Kansas |
+| __✗__ | [Kansas](Kansas.md) |
 | __✗__ | Kentucky |
 | __✗__ | Louisiana |
 | __✗__ | Massachusetts |
