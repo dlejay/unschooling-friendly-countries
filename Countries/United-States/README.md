@@ -11,7 +11,7 @@ are decided in each individual State.
 | - |   -   |
 | __?__ | Alaska |
 | __?__ | Alabama |
-| __?__ | Arkansas |
+| __✓__ | [Arkansas](Arkansas.md) |
 | __✗__ | Arizona |
 | __✗__ | California |
 | __✗__ | Colorado |
