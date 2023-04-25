@@ -21,7 +21,7 @@ are decided in each individual State.
 | __?__ | Florida |
 | __✗__ | Georgia |
 | __?__ | Hawaii |
-| __?__ | Iowa |
+| __✗__ | [Iowa](Iowa.md) |
 | __✗__ | Idaho |
 | __✗__ | Illinois |
 | __✗__ | [Indiana](Indiana.md) |
