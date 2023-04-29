@@ -193,7 +193,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Serbia](Countries/Serbia.md) |
 | __?__ | Seychelles |
 | __✗__ | [Sierra Leone](Countries/Sierra-Leone.md) |
-| __?__ | Singapore |
+| __✗__ | [Singapore](Countries/Singapore.md) |
 | __✗__ | [Sint Maarten](Countries/Sint-Maarten.md) |
 | __✗__ | [Slovakia](Countries/Slovakia.md) |
 | __✗__ | [Slovenia](Countries/Slovenia.md) |
