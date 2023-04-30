@@ -161,7 +161,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [North Korea](Countries/North-Korea.md) |
 | __✗__ | [Northern Macedonia](Countries/Northern-Macedonia.md) |
 | __✗__ | [Northern Mariana Islands](Countries/Northern-Mariana-Islands.md) |
-| __?__ | Northern Cyprus |
+| __✗__ | [Northern Cyprus](Countries/Northern-Cyprus.md) |
 | __✗__ | [Norway](Countries/Norway.md) |
 | __✗__ | [Oman](Countries/Oman.md) |                             <!-- O -->
 | __?__ | Pakistan |                         <!-- P -->
