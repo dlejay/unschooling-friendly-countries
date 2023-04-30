@@ -191,7 +191,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Saudi Arabia](Countries/Saudi-Arabia.md) |
 | __?__ | [Senegal](Countries/Senegal.md) |
 | __✗__ | [Serbia](Countries/Serbia.md) |
-| __?__ | Seychelles |
+| __✗__ | [Seychelles](Countries/Seychelles.md) |
 | __✗__ | [Sierra Leone](Countries/Sierra-Leone.md) |
 | __✗__ | [Singapore](Countries/Singapore.md) |
 | __✗__ | [Sint Maarten](Countries/Sint-Maarten.md) |
