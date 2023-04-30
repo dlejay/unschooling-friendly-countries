@@ -202,7 +202,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✓__ | [Somaliland](Countries/Somaliland.md) |
 | __✓__ | [South Africa](Countries/South-Africa.md) |
 | __✗__ | [South Korea](Countries/South-Korea.md) |
-| __?__ | South Ossetia |
+| __✓__ | [South Ossetia](Countries/South-Ossetia.md) |
 | __✗__ | [South Sudan](Countries/South-Sudan.md) |
 | __✗__ | [Sovereign Base Areas of Akrotiri and Dhekelia](Countries/SBAs.md) |
 | __✗__ | [Spain](Countries/Spain.md) |
