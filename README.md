@@ -102,7 +102,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Honduras](Countries/Honduras.md) |
 | __✗__ | [Hungary](Countries/Hungary.md) |
 | __✗__ | [Iceland](Countries/Iceland.md) |  <!-- I -->
-| __?__ | India |
+| __✓__ | [India](Countries/India.md) |
 | __✓__ | [Indonesia](Countries/Indonesia.md) |
 | __✓__ | [Iran](Countries/Iran.md) |
 | __?__ | Iraq |
