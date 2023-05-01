@@ -2,7 +2,7 @@
 | | |
 |-|-|
 | __✓__ | [England](England.md) |
-| __?__ | Northern Ireland |
+| __✓__ | [Northern Ireland](Northern-Ireland.md) |
 | __?__ | Scotland |
 | __?__ | Wales |
 
