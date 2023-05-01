@@ -1,7 +1,7 @@
 # Unschooling in the United Kingdom
 | | |
 |-|-|
-| __✓__ | [England] (England.md) |
+| __✓__ | [England](England.md) |
 | __?__ | Northern Ireland |
 | __?__ | Scotland |
 | __?__ | Wales |
