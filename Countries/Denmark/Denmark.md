@@ -1,4 +1,4 @@
-# Unschooling in Metropolitan Danemark
+# Unschooling in Metropolitan Denmark
 | | |
 |-|-|
 | __✓__ | Homeschooling is a legal form of schooling |
