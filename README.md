@@ -164,7 +164,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Northern Cyprus](Countries/Northern-Cyprus.md) |
 | __✗__ | [Norway](Countries/Norway.md) |
 | __✗__ | [Oman](Countries/Oman.md) |                             <!-- O -->
-| __?__ | Pakistan |                         <!-- P -->
+| __✓__ | [Pakistan](Countries/Pakistan.md) |                         <!-- P -->
 | __✗__ | [Palau](Countries/Palau.md) |
 | __✗__ | [Palestine](Countries/Palestine.md) |
 | __✗__ | [Panama](Countries/Panama.md) |
