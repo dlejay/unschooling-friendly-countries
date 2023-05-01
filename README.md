@@ -228,7 +228,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✓__ | [Uganda](Countries/Uganda.md) |                           <!-- U -->
 | __✗__ | [Ukraine](Countries/Ukraine.md) |
 | __✗__ | [United Arab Emirates](Countries/UAE.md) |
-| __?__ | United Kingdom |
+| __✓__ | [United Kingdom](<Countries/United Kingdom/README.md>) |
 | __~__ | [United States](Countries/United-States/README.md) |
 | __✗__ | [U. S. Virgin Islands](Countries/US-Virgin-Islands.md) |
 | __✗__ | [Uruguay](Countries/Uruguay.md) |
