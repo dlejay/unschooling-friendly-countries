@@ -4,8 +4,8 @@
 |-|-|
 | __✗__ | [Faroe Islands](Faroe-Islands.md) |
 | __✗__ | [Greenland](Greenland.md) |
-| __✗__ | [Metropolitan Danemark](Denmark.md) |
+| __✗__ | [Metropolitan Denmark](Denmark.md) |
 
 ## Context
 
-The Kingdom of Danemark is composed of three autonomous legal systems.
+The Kingdom of Denmark is composed of three autonomous legal systems.
