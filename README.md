@@ -113,7 +113,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Ivory Coast](Countries/Ivory-Coast.md) |
 | __✓__ | [Jamaica](Countries/Jamaica.md) |  <!-- J -->
 | __✗__ | [Japan](Countries/Japan.md) |
-| __?__ | Jersey |
+| __✗__ | [Jersey](Countries/Jersey.md) |
 | __✗__ | [Jordan](Countries/Jordan.md) |
 | __✗__ | [Kazakhstan](Countries/Kazakhstan.md) |                       <!-- K -->
 | __✗__ | [Kenya](Countries/Kenya.md) |
