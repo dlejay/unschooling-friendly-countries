@@ -2,7 +2,7 @@
 
 | | |
 |-|-|
-| __?__ | Faroe Islands |
+| __✗__ | [Faroe Islands](Faroe-Islands.md) |
 | __?__ | Greenland |
 | __?__ | Metropolitan Danemark |
 
