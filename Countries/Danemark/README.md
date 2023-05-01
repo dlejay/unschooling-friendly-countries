@@ -4,7 +4,7 @@
 |-|-|
 | __✗__ | [Faroe Islands](Faroe-Islands.md) |
 | __✗__ | [Greenland](Greenland.md) |
-| __?__ | Metropolitan Danemark |
+| __✗__ | [Metropolitan Danemark](Danemark.md) |
 
 ## Context
 
