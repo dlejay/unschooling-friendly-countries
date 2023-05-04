@@ -1,11 +1,14 @@
 # Unschooling in the Comoros
+| | |
+|-|-|
+| __✗__ | Homeschooling is a legal form of schooling |
 
 ## Context
 
-According to UNESCO :
+According to La Gazette des Comores :
 
-> No information was found regardding the organisation of homeschooling.
+> From now on, it is mandatory to send children to school from the age of 3.
 
 ## Sources
 
-* [education-profiles.org](https://education-profiles.org/fr/afrique-sub-saharienne/comores/~acteurs-non-etatiques-dans-leducation)
+* [_La scolarisation obligatoire dès l’âge de 3 ans_](http://lagazettedescomores.com/société/la-scolarisation-obligatoire-dès-l’âge-de-3-ans-.html)
