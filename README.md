@@ -216,7 +216,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Tajikistan](Countries/Tajikistan.md) |
 | __✗__ | [Tanzania](Countries/Tanzania.md) |
 | __✗__ | [Thailand](Countries/Thailand.md) |
-| __?__ | [Togo](Countries/Togo.md) |
+| __✗__ | [Togo](Countries/Togo.md) |
 | __✗__ | [Tonga](Countries/Tonga.md) |
 | __✗__ | [Transnistria](Countries/Transnistria.md) |
 | __✓__ | [Trinidad and Tobago](Countries/Trinidad-and-Tobago.md) |
