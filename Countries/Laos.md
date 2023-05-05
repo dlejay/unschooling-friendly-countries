@@ -1,11 +1,18 @@
 # Unschooling in Laos
+| | |
+|-|-|
+| __✗__ | Homeschooling is a legal form of schooling |
 
 ## Context
 
-According to UNESCO :
+According to the Education Law :
 
-> no information or data was found regarding homeschooling in Lao PDR
+> **Article 17. Elementary School**
+> 
+>The elementary school is the basic compulsory education having period of five years of learning in order to secure the learner with general knowledge of natural and social sciences, of mankind, to have knowledge of listening, reading, speaking, seeing, questioning, writing Lao langue and calculation, to love health, cleanliness, environment and knowing the Lao artistic culture, to learn foreign langue from the third years of elementary education upward.
+>
+>Complete elementary school is compulsory education for all Lao citizens and ethnic groups who have six years of age upward.
 
 ## Sources
 
-* [education-profiles.org](https://education-profiles.org/eastern-and-south-eastern-asia/lao-peoples-democratic-republic/~non-state-actors-in-education)
+* [Law on Education](https://www.wto.org/english/thewto_e/acc_e/lao_e/wtacclao31_leg_3.pdf)
