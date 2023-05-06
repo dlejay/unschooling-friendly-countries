@@ -1,11 +1,15 @@
 # Unschooling in São Tomé and Príncipe
+| | |
+|-|-|
+| __✗__ | Homeschooling is a legal form of schooling |
 
 ## Context
 
-According to UNESCO
+According to Lei n.º 2/2003
 
-> No information was found regarding the extent of homeschooling in São Tomé e Príncipe or whether it is regulated by the law.
+> 7. The State ensures the elimination of illiteracy and compulsory schooling, free of charge,
+without prejudice to the participation of private and cooperative schools.
 
 ## Sources
 
-* [education-profiles.org](https://education-profiles.org/sub-saharan-africa/sao-tome-and-principe/~non-state-actors-in-education)
+* [_Lei n.º 2/2003_](https://www.ilo.org/dyn/natlex/docs/SERIAL/95145/111918/F1094550940/STP95145.pdf)
