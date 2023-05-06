@@ -5,7 +5,7 @@
 
 ## Context
 
-According to UNESCO :
+According to the Education Act :
 
 > **29 Exemption from attendance**
 > 
@@ -29,4 +29,4 @@ According to UNESCO :
 
 ## Sources
 
-* [education-profiles.org](https://education-profiles.org/oceania/niue/~non-state-actors-in-education)
+* [Education Act](https://planipolis.iiep.unesco.org/sites/default/files/ressources/niue_education_act_vol_261.pdf)
