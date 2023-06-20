@@ -240,3 +240,9 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __?__ | [Yemen](Countries/Yemen.md) |                            <!-- Y -->
 | __✓__ | [Zambia](Countries/Zambia.md) |                           <!-- Z -->
 | __✗__ | [Zimbabwe](Countries/Zimbabwe.md) |
+
+## Maps
+
+| Map of unschooling friendly countries | near |
+| :-: | :------ |
+|  ![Unschooling friendly countries near London](Maps/Unschooling_friendly_countries_near_London.svg) | London |
