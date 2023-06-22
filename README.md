@@ -104,7 +104,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Iceland](Countries/Iceland.md) |  <!-- I -->
 | __✓__ | [India](Countries/India.md) |
 | __✓__ | [Indonesia](Countries/Indonesia.md) |
-| __✓__ | [Iran](Countries/Iran.md) |
+| __✗__ | [Iran](Countries/Iran.md) |
 | __✗__ | [Iraq](Countries/Iraq.md) |
 | __✗__ | [Ireland](Countries/Ireland.md) |
 | __✓__ | [Isle of Man](Countries/Isle-of-Man.md) |
