@@ -245,4 +245,5 @@ or a self-governing territory with permanent population not part of a sovereign 
 
 | Map of unschooling friendly countries | near |
 | :-: | :------ |
-|  ![Unschooling friendly countries near London](Maps/Unschooling_friendly_countries_near_London.svg) | London |
+| ![Unschooling friendly countries near London](Maps/Unschooling_friendly_countries_near_London.svg) | London |
+| ![Unschooling friendly countries near New York City](Maps/Unschooling_near_NYC.svg) | New York City |
