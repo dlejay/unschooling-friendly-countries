@@ -249,3 +249,4 @@ or a self-governing territory with permanent population not part of a sovereign 
 | ![Unschooling friendly countries near New York City](Maps/Unschooling_near_NYC.svg) | New York City |
 | ![Unschooling friendly countries near Hong Kong](Maps/Unschooling_near_HK.svg) | Hong Kong |
 | ![Unschooling friendly countries near Singapore](Maps/Unschooling_near_Singapore.svg) | Singapore |
+| ![Unschooling friendly countries near Tokyo](Maps/Unschooling_near_Tokyo.svg) | Tokyo |
