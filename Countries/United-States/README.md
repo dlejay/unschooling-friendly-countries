@@ -27,7 +27,7 @@ are decided in each individual State.
 | __✗__ | [Indiana](Indiana.md) |
 | __✗__ | [Kansas](Kansas.md) |
 | __✗__ | Kentucky |
-| __✗__ | Louisiana |
+| __✓__ | [Louisiana](Louisiana.md) |
 | __✗__ | Massachusetts |
 | __✗__ | Maryland |
 | __✗__ | Maine |
