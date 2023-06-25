@@ -53,7 +53,7 @@ are decided in each individual State.
 | __✗__ | South Dakota |
 | __✗__ | [Tennessee](Tennessee.md) |
 | __✗__ | Texas |
-| __✗__ | Utah |
+| __✓__ | [Utah](Utah.md) |
 | __✗__ | [Virginia](Virginia.md) |
 | __✗__ | Vermont |
 | __✗__ | Washington |
