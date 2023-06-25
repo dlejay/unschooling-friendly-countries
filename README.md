@@ -178,7 +178,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Puerto Rico](Countries/Puerto-Rico.md) |
 | __✗__ | [Qatar](Countries/Qatar.md) |                            <!-- Q -->
 | __✗__ | [Romania](Countries/Romania.md) |                          <!-- R -->
-| __x__ | [Russia](Countries/Russia.md) |
+| __✗__ | [Russia](Countries/Russia.md) |
 | __✓__ | [Rwanda](Countries/Rwanda.md) |
 | __✓__ | [Sahrawi ADR](Countries/SADR.md) |                      <!-- S -->
 | __✓__ | [Saint Helena, Ascension and Tristan da Cunha](Countries/Saint-Helena.md) |
