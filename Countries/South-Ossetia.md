@@ -7,9 +7,7 @@
 
 ## Context
 
-South Ossetia is currently planning to join the Russian Federation, which is an unschooling friendly country.
-
-Furthermore, according to the Law of the Republic of South Ossetia "On Education",
+According to the Law of the Republic of South Ossetia "On Education",
 
 > **Article 10. Forms of education**
 > 
