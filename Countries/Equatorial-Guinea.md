@@ -7,7 +7,7 @@
 
 ## Context
 
-By Article 49.-3 of the _ Ley General de Educación_ :
+By Article 49.-3 of the _Ley General de Educación_ :
 
 > Distance education at the different levels of education and in its different modalities, pursues the same general purposes established in article 2 of this Law,
 > and may be regulated and non-regulated.
