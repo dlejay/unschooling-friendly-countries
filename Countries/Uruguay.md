@@ -13,6 +13,13 @@ According to the _Ley General de Educación_ :
 > 
 > Parents or legal guardians of children and adolescents are obliged to enroll them in an educational center and observe their attendance and learning.
 
+In 2020, Article 7 got amended to:
+
+> Initial education from four years of age, primary education and secondary education is mandatory. Parents, or legal guardians of children and adolescents, as well as students of legal age, have the duty to contribute to the fulfillment of this obligation, in accordance with the provisions of the first paragraph of article 70 of the Constitution of the Republic and the provisions of this law.
+
+but homeschooling remains forbidden.
+
 ## Sources
 
-* [_Ley General de Educación_](https://siteal.iiep.unesco.org/sites/default/files/sit_accion_files/siteal_uruguay_0483.pdf)
+* [_Ley General de Educación_](https://www.impo.com.uy/bases/leyes/18437-2008)
+* [_¿Por qué se prohíbe en Uruguay la educación formal en los hogares?_](https://www.elpais.com.uy/informacion/educacion/por-que-se-prohibe-en-uruguay-la-educacion-formal-en-los-hogares)
