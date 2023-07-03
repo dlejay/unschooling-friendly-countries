@@ -53,7 +53,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Cape Verde](Countries/Cape-Verde.md) |
 | __✗__ | [Cayman Islands](Countries/Cayman-Islands.md) |
 | __?__ | [Centrafrique](Countries/Centrafrique.md) |
-| __?__ | [Chad](Countries/Chad.md) |
+| __✗__ | [Chad](Countries/Chad.md) |
 | __✓__ | [Chile](Countries/Chile.md) |
 | __~__ | [China](Countries/China/README.md) |
 | __✓__ | [Colombia](Countries/Colombia.md) |
