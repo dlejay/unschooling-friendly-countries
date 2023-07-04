@@ -1,9 +1,12 @@
 # Unschooling in Mali
+| | |
+|-|-|
+| __✗__ | Homeschooling is a legal form of schooling |
 
-According to UNESCO :
+According to Law 99-046 AN RM:
 
-> No information was found.
+> **Article 26:** The right to education creates an obligation for parents to enroll their children in school and to keep them there at least until they have completed basic education.
 
 ## Sources
 
-* [education-profiles.org](https://education-profiles.org/fr/afrique-sub-saharienne/mali/~acteurs-non-etatiques-dans-leducation)
+* [_Loi 99-046 AN RM, portant loi d’orientation sur l’éducation_](https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/97009/114926/F-568307560/MLI-97009.pdf)

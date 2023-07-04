@@ -134,7 +134,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Malawi](Countries/Malawi.md) |
 | __✗__ | [Malaysia](Countries/Malaysia.md) |
 | __✗__ | [Maldives](Countries/Maldives.md) |
-| __?__ | [Mali](Countries/Mali.md) |
+| __✗__ | [Mali](Countries/Mali.md) |
 | __✗__ | [Malta](Countries/Malta.md) |
 | __✗__ | [Marshall Islands](Countries/Marshall-Islands.md) |
 | __?__ | [Mauritania](Countries/Mauritania.md) |
