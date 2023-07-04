@@ -1,9 +1,9 @@
 # Unschooling in Mauritania
 
-According to UNESCO
+According to aacrao.org:
 
-> No information was found.
+> Education is free and compulsory from ages 6 to 14, but attendance is not enforced, and most children complete only 5 years of education.
 
 ## Sources
 
-* [education-profiles.org](https://education-profiles.org/fr/afrique-sub-saharienne/mauritanie/~acteurs-non-etatiques-dans-leducation)
+* [aacrao.org](https://www.aacrao.org/edge/country/mauritania)
