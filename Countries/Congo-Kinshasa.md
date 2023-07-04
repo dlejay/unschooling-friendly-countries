@@ -1,9 +1,17 @@
-# Unschoolin in the DRC
+# Unschooling in the DRC
+| | |
+|-|-|
+| __✗__ | Homeschooling is a legal form of schooling |
 
-According to UNESCO :
+According to _Loi-cadre_:
 
-> Home schooling does not seem to be a common practice in the country.
+> Article 12
+>
+> To achieve basic education for all, throughout life, the State:
+>
+> 1. guarantee free and compulsory primary schooling for all in national public > educational establishments, by allocating appropriate human, material and
+> financial resources;
 
 ## Sources
 
-* [education-profiles.org](https://education-profiles.org/fr/afrique-sub-saharienne/republique-democratique-du-congo/~acteurs-non-etatiques-dans-leducation)
+* [_LOI-CADRE n° 14/004 du 11 Février 2014 DE L’ENSEIGNEMENT NATIONAL_](https://www.unesco.org/education/edurights/media/docs/9c127aaff6ff0258fe7d6de4ad38b60190674d39.pdf)
