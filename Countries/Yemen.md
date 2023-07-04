@@ -2,10 +2,10 @@
 
 ## Context
 
-According to UNESCO :
+According to aacrao.org:
 
-> No information was found.
+> Education is free and compulsory from ages 6 to 15, but attendance is not enforced.
 
 ## Sources
 
-* [education-profiles.org](https://education-profiles.org/northern-africa-and-western-asia/yemen/~non-state-actors-in-education)
+* [aacrao.org](https://www.aacrao.org/edge/country/yemen-republic-of)
