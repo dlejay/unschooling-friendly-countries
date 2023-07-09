@@ -76,7 +76,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✓__ | [Egypt](Countries/Egypt.md) |
 | __✓__ | [El Salvador](Countries/El-Salvador.md) |
 | __✓__ | [Equatorial Guinea](Countries/Equatorial-Guinea.md) |
-| __✗__ | [Eritrea](Countries/Eritrea.md) |
+| __✓__ | [Eritrea](Countries/Eritrea.md) |
 | __✗__ | [Estonia](Countries/Estonia.md) |
 | __✗__ | [Eswatini](Countries/Eswatini.md) |
 | __✓__ | [Ethiopia](Countries/Ethiopia.md) |
