@@ -2,10 +2,10 @@
 
 ## Context
 
-According to UNESCO :
+According to Maurizio Longo,
 
-> No information was found.
+> School attendance is not compulsory […]
 
 ## Sources
 
-* [education-profiles.org](https://education-profiles.org/northern-africa-and-western-asia/eritrea/~non-state-actors-in-education)
+* [_L’insegnamento dell’italiano presso la scuola statale di Asmara: efficacia e criticità_](https://journals.openedition.org/esp/2873)
