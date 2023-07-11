@@ -16,7 +16,6 @@ According to the _Lei n.° 17/16_:
 > and promote access to and attendance at the Education System
 > and Teaching to all school-age individuals.
 > 2. The obligation of Education covers the initiation class, Primary Education and the 1st Cycle of Secondary Education.
-> According to education-profiles.org (UNESCO) :
 
 ## Sources
 
