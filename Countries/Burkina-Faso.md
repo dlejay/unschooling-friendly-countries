@@ -2,10 +2,10 @@
 
 ## Context
 
-According to UNESCO :
+According to scholaro.com:
 
-> Homeschooling does not appear to be a common practice in the country. No regulations were found on the subject.
+> Although education in landlocked Burkina Faso in West Africa is compulsory for children aged between 7 and 14, this is not enforced.
 
 ## Sources
 
-* [education-profiles.org](https://education-profiles.org/fr/afrique-sub-saharienne/burkina-faso/~acteurs-non-etatiques-dans-leducation)
+* [scholaro.com](https://www.scholaro.com/db/countries/Burkina-Faso/Education-System)
