@@ -18,7 +18,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✓__ | [Algeria](Countries/Algeria.md) |
 | __✗__ | [American Samoa](Countries/American-Samoa.md) |
 | __✗__ | [Andorra](Countries/Andorra.md) |
-| __?__ | [Angola](Countries/Angola.md) |
+| __✗__ | [Angola](Countries/Angola.md) |
 | __✗__ | [Anguilla](Countries/Aguilla.md) |
 | __✗__ | [Antigua and Barbuda](Countries/Antigua-and-Barbuda.md) |
 | __✗__ | [Argentina](Countries/Argentina.md) |
