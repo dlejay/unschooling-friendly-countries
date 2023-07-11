@@ -220,7 +220,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Tonga](Countries/Tonga.md) |
 | __✗__ | [Transnistria](Countries/Transnistria.md) |
 | __✓__ | [Trinidad and Tobago](Countries/Trinidad-and-Tobago.md) |
-| __✓__ | [Tunisia](Countries/Tunisia.md) |
+| __✗__ | [Tunisia](Countries/Tunisia.md) |
 | __✗__ | [Turkey](Countries/Turkey.md) |
 | __✗__ | [Turkmenistan](Countries/Turkmenistan.md) |
 | __✗__ | [Turks and Caicos Islands](Countries/Turks-and-Caicos-Islands.md) |
