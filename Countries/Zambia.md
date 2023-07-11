@@ -1,11 +1,14 @@
 # Unschooling in Zambia
+| | |
+|-|-|
+| __✗__ | Homeschooling is a legal form of schooling |
 
 ## Context
 
-According to UNESCO :
+According to the Education Act:
 
-> No information was found in the official documents reviewed regarding homeschooling, including the 2017-21 Education and Skills Sector Plan, the 2011 Education Act and the 2017-21 Seventh National Development Plan. However, homeschooling seems to be allowed, as there are some support groups and (non-official) online resources for parents; indeed, there is a home-school academy in Lusaka that helps parents to homeschool.
+> 17. (1) Except as provided for in this Act or any other written law, a parent shall enroll a child who has attained the school-going age at an educational institution and shall ensure the child’s attendance at the educational institutional.
 
 ## Sources
 
-* [education-profiles.org](https://education-profiles.org/sub-saharan-africa/zambia/~non-state-actors-in-education)
+* [Education Act, 2011](https://www.parliament.gov.zm/sites/default/files/documents/acts/Education%20Act%202011.pdf)
