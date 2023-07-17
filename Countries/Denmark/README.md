@@ -1,10 +1,10 @@
-# Unschooling in the Kingdom of Danemark
+# Unschooling in the Kingdom of Denmark
 
 | | |
 |-|-|
 | __✗__ | [Faroe Islands](Faroe-Islands.md) |
 | __✗__ | [Greenland](Greenland.md) |
-| __✗__ | [Metropolitan Danemark](Danemark.md) |
+| __✗__ | [Metropolitan Denmark](Denmark.md) |
 
 ## Context
 
