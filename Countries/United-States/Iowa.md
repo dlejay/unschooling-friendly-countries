@@ -3,7 +3,7 @@
 |-|-|
 | __✓__ | Homeschooling is a legal form of schooling |
 | __✓__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
+| __✓__ | It can be curriculum-free |
 
 ## Sources
 
