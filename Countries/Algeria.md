@@ -1,16 +1,16 @@
 # Unschooling in Algeria
 | | |
 |-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
+| __✗__ | Homeschooling is a legal form of schooling |
 
 ## Context
 
-According to UNESCO :
+According to _Décret no 76-66 du 16 avril 1976 relatif au caractère obligatoire de l'enseignement fondamental._:
 
-> Parents can choose to educate their children themselves; Law No. 08-04 of 2008 does not specify the modalities of home schooling, but in 2018, a new text governing the reception of children at home was finalized to broaden the scope of care for early childhood.
+> Article 5
+>
+> Compulsory schooling implies regular attendance at school and the pursuit of studies in accordance with current school regulations. It is monitored on a daily basis under the responsibility of the school principal.
 
 ## Sources
 
-* [educatin-profiles.org](https://education-profiles.org/fr/afrique-du-nord-et-asie-occidentale/algerie/~acteurs-non-etatiques-dans-leducation)
+* [Décret no 76-66](https://www.axl.cefan.ulaval.ca/afrique/algerie_decret-76-66-1976.htm)
