@@ -123,7 +123,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Kyrgyzstan](Countries/Kyrgyzstan.md) |
 | __✗__ | [Laos](Countries/Laos.md) |                             <!-- L -->
 | __✗__ | [Latvia](Countries/Latvia.md) |
-| __✓__ | [Lebanon](Countries/Lebanon.md) |
+| __✗__ | [Lebanon](Countries/Lebanon.md) |
 | __✗__ | [Lesotho](Countries/Lesotho.md) |
 | __✗__ | [Liberia](Countries/Liberia.md) |
 | __✗__ | [Libya](Countries/Libya.md) |
