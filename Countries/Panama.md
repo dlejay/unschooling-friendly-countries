@@ -1,23 +1,33 @@
 # Unschooling in Panama
 | | |
 |-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
+| __✓__ | Homeschooling is a legal form of schooling |
+| __✗__ | It requires no prior authorisation |
+| __✗__ | It can be curriculum-free |
 
 ## Context
 
-According to OLASE :
+In 2021 Panama introduced distance learning.
 
-> Homeschooling is no legal but there are a number of families who are currently homeschooling.
-> 
-> Schooling is mandatory and not attending school is penalized.
-> 
-> The Constitution allocates Title III on Individual and Social Rights and Duties, Chapter 5 to Education. In it Article 91 provides that the State organizes and directs the public service of national education and guarantees parents the right to participate in the educational process of their children. While Art. 94 guarantees freedom of education and recognizes the right to create private teaching centers, although always subject to what is established by law.
-> 
-> Art. 9537), on the other hand, establishes the gratuity of the official education, in all the pre-university levels, and the obligatory nature of the first level of education or general basic education.
-> 
-> Within the framework of the “Organic Law of Education” compulsory schooling is established. Regarding the compulsory nature of Primary Education, it is established in Art. 7140), which defines it as the obligation of the child to receive education and the obligation of the State to impart it. In this same line Art. 7541) provides that no child under fifteen (15) years may engage in work or activity that deprives you of the right to attend school.
-> The same Art. Establishes a fine for parents who contravene the provision.
+> Article 3. Parents or guardians who decide to allow their children to study at home must meet the following requirements:
+> 1- Have a computer.
+> 2- To have an internet connection.
+> 3- Sign a statement of responsibility.
+> 4- Certification of adequate use of ICTs.
+> 5- Certificate of mental health.
+> 6- Psychological report of the student by the Psychological Offices. 
+> 7- Receive a seminar on teaching methodologies and personalised education.
+
+> Article 5. The Education Centres that are designated to develop Home Education shall provide the didactic resources, guidance and follow-up
+> so that the student fulfils the objectives set out in the curricular
+> curriculum for each level of education.
+
+> Article 8. On the training of parents.
+> The parent or guardian must commit themselves to providing the student with
+> time to practice a physical or sporting and recreational activity,
+> and to provide evidence of this participation, in order to develop social and
+> socio-emotional skills and stimulate emotional intelligence.
 
 ## Sources
 
-* [OLASE](https://sinescuela.org/en:panama:inicio)
+* [TRÁMITE LEGISLATIVO 2021-2022](https://www.asamblea.gob.pa/APPS/SEG_LEGIS/PDF_SEG/PDF_SEG_2020/PDF_SEG_2021/2021_A_250.pdf)
