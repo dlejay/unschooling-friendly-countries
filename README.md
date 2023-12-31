@@ -23,7 +23,6 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Antigua and Barbuda](Countries/Antigua-and-Barbuda.md) |
 | __✗__ | [Argentina](Countries/Argentina.md) |
 | __✗__ | [Armenia](Countries/Armenia.md) |
-| __✗__ | [Artsakh](Countries/Artsakh.md) |
 | __✗__ | [Aruba](Countries/Aruba.md) |
 | __✗__ | [Australia](Countries/Australia/README.md) |
 | __✗__ | [Austria](Countries/Austria.md) |
