@@ -92,7 +92,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Greece](Countries/Greece.md) |
 | __✗__ | [Grenada](Countries/Grenada.md) |
 | __✓__ | [Guam](Countries/Guam.md) |
-| __✓__ | [Guatemala](Countries/Guatemala.md) |
+| __✗__ | [Guatemala](Countries/Guatemala.md) |
 | __✗__ | [Guernsey](Countries/Guernsey.md) |
 | __✗__ | [Guinea](Countries/Guinea.md) |
 | __✗__ | [Guinea-Bissau](Countries/Guinea-Bissau.md) |
