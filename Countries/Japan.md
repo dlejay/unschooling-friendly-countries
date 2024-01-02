@@ -17,13 +17,19 @@ to school attendance:
 
 > To utilize the attendance handling system, the following 7 requirements must be fulfilled:
 >
-> A sufficiently close relationship between parents and the school.
-> Learning activities provided through the use of technologies such as IT.
-> Adequate face-to-face guidance.
-> A well-planned learning program based on understanding.
-> The principal having a comprehensive understanding of face-to-face guidance and learning activities.
-> Learning activities conducted when consultation or guidance is not possible in external institutions or facilities.
-> Evaluation of learning activities based on the school's educational curriculum.
+> * A sufficiently close relationship between parents and the school.
+> 
+> * Learning activities provided through the use of technologies such as IT.
+> 
+> * Adequate face-to-face guidance.
+> 
+> * A well-planned learning program based on understanding.
+> 
+> * The principal having a comprehensive understanding of face-to-face guidance and learning activities.
+> 
+> * Learning activities conducted when consultation or guidance is not possible in external institutions or facilities.
+> 
+> * Evaluation of learning activities based on the school's educational curriculum.
 
 ## Sources
 
