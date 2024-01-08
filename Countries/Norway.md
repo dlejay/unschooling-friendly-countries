@@ -2,7 +2,7 @@
 | | |
 |-|-|
 | __✓__ | Homeschooling is a legal form of schooling |
-| __✗__ | It requires no prior authorisation |
+| __✓__ | It requires no prior authorisation |
 | __✗__ | It can be curriculum-free |
 
 ## Context
@@ -28,6 +28,26 @@ According to nhuf.no:
 > 5. The evaluator is not required to advise the parents, but may do so.
 > 6. The Head of Schools in the kommune will receive a written report after each evaluation. The report will constitute a brief summary of the above points.
 
+> **Parents' obligations**
+> 
+> Notify the kommune that you are starting homeschooling.
+> Homeschooling may not begin before the kommune (or school) has been notified. But after you have notified the kommune (or school), you can begin homeschooling immediately > without waiting for a response from the kommune (or school).
+>
+> **Become familiar with the national curriculum and follow it.**
+> 
+> Parents need have no formal qualifications to homeschool their own children, but must have a certain amount of general knowledge, and be able to learn and research different topics. Homeschooling is a serious responsibility, and parents need the motivation and intiative to perform the role they have taken upon themselves. Paragraph 1-3 in the Education Law requires that children receive individually adapted and adjusted education.
+>
+> **Collaboration with the kommune regarding evaluation**
+> 
+> The parents should facilitate the conduct of the evaluation as much as possible. The most important factor is that the evaluator and the family develop mutual respect and trust with the child's education as the primary focus.
+>
+> **The national curriculum**
+> 
+> The national curriculum comprises a general part, annual/weekly hours per subject, and a syllabus for each subject. These are addenda to the Education Law and constitute guidelines for teaching in schools. Hours per subject, as well as divisions between subjects do not apply to homeschoolers.
+>
+> The national curriculum includes goals which specify what the child should know by the completion of certain school grades. There are goals which apply to the completion of years 2, 4, 7, and 10. (Children are usually 7 years old at the beginning of year 2, and 15 years old at the beginning of year 10.)
+>
+> Since homeschoolers are free to choose which educational method best suits their child, the goals are of great importance. The goals should be reached over time, not necessarily precisely in the prescribed year/age.
 ## Sources
 
 * [Education Act](https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=68581&p_country=NOR&p_count=1505&p_classification=09&p_classcount=42)
