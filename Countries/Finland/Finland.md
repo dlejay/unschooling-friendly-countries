@@ -13,6 +13,10 @@ According to Joanna Hartman and Rauno Huttunen, children
 
 and the testing methods used to enforce this vary locally.
 
+According to the city of Helsinki
+
+> The guardian is responsible for ensuring that the pupil meets the objectives set for each grade of basic education in all subjects. For example, pupils cannot be exempted from the study of a certain general subject included in the basic education syllabus. The guardian makes the decision to transfer a child to home schooling. If the child is transferred to home schooling, please use the form below to report this. The filled-in form must be delivered to the child's local school assigned to them based on their home address.
+
 
 ## Sources
 
