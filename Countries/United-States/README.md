@@ -50,7 +50,7 @@ are decided in each individual State.
 | __✗__ | Pennsylvania |
 | __✗__ | Rhode Island |
 | __✗__ | South Carolina |
-| __✗__ | South Dakota |
+| __✓__ | [South Dakota](South-Dakota.md) |
 | __✗__ | [Tennessee](Tennessee.md) |
 | __✗__ | Texas |
 | __✓__ | [Utah](Utah.md) |
