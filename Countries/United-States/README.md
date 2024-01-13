@@ -12,7 +12,7 @@ are decided in each individual State.
 | __✓__ | [Alaska](Alaska.md) |
 | __✗__ | [Alabama](Alabama.md) |
 | __✓__ | [Arkansas](Arkansas.md) |
-| __✗__ | Arizona |
+| __✓__ | [Arizona](Arizona.md) |
 | __✗__ | California |
 | __✗__ | Colorado |
 | __✗__ | Connecticut |
