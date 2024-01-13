@@ -1,4 +1,4 @@
-# Unschooling in Kentuky
+# Unschooling in Kentucky
 | | |
 |-|-|
 | __✓__ | Homeschooling is a legal form of schooling |
