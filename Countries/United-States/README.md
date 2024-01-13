@@ -47,7 +47,7 @@ are decided in each individual State.
 | __✗__ | Ohio |
 | __✓__ | [Oklahoma](Oklahoma.md) |
 | __✗__ | [Oregon](Oregon.md) |
-| __✗__ | Pennsylvania |
+| __✗__ | [Pennsylvania](Pennsylvania.md) |
 | __✗__ | [Rhode Island](Rhode-Island.md) |
 | __✗__ | South Carolina |
 | __✓__ | [South Dakota](South-Dakota.md) |
