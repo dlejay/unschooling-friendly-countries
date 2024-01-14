@@ -15,7 +15,7 @@ are decided in each individual State.
 | __✓__ | [Arizona](Arizona.md) |
 | __✗__ | California |
 | __✗__ | Colorado |
-| __✗__ | Connecticut |
+| __✓__ | [Connecticut](Connecticut.md) |
 | __✗__ | [District of Columbia](DC.md) |
 | __✓__ | [Delaware](Delaware.md) |
 | __✓__ | [Florida](Florida.md) |
