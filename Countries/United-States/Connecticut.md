@@ -19,3 +19,4 @@ As Education lawyer Thomas Mooney says:
 ## Sources
 
 * [CRHE](https://responsiblehomeschooling.org/state-by-state/connecticut/)
+* [Connecticut's home-schoolers are unregulated](https://ctmirror.org/2019/04/12/connecticuts-home-schoolers-are-unregulated-they-want-to-keep-it-that-way/)
