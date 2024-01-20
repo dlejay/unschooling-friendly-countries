@@ -1,7 +1,7 @@
 # Unschooling in Slovakia
 | | |
 |-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
+| __✓__ | Homeschooling is a legal form of schooling |
 | __✗__ | It requires no prior authorisation |
 | __✗__ | It can be curriculum-free |
 
@@ -22,6 +22,13 @@ According to the _školský zákon_, homeschooling is only possible for primary 
 >
 > (2) Education according to an individual curriculum may be permitted by the school director for a gifted student or for serious reasons, especially pregnancy and maternity.
 
+## According to HSLDA
+
+Homeschooling got legalised in 2008 but
+
+> A child´s legal representative (e.g., parent) should fulfill qualification requirements or hire a teacher fulfilling these qualification requirements. 
+
+> Children who are homeschooled are required to be taught the same curriculum as children at school and are required to be board examined at school every 6 months
 ## Sources
 
 * [_školský zákon_](https://www.zakonypreludi.sk/zz/2008-245)
