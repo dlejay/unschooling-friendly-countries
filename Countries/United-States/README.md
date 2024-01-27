@@ -58,5 +58,5 @@ are decided in each individual State.
 | __✗__ | Vermont |
 | __✗__ | Washington |
 | __✗__ | Wisconsin |
-| __✗__ | West Virginia |
+| __✗__ | [West Virginia](West-Virginia.md) |
 | __✗__ | Wyoming |
