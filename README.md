@@ -65,7 +65,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | __✗__ | [Cuba](Countries/Cuba.md) |
 | __✗__ | [Curaçao](Countries/Curaçao.md) |
 | __✗__ | [Cyprus](Countries/Cyprus.md) |
-| __✗__ | [Czech Republic](Czech-Republic.md) |
+| __✗__ | [Czech Republic](Countries/Czech-Republic.md) |
 | __✗__ | [Denmark](Countries/Denmark/README.md) |                          <!-- D -->
 | __✓__ | [Djibouti](Countries/Djibouti.md) |
 | __✗__ | [Dominica](Countries/Dominica.md) |
