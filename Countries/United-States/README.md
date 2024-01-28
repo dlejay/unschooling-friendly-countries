@@ -44,7 +44,7 @@ are decided in each individual State.
 | __✗__ | New Mexico |
 | __✗__ | Nevada |
 | __✗__ | New York |
-| __✗__ | Ohio |
+| __✓__ | [Ohio](Ohio.md) |
 | __✓__ | [Oklahoma](Oklahoma.md) |
 | __✗__ | [Oregon](Oregon.md) |
 | __✗__ | [Pennsylvania](Pennsylvania.md) |
