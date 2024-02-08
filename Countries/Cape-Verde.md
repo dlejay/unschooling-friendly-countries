@@ -5,16 +5,14 @@
 
 ## Context
 
-According to the Decree 32/2007:
+According to the Ordinance 58/2020:
 
-> Article 6
-> 
-> Exclusion
-> 
-> The following types of education are excluded from the scope of application of the present decree
-> 
-> (a) individual and home schooling;
+> **Article 4**
+>
+> Objectives
+>
+> Individual tuition and home tuition is aimed at pupils in basic education and general secondary education who are demonstrably unable to attend school in person:
 
 ## Sources
 
-* [Decree 32/2007](https://minedu.gov.cv/media/orientacao/2020/10/06/ESTATUTO_DO_ALUNO_E_DO_ENSINO_PRIVADO_E_COOPERATIVO_DL_N_32_2007_D_Q8vwM2K.pdf)
+* [Ordinance 58/2020](https://minedu.gov.cv/media/orientacao/2020/11/20/B.O_Ensino_Individual_e_Doméstico.pdf)
