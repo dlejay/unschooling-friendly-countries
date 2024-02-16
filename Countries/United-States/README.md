@@ -42,7 +42,7 @@ are decided in each individual State.
 | __✗__ | New Hampshire |
 | __✗__ | [New Jersey](New-Jersey.md) |
 | __✗__ | [New Mexico](New-Mexico.md) |
-| __✗__ | Nevada |
+| __✓__ | [Nevada](Nevada.md) |
 | __✗__ | New York |
 | __✓__ | [Ohio](Ohio.md) |
 | __✓__ | [Oklahoma](Oklahoma.md) |
