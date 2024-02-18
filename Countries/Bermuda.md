@@ -19,4 +19,4 @@ According to the Education Act :
 > 
 ## Sources
 
-* [Education Act](http://www.bermudalaws.bm/laws/Consolidated%20Laws/Education%20Act%201996.pdf)
+* [Education Act](https://www.but.bm/wp-content/uploads/2019/01/Education-Act-1996.pdf)
