@@ -49,7 +49,7 @@ are decided in each individual State.
 | __✗__ | [Oregon](Oregon.md) |
 | __✗__ | [Pennsylvania](Pennsylvania.md) |
 | __✗__ | [Rhode Island](Rhode-Island.md) |
-| __✗__ | South Carolina |
+| __✗__ | [South Carolina](South-Carolina.md) |
 | __✓__ | [South Dakota](South-Dakota.md) |
 | __✗__ | [Tennessee](Tennessee.md) |
 | __✓__ | [Texas](Texas.md) |
