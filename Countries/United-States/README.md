@@ -33,7 +33,7 @@ are decided in each individual State.
 | __✗__ | Maine |
 | __✗__ | Michigan |
 | __✗__ | Minnesota |
-| __✗__ | Missouri |
+| __✓__ | [Missouri](Missouri.md) |
 | __✓__ | [Mississippi](Mississippi.md) |
 | __✗__ | Montana |
 | __✗__ | [North Carolina](North-Carolina.md) |
