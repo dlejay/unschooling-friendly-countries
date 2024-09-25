@@ -22,5 +22,5 @@ In addition, according to the Education Act,
 
 ## Sources
 
-* [Education Order](http://tuvalu-legislation.tv/cms/images/LEGISLATION/SUBORDINATE/1984/1984-0014/EducationCompulsoryEducationOrder_1.pdf)
+* [Education (Compulsory Education) Order, 2022 Revised Edition](https://tuvalu-legislation.tv/cms/images/LEGISLATION/SUBORDINATE/1984/1984-0014/1984-0014_2.pdf)
 * [Education Act](http://tuvalu-legislation.tv/cms/images/LEGISLATION/PRINCIPAL/1976/1976-0003/EducationAct_1.pdf)
