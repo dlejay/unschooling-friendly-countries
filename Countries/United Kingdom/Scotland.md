@@ -2,7 +2,7 @@
 | | |
 |-|-|
 | __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
+| __✗__ | It requires no prior authorisation |
 | __✓__ | It can be curriculum-free |
 
 ## Context
@@ -13,7 +13,13 @@ According to HSLDA
 >
 >In Scotland, parents or guardians are legally responsible for ensuring their children of school age (5 to 16) are educated, but schooling is not compulsory. This requirement was spelled out in the Education (Scotland) Act 1945 which required the parent of every child of “compulsory school age” to ensure that the child received “efficient full-time education suitable to his age, ability and aptitude,” either by sending him or her to a school or by some other means. Parents normally fulfill this duty by sending their child to school; although other means such as education at home can be used.
 
+According to theweek.com:
+
+>In Scotland, parents must seek the local authority's consent before
+>withdrawing their child, although, in practice, consent is usually given.
+
 ## Sources
 
 * [Home education guidance](https://www.gov.scot/publications/home-education-guidance/pages/1/)
 * [HSLDA](https://hslda.org/post/scotland)
+* [theweek.com](https://theweek.com/education/what-are-the-rules-about-homeschooling-and-how-are-they-changing)
