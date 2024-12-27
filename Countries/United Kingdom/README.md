@@ -3,7 +3,7 @@
 |-|-|
 | __✓__ | [England](England.md) |
 | __✓__ | [Northern Ireland](Northern-Ireland.md) |
-| __✓__ | [Scotland](Scotland.md) |
+| __✗__ | [Scotland](Scotland.md) |
 | __✓__ | [Wales](Wales.md) |
 
 ## Context
