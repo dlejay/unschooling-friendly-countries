@@ -1,25 +1,27 @@
 # Unschooling in Scotland
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✗__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
+
+|       |                                            |
+| ----- | ------------------------------------------ |
+| **✓** | Homeschooling is a legal form of schooling |
+| **✗** | It requires no prior authorisation         |
+| **✓** | It can be curriculum-free                  |
 
 ## Context
 
-According to HSLDA
+According to the Home education guidance :
 
-> Homeschooling is legal and protected by the Scottish Education Act of 1980 and the Standards in Scotland’s Schools Act of 2000. The Scottish Government published its “Guidance on Home Education” in January 2008.
+> Under Section 35 of the Education (Scotland) Act 1980, parents of a child who has been
+attending a public school4 must seek the local authority’s consent before withdrawing their
+child from that school, and the authority must not unreasonably withhold consent.
+
+and Section 35 of the Education Act reads :
+
+> **Failure by parent to secure regular attendance by his child at a public school.**
 >
->In Scotland, parents or guardians are legally responsible for ensuring their children of school age (5 to 16) are educated, but schooling is not compulsory. This requirement was spelled out in the Education (Scotland) Act 1945 which required the parent of every child of “compulsory school age” to ensure that the child received “efficient full-time education suitable to his age, ability and aptitude,” either by sending him or her to a school or by some other means. Parents normally fulfill this duty by sending their child to school; although other means such as education at home can be used.
-
-According to theweek.com:
-
->In Scotland, parents must seek the local authority's consent before
->withdrawing their child, although, in practice, consent is usually given.
-
+> (1) Where a child of school age who has attended a public school on one or more occasions fails without reasonable excuse to attend regularly at the said school, then, unless the education authority have consented to the withdrawal of the child from the school (which consent shall not be unreasonably withheld), his parent shall be guilty of an offence against this section.
+>
+> (2) For the purposes of this section, a child who has been required to discontinue for any period his attendance at a school on account of his parent’s refusal or failure to comply with the rules, regulations or disciplinary requirements of the school, shall, unless the court otherwise determines, be deemed to have failed without reasonable excuse to attend regularly at the school.
 ## Sources
 
-* [Home education guidance](https://www.gov.scot/publications/home-education-guidance/pages/1/)
-* [HSLDA](https://hslda.org/post/scotland)
-* [theweek.com](https://theweek.com/education/what-are-the-rules-about-homeschooling-and-how-are-they-changing)
+- [Home education guidance](https://www.argyll-bute.gov.uk/sites/default/files/migrated_files/education-and-learning/scottish-government-home-education-guidance.pdf#:~:text=,For%20local%20authorities)
+- [Section 35 of the Education Act](https://www.legislation.gov.uk/ukpga/1980/44/section/35)
