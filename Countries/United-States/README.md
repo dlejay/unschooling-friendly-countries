@@ -59,4 +59,4 @@ are decided in each individual State.
 | __✗__ | Washington |
 | __✗__ | Wisconsin |
 | __✗__ | [West Virginia](West-Virginia.md) |
-| __✗__ | Wyoming |
+| __✓__ | [Wyoming](Wyoming.md) |
