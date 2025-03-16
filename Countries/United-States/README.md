@@ -14,7 +14,7 @@ are decided in each individual State.
 | __✓__ | [Arkansas](Arkansas.md) |
 | __✓__ | [Arizona](Arizona.md) |
 | __✗__ | [California](California.md) |
-| __✗__ | Colorado |
+| __✗__ | [Colorado](Colorado.md) |
 | __✓__ | [Connecticut](Connecticut.md) |
 | __✗__ | [District of Columbia](DC.md) |
 | __✓__ | [Delaware](Delaware.md) |
