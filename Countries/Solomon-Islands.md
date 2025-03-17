@@ -8,7 +8,7 @@
 
 According to the Education Act of 2023 :
 
-> \*\*61. Compulsory enrolment and attendance at school
+> **61. Compulsory enrolment and attendance at school**
 >
 > (1) A child must be enrolled at school from the compulsory school age, or at
 > such age as otherwise provided in regulations
