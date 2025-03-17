@@ -1,16 +1,18 @@
 # Unschooling in the Solomon Islands
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
+
+|       |                                            |
+| ----- | ------------------------------------------ |
+| **✗** | Homeschooling is a legal form of schooling |
 
 ## Context
 
-According to the Education Act :
+According to the Education Act of 2023 :
 
-> **61. Enforcement of compulsory school education**
-> 
-> (1) It is the responsibility of parents in the interests of their family and of the nation to ensure their children are enrolled in and regularly attend a school.
+> \*\*61. Compulsory enrolment and attendance at school
+>
+> (1) A child must be enrolled at school from the compulsory school age, or at
+> such age as otherwise provided in regulations
 
 ## Sources
 
-* [Education Act](https://planipolis.iiep.unesco.org/sites/default/files/ressources/solomon-islands-education-act-2014.pdf)
+- [Education Act 2023](https://www.paclii.org/sb/legis/num_act/ea2023104.pdf)
