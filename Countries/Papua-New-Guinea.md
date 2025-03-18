@@ -1,16 +1,12 @@
 # Unschooling in Papua New Guinea
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✗__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
 
 ## Context
 
-Homeschooling is possible as “distance learning”.
-One can request enrollment in the Flexible Distance & Open Education.
+Schooling is not compulsory in Papua New Guinea.
 
 ## Sources
 
-* [FODE](http://fode.education.gov.pg/admission.html)
-* [Education (Amendment) Act](https://www.parliament.gov.pg/uploads/acts/20A_33.pdf)
+- [Education Act 1983](https://www.paclii.org/pg/legis/consol_act/ea1983104.pdf)
+- [Education (Amendment) Act](https://www.parliament.gov.pg/uploads/acts/20A_33.pdf)
+- [scholaro.com](https://www.scholaro.com/db/countries/papua-new-guinea/education-system)
+- [FODE](http://fode.education.gov.pg/admission.html)
