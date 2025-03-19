@@ -19,7 +19,7 @@ are decided in each individual State.
 | __✗__ | [District of Columbia](DC.md) |
 | __✓__ | [Delaware](Delaware.md) |
 | __✓__ | [Florida](Florida.md) |
-| __✗__ | Georgia |
+| __✗__ | [Georgia](Georgia.md) |
 | __✗__ | [Hawaii](Hawaii.md) |
 | __✓__ | [Iowa](Iowa.md) |
 | __✓__ | [Idaho](Idaho.md) |
