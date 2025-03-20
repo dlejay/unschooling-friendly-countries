@@ -28,7 +28,7 @@ are decided in each individual State.
 | __✗__ | [Kansas](Kansas.md) |
 | __✗__ | [Kentucky](Kentucky.md) |
 | __✓__ | [Louisiana](Louisiana.md) |
-| __✗__ | Massachusetts |
+| __✗__ | [Massachusetts](Massachusetts.md) |
 | __✗__ | Maryland |
 | __✗__ | Maine |
 | __✗__ | Michigan |
