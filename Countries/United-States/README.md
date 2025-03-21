@@ -29,7 +29,7 @@ are decided in each individual State.
 | __✗__ | [Kentucky](Kentucky.md) |
 | __✓__ | [Louisiana](Louisiana.md) |
 | __✗__ | [Massachusetts](Massachusetts.md) |
-| __✗__ | Maryland |
+| __✗__ | [Maryland](Maryland.md) |
 | __✗__ | Maine |
 | __✗__ | Michigan |
 | __✗__ | Minnesota |
