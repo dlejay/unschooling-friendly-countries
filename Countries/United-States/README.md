@@ -30,7 +30,7 @@ are decided in each individual State.
 | __✓__ | [Louisiana](Louisiana.md) |
 | __✗__ | [Massachusetts](Massachusetts.md) |
 | __✗__ | [Maryland](Maryland.md) |
-| __✗__ | Maine |
+| __✗__ | [Maine](Maine.md) |
 | __✗__ | Michigan |
 | __✗__ | Minnesota |
 | __✓__ | [Missouri](Missouri.md) |
