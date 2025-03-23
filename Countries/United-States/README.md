@@ -32,7 +32,7 @@ are decided in each individual State.
 | __✗__ | [Maryland](Maryland.md) |
 | __✗__ | [Maine](Maine.md) |
 | __✗__ | Michigan |
-| __✗__ | Minnesota |
+| __✗__ | [Minnesota](Minnesota.md) |
 | __✓__ | [Missouri](Missouri.md) |
 | __✓__ | [Mississippi](Mississippi.md) |
 | __✗__ | Montana |
