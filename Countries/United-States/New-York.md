@@ -1,4 +1,4 @@
-# Unschooling in Massachusetts
+# Unschooling in New York
 
 |       |                                            |
 | ----- | ------------------------------------------ |
