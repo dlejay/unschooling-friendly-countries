@@ -43,7 +43,7 @@ are decided in each individual State.
 | **✗** | [New Jersey](New-Jersey.md)         |
 | **✗** | [New Mexico](New-Mexico.md)         |
 | **✓** | [Nevada](Nevada.md)                 |
-| **✗** | New York                            |
+| **✗** | [New York](New-York.md)             |
 | **✓** | [Ohio](Ohio.md)                     |
 | **✓** | [Oklahoma](Oklahoma.md)             |
 | **✗** | [Oregon](Oregon.md)                 |
