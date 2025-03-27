@@ -16,6 +16,9 @@ A Spunik article in 2022 talks about including homeschooling in Abkhaze law simi
 Evidence strongly suggests that homeschooling is a practiced reality within Abkhazia, particularly among the ethnic Georgian community residing in the Gali region, as
 explained by the Georgian journalist Lana Kokaia in 2022.
 
+> Back In Gali, however, families either homeschool to provide children with
+> knowledge of their native language, or face sending them away to study.
+
 ## Sources
 
 - [_СЕМЕЙНЫЙ КОДЕКС_](https://parlamentra.org/upload/iblock/8ae/8ae11f66a9112be0f35dd1daa3e64897.doc)
