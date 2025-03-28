@@ -35,7 +35,7 @@ are decided in each individual State.
 | **✗** | [Minnesota](Minnesota.md)           |
 | **✓** | [Missouri](Missouri.md)             |
 | **✓** | [Mississippi](Mississippi.md)       |
-| **✗** | Montana                             |
+| **✓** | [Montana](Montana.md)               |
 | **✗** | [North Carolina](North-Carolina.md) |
 | **✗** | North Dakota                        |
 | **✓** | [Nebraska](Nebraska.md)             |
