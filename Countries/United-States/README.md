@@ -57,6 +57,6 @@ are decided in each individual State.
 | **✗** | [Virginia](Virginia.md)             |
 | **✗** | Vermont                             |
 | **✗** | [Washington](Washington.md)         |
-| **✗** | Wisconsin                           |
+| **✗** | [Wisconsin](Wisconsin.md)           |
 | **✗** | [West Virginia](West-Virginia.md)   |
 | **✓** | [Wyoming](Wyoming.md)               |
