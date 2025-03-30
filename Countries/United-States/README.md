@@ -37,7 +37,7 @@ are decided in each individual State.
 | **✓** | [Mississippi](Mississippi.md)       |
 | **✓** | [Montana](Montana.md)               |
 | **✗** | [North Carolina](North-Carolina.md) |
-| **✗** | North Dakota                        |
+| **✗** | [North Dakota](North-Dakota.md)     |
 | **✓** | [Nebraska](Nebraska.md)             |
 | **✗** | New Hampshire                       |
 | **✗** | [New Jersey](New-Jersey.md)         |
