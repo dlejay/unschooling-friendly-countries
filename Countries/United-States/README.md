@@ -31,7 +31,7 @@ are decided in each individual State.
 | **✗** | [Massachusetts](Massachusetts.md)   |
 | **✗** | [Maryland](Maryland.md)             |
 | **✗** | [Maine](Maine.md)                   |
-| **✗** | Michigan                            |
+| **✓** | [Michigan](Michigan.md)             |
 | **✗** | [Minnesota](Minnesota.md)           |
 | **✓** | [Missouri](Missouri.md)             |
 | **✓** | [Mississippi](Mississippi.md)       |
