@@ -39,7 +39,7 @@ are decided in each individual State.
 | **✗** | [North Carolina](North-Carolina.md) |
 | **✗** | [North Dakota](North-Dakota.md)     |
 | **✓** | [Nebraska](Nebraska.md)             |
-| **✗** | New Hampshire                       |
+| **✗** | [New Hampshire](New-Hampshire.md)   |
 | **✗** | [New Jersey](New-Jersey.md)         |
 | **✗** | [New Mexico](New-Mexico.md)         |
 | **✓** | [Nevada](Nevada.md)                 |
