@@ -55,7 +55,7 @@ are decided in each individual State.
 | **✓** | [Texas](Texas.md)                   |
 | **✓** | [Utah](Utah.md)                     |
 | **✗** | [Virginia](Virginia.md)             |
-| **✗** | Vermont                             |
+| **✗** | [Vermont](Vermont.md)               |
 | **✗** | [Washington](Washington.md)         |
 | **✗** | [Wisconsin](Wisconsin.md)           |
 | **✗** | [West Virginia](West-Virginia.md)   |
