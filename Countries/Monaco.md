@@ -1,14 +1,14 @@
 # Unschooling in Monaco
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
 
+|       |                                            |
+| ----- | ------------------------------------------ |
+| **✓** | Homeschooling is a legal form of schooling |
+| **✓** | It requires no prior authorisation         |
+| **✓** | It can be curriculum-free                  |
 
 ## Context
 
-Homeschooling in Monaco is governed by Article 5 of the _Loi n. 1.334 du 12/07/2007 sur l'éducation_ :
+Homeschooling in Monaco is governed by Article 5 of the *Loi n. 1.334 du 12/07/2007 sur l'éducation* :
 
 > Anyone who intends to have a child subject to compulsory schooling given home education must,
 > within the time limits referred to in the preceding article,
@@ -46,6 +46,11 @@ Homeschooling in Monaco is governed by Article 5 of the _Loi n. 1.334 du 12/07/2
 > the legal representative of the child or the person actually taking custody of the child are put in remains,
 > within fifteen days of notification, to enroll their child in a public or private educational establishment.
 
+This is confirmed by monservicepublic.gouv.mc
+
+> In the case of enrollment outside the Principality or homeschooling, you are required to inform the Director of National Education, Youth and Sports by submitting a declaration to them.
+
 ## Sources
 
-* [legimonaco.mc](https://www.legimonaco.mc/305/legismclois.nsf/db3b0488a44ebcf9c12574c7002a8e84/2146a055414cc749c125773f003d7302!OpenDocument&Highlight=0,1.334)
+- [legimonaco.mc](https://www.legimonaco.mc/305/legismclois.nsf/db3b0488a44ebcf9c12574c7002a8e84/2146a055414cc749c125773f003d7302!OpenDocument&Highlight=0,1.334)
+- [monservicepublic.gouv.mc](https://monservicepublic.gouv.mc/thematiques/education/enseignement/inscriptions/inscrire-votre-enfant-en-ecole-elementaire-cp-ce1-ce2-cm1-et-cm2)
