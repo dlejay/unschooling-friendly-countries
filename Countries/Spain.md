@@ -14,7 +14,7 @@ Article 4 of the _Ley Orgánica de Educación_ states :
 
 ## News
 
-According to El País, there could be between 2,000 and 4,000 homeschooling
+According to El País, in 2023 there could have been between 2,000 and 4,000 homeschooling
 families in Spain.
 
 ## Sources
