@@ -1,12 +1,12 @@
 # Unschooling in San Marino
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
-| __✗__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
 
+|       |                                            |
+| ----- | ------------------------------------------ |
+| **✗** | Homeschooling is a legal form of schooling |
+| **✗** | It requires no prior authorisation         |
+| **✗** | It can be curriculum-free                  |
 
-## Context
+## Compulsory education
 
 Schooling is mandatory in San Marino. Article 4 of _LEGGE 30 luglio 1980, n.60_ states that :
 
@@ -21,5 +21,4 @@ which has then been extended to 6th → 16th.
 
 ## Sources
 
-* [_LEGGE 30 luglio 1980, n.60_](https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti.html)
-
+- [_LEGGE 30 luglio 1980, n.60_](https://www.consigliograndeegenerale.sm/on-line/home/archivio-leggi-decreti-e-regolamenti.html)
