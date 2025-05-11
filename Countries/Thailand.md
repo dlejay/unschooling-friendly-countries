@@ -44,7 +44,7 @@ The Ministry confirmed it would form a working group to address the complaints a
 
 ## Sources
 
-- [Constitution of Thailand](<https://constitutionnet.org/sites/default/files/2017-05/CONSTITUTION+OF+THE+KINGDOM+OF+THAILAND+(B.E.+2560+(2017).pdf>)
+- [Constitution of Thailand](<https://constitutionnet.org/sites/default/files/2017-05/CONSTITUTION+OF+THE+KINGDOM+OF+THAILAND+(B.E.+2560+(2017)).pdf>)
 - [expat.com](https://www.expat.com/forum/viewtopic.php?id=873373)
 - [HSLDA](https://hslda.org/post/thailand)
 - [ร้อง สพฐ. แก้คู่มือ Home School ใหม่ ชี้เงื่อนไขเยอะ ทำเด็กตกหล่น](https://theactive.thaipbs.or.th/news/learningeducation-20240524)
