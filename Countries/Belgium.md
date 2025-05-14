@@ -1,12 +1,16 @@
 # Unschooling in Belgium
 
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✗__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
+|       |                                            |
+| ----- | ------------------------------------------ |
+| **✓** | Homeschooling is a legal form of schooling |
+| **✗** | It requires no prior authorisation         |
+| **✗** | It can be curriculum-free                  |
 
-## Context
+## Compulsory education
+
+Education in Belgium is compulsory between the ages of 5 and 18.
+
+## Unschooling
 
 The Constitution of Belgium guarantees a “free choice” of education.
 Most schooling laws depend on the Community level (either Flanders, French speaking or German speaking).
@@ -16,12 +20,12 @@ and homeschoolers must pass national examinations or be forced to go to school.
 
 ## Sources
 
-[Belgium Constitution](https://www.dekamer.be/kvvcr/pdf_sections/publications/constitution/GrondwetUK.pdf), look for Article 24
+- [Belgium Constitution](https://www.dekamer.be/kvvcr/pdf_sections/publications/constitution/GrondwetUK.pdf), look for Article 24
 
-[thevillage.be](https://www.thevillage.be/parenting/school/homeschooling/)
+- [thevillage.be](https://www.thevillage.be/parenting/school/homeschooling/)
 
-[enseignement.be](http://www.enseignement.be)
+- [enseignement.be](http://www.enseignement.be)
 
-[onderwijs.vlaanderen.be](https://onderwijs.vlaanderen.be/nl/huisonderwijs-en-de-examencommissie)
+- [onderwijs.vlaanderen.be](https://onderwijs.vlaanderen.be/nl/huisonderwijs-en-de-examencommissie)
 
-[ostbelgienbildung.be](https://www.ostbelgienbildung.be/desktopdefault.aspx/tabid-5175/9008_read-49553/)
+- [ostbelgienbildung.be](https://www.ostbelgienbildung.be/desktopdefault.aspx/tabid-5175/9008_read-49553/)
