@@ -252,28 +252,23 @@ or a self-governing territory with permanent population not part of a sovereign 
 |           ![Unschooling friendly countries near Tokyo](Maps/Unschooling_near_Tokyo.svg)            | Tokyo         |
 |           ![Unschooling friendly countries near Dubai](Maps/Unschooling_near_Dubai.svg)            | Dubai         |
 
- ## Global developments in compulsory early childhood education (2022–2025)
+## Global developments in compulsory early childhood education (2022–2025)
 
 Since 2022, a growing number of countries have introduced or expanded laws
 making preschool education compulsory for children between the ages of 3 and 5.
 This trend is closely linked to international policy initiatives and
 coordination mechanisms.
 
-A major turning point was the UNESCO World Conference on Early Childhood Care
-and Education, held in Tashkent in November 2022.
-During this event, 147 countries endorsed the Tashkent Declaration, which called
-for all governments to provide at least one year of free and compulsory pre-
-primary education.
-This commitment aligns with Sustainable Development Goal 4.2, which aims for
-universal access to quality early childhood education by 2030.
+A major turning point was the **UNESCO World Conference on Early Childhood Care
+and Education**, held in Tashkent in November 2022.
+During this event, 147 countries endorsed the **Tashkent Declaration**, which called
+for all governments to provide **at least one year of free and compulsory pre-primary education**.
 
 These reforms are often reinforced by external incentives.
-In the European Union, for instance, funding from the Recovery and Resilience
-Facility is conditional on implementing early childhood education targets.
-In other regions, World Bank and Global Partnership for Education grants support
-similar reforms.
+In the European Union, for instance, funding from the **Recovery and Resilience Facility** is conditional on implementing early childhood education targets.
+In other regions, **World Bank** and **Global Partnership for Education** grants support similar reforms.
 
-Additionally, international organizations such as the OECD and UNESCO have begun
+Additionally, international organizations such as the **OECD** and **UNESCO** have begun
 publishing detailed comparisons of early childhood systems, including legal
 obligations and enrollment rates.
 This reporting contributes to a form of peer pressure, encouraging countries to
