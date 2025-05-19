@@ -4,249 +4,277 @@
 
 Whithin the context of the following list, an _unschooling friendly country_ is a sovereign state
 or a self-governing territory with permanent population not part of a sovereign state, in which:
+
 1. Homeschooling is a legal form of schooling ;
 2. It requires no prior authorisation ;
 3. It can be curriculum-free.
 
 ## List of countries
 
-| | Countries |
-| - | :------ |
-| __✓__ | [Abkhazia](Countries/Abkhazia.md) |                         <!-- A -->
-| __✗__ | [Afghanistan](Countries/Afghanistan.md) |
-| __✗__ | [Albania](Countries/Albania.md) |
-| __✗__ | [Algeria](Countries/Algeria.md) |
-| __✗__ | [American Samoa](Countries/American-Samoa.md) |
-| __✗__ | [Andorra](Countries/Andorra.md) |
-| __✗__ | [Angola](Countries/Angola.md) |
-| __✗__ | [Anguilla](Countries/Anguilla.md) |
-| __✗__ | [Antigua and Barbuda](Countries/Antigua-and-Barbuda.md) |
-| __✗__ | [Argentina](Countries/Argentina.md) |
-| __✗__ | [Armenia](Countries/Armenia.md) |
-| __✗__ | [Aruba](Countries/Aruba.md) |
-| __✗__ | [Australia](Countries/Australia/README.md) |
-| __✗__ | [Austria](Countries/Austria.md) |
-| __✗__ | [Azerbaijan](Countries/Azerbaijan.md) |
-| __✓__ | [Bahamas](Countries/Bahamas.md) |                          <!-- B -->
-| __✓__ | [Bahrain](Countries/Bahrain.md) |
-| __✗__ | [Bangladesh](Countries/Bangladesh.md) |
-| __✗__ | [Barbados](Countries/Barbados.md) |
-| __✗__ | [Belarus](Countries/Belarus.md) |
-| __✗__ | [Belgium](Countries/Belgium.md) |
-| __✗__ | [Belize](Countries/Belize.md) |
-| __✓__ | [Benin](Countries/Benin.md) |
-| __✗__ | [Bermuda](Countries/Bermuda.md) |
-| __✓__ | [Bhutan](Countries/Bhutan.md) |
-| __✓__ | [Bolivia](Countries/Bolivia.md) |
-| __✗__ | [Bosnia and Herzegovina](Countries/Bosnia-Herzegoniva.md) |
-| __✓__ | [Botswana](Countries/Botswana.md) |
-| __✗__ | [Brazil](Countries/Brazil.md) |
-| __✗__ | [British Virgin Islands](Countries/British-Virgin-Islands.md) |
-| __✗__ | [Brunei](Countries/Brunei.md) |
-| __✗__ | [Bulgaria](Countries/Bulgaria.md) |
-| __✓__ | [Burkina Faso](Countries/Burkina-Faso.md) |
-| __✓__ | [Burundi](Countries/Burundi.md) |
-| __✓__ | [Cambodia](Countries/Cambodia.md) |                         <!-- C -->
-| __✗__ | [Cameroon](Countries/Cameroon.md) |
-| __~__ | [Canada](Countries/Canada/README.md) |
-| __✗__ | [Cape Verde](Countries/Cape-Verde.md) |
-| __✗__ | [Cayman Islands](Countries/Cayman-Islands.md) |
-| __✗__ | [Centrafrique](Countries/Centrafrique.md) |
-| __✗__ | [Chad](Countries/Chad.md) |
-| __✓__ | [Chile](Countries/Chile.md) |
-| __~__ | [China](Countries/China/README.md) |
-| __✓__ | [Colombia](Countries/Colombia.md) |
-| __✗__ | [Comoros](Countries/Comoros.md) |
-| __✗__ | [Congo-Brazzaville](Countries/Congo-Brazzaville.md) |
-| __✗__ | [Congo-Kinshasa](Countries/Congo-Kinshasa.md) |
-| __✗__ | [Cook Islands](Countries/Cook-Islands.md) |
-| __✗__ | [Costa Rica](Countries/Costa-Rica.md) |
-| __✗__ | [Croatia](Countries/Croatia.md) |
-| __✗__ | [Cuba](Countries/Cuba.md) |
-| __✗__ | [Curaçao](Countries/Curaçao.md) |
-| __✗__ | [Cyprus](Countries/Cyprus.md) |
-| __✗__ | [Czech Republic](Countries/Czech-Republic.md) |
-| __✗__ | [Denmark](Countries/Denmark/README.md) |                          <!-- D -->
-| __✓__ | [Djibouti](Countries/Djibouti.md) |
-| __✗__ | [Dominica](Countries/Dominica.md) |
-| __✓__ | [Dominican Republic](Countries/Dominican-Republic.md) |
-| __✗__ | [East Timor](Countries/East-Timor.md) |                       <!-- E -->
-| __✗__ | [Ecuador](Countries/Ecuador.md) |
-| __✗__ | [Egypt](Countries/Egypt.md) |
-| __✓__ | [El Salvador](Countries/El-Salvador.md) |
-| __✓__ | [Equatorial Guinea](Countries/Equatorial-Guinea.md) |
-| __✓__ | [Eritrea](Countries/Eritrea.md) |
-| __✗__ | [Estonia](Countries/Estonia.md) |
-| __✗__ | [Eswatini](Countries/Eswatini.md) |
-| __✓__ | [Ethiopia](Countries/Ethiopia.md) |
-| __✗__ | [Falkland Islands](Countries/Falkland-Islands.md) |  <!-- F -->
-| __✗__ | [Fidji](Countries/Fidji.md) |
-| __✗__ | [Finland](Countries/Finland/README.md) |
-| __~__ | [France](Countries/France/README.md) |
-| __✓__ | [Gabon](Countries/Gabon.md) |                            <!-- G -->
-| __✓__ | [Gambia](Countries/Gambia.md) |
-| __✓__ | [Georgia](Countries/Georgia.md) |
-| __✗__ | [Germany](Countries/Germany.md) |
-| __✗__ | [Ghana](Countries/Ghana.md) |
-| __✓__ | [Gibraltar](Countries/Gibraltar.md) |
-| __✗__ | [Greece](Countries/Greece.md) |
-| __✗__ | [Grenada](Countries/Grenada.md) |
-| __✓__ | [Guam](Countries/Guam.md) |
-| __✗__ | [Guatemala](Countries/Guatemala.md) |
-| __✗__ | [Guernsey](Countries/Guernsey.md) |
-| __✗__ | [Guinea](Countries/Guinea.md) |
-| __✗__ | [Guinea-Bissau](Countries/Guinea-Bissau.md) |
-| __✓__ | [Guyana](Countries/Guyana.md) |
-| __✓__ | [Haiti](Countries/Haiti.md) |      <!-- H -->
-| __✗__ | [Honduras](Countries/Honduras.md) |
-| __✗__ | [Hungary](Countries/Hungary.md) |
-| __✗__ | [Iceland](Countries/Iceland.md) |  <!-- I -->
-| __✓__ | [India](Countries/India.md) |
-| __✓__ | [Indonesia](Countries/Indonesia.md) |
-| __✗__ | [Iran](Countries/Iran.md) |
-| __✗__ | [Iraq](Countries/Iraq.md) |
-| __✗__ | [Ireland](Countries/Ireland.md) |
-| __✓__ | [Isle of Man](Countries/Isle-of-Man.md) |
-| __✗__ | [Israel](Countries/Israel.md) |
-| __✗__ | [Italy](Countries/Italy.md) |
-| __✗__ | [Ivory Coast](Countries/Ivory-Coast.md) |
-| __✓__ | [Jamaica](Countries/Jamaica.md) |  <!-- J -->
-| __✗__ | [Japan](Countries/Japan.md) |
-| __✗__ | [Jersey](Countries/Jersey.md) |
-| __✗__ | [Jordan](Countries/Jordan.md) |
-| __✗__ | [Kazakhstan](Countries/Kazakhstan.md) |                       <!-- K -->
-| __✗__ | [Kenya](Countries/Kenya.md) |
-| __✗__ | [Kiribati](Countries/Kiribati.md) |
-| __✗__ | [Kosovo](Countries/Kosovo.md) |
-| __✓__ | [Kuwait](Countries/Kuwait.md) |
-| __✗__ | [Kyrgyzstan](Countries/Kyrgyzstan.md) |
-| __✗__ | [Laos](Countries/Laos.md) |                             <!-- L -->
-| __✗__ | [Latvia](Countries/Latvia.md) |
-| __✗__ | [Lebanon](Countries/Lebanon.md) |
-| __✗__ | [Lesotho](Countries/Lesotho.md) |
-| __✗__ | [Liberia](Countries/Liberia.md) |
-| __✗__ | [Libya](Countries/Libya.md) |
-| __✗__ | [Liechtenstein](Countries/Liechtenstein.md) |
-| __✗__ | [Lithuania](Countries/Lithuania.md) |
-| __✗__ | [Luxembourg](Countries/Luxembourg.md) |
-| __✓__ | [Madagascar](Countries/Madagascar.md) |                       <!-- M -->
-| __✗__ | [Malawi](Countries/Malawi.md) |
-| __✗__ | [Malaysia](Countries/Malaysia.md) |
-| __✗__ | [Maldives](Countries/Maldives.md) |
-| __✗__ | [Mali](Countries/Mali.md) |
-| __✗__ | [Malta](Countries/Malta.md) |
-| __✗__ | [Marshall Islands](Countries/Marshall-Islands.md) |
-| __✓__ | [Mauritania](Countries/Mauritania.md) |
-| __✗__ | [Mauritius](Countries/Mauritius.md) |
-| __✓__ | [Mexico](Countries/Mexico.md) |
-| __✗__ | [Micronesia](Countries/Micronesia.md) |
-| __✗__ | [Moldova](Countries/Moldova.md) |
-| __✓__ | [Monaco](Countries/Monaco.md) |
-| __✓__ | [Mongolia](Countries/Mongolia.md) |
-| __✗__ | [Montenegro](Countries/Montenegro.md) |
-| __✗__ | [Montserrat](Countries/Montserrat.md) |
-| __✗__ | [Morocco](Countries/Morocco.md) |
-| __✗__ | [Mozambique](Countries/Mozambique.md) |
-| __✗__ | [Myanmar](Countries/Myanmar.md) |
-| __✗__ | [Namibia](Countries/Namibia.md) |                          <!-- N -->
-| __✗__ | [Nauru](Countries/Nauru.md) |
-| __✗__ | [Nepal](Countries/Nepal.md) |
-| __✗__ | [Netherlands](Countries/Netherlands.md) |
-| __✗__ | [New Zealand](Countries/New-Zealand.md) |
-| __✓__ | [Nicaragua](Countries/Nicaragua.md) |
-| __✗__ | [Niger](Countries/Niger.md) |
-| __✗__ | [Nigeria](Countries/Nigeria.md) |
-| __✗__ | [Niue](Countries/Niue.md) |
-| __✗__ | [North Korea](Countries/North-Korea.md) |
-| __✗__ | [Northern Macedonia](Countries/Northern-Macedonia.md) |
-| __✗__ | [Northern Mariana Islands](Countries/Northern-Mariana-Islands.md) |
-| __✗__ | [Northern Cyprus](Countries/Northern-Cyprus.md) |
-| __✗__ | [Norway](Countries/Norway.md) |
-| __✗__ | [Oman](Countries/Oman.md) |                             <!-- O -->
-| __✓__ | [Pakistan](Countries/Pakistan.md) |                         <!-- P -->
-| __✗__ | [Palau](Countries/Palau.md) |
-| __✗__ | [Palestine](Countries/Palestine.md) |
-| __✗__ | [Panama](Countries/Panama.md) |
-| __✓__ | [Papua New Guinea](Countries/Papua-New-Guinea.md) |
-| __✗__ | [Paraguay](Countries/Paraguay.md) |
-| __✓__ | [Peru](Countries/Peru.md) |
-| __✓__ | [Philippines](Countries/Philippines.md) |
-| __✗__ | [Pitcairn, Henderson, Ducie and Oeno Islands](Countries/Pitcairn-Islands.md) |
-| __✗__ | [Poland](Countries/Poland.md) |
-| __✗__ | [Portugal](Countries/Portugal.md) |
-| __✗__ | [Puerto Rico](Countries/Puerto-Rico.md) |
-| __✗__ | [Qatar](Countries/Qatar.md) |                            <!-- Q -->
-| __✗__ | [Romania](Countries/Romania.md) |                          <!-- R -->
-| __✗__ | [Russia](Countries/Russia.md) |
-| __✓__ | [Rwanda](Countries/Rwanda.md) |
-| __✓__ | [Sahrawi ADR](Countries/SADR.md) |                      <!-- S -->
-| __✓__ | [Saint Helena, Ascension and Tristan da Cunha](Countries/Saint-Helena.md) |
-| __✗__ | [Saint Kitts and Nevis](Countries/Saint-Kitts-and-Nevis.md) |
-| __✗__ | [Saint Lucia](Countries/Saint-Lucia.md) |
-| __✗__ | [Saint Vincent and the Grenadines](Countries/Saint-Vincent-and-the-Grenadines.md) |
-| __✗__ | [Samoa](Countries/Samoa.md) |
-| __✗__ | [San Marino](Countries/San-Marino.md) |
-| __✗__ | [São Tomé and Príncipe](Countries/São-Tomé-and-Príncipe.md) |
-| __✗__ | [Saudi Arabia](Countries/Saudi-Arabia.md) |
-| __✗__ | [Senegal](Countries/Senegal.md) |
-| __✗__ | [Serbia](Countries/Serbia.md) |
-| __✗__ | [Seychelles](Countries/Seychelles.md) |
-| __✓__ | [Sierra Leone](Countries/Sierra-Leone.md) |
-| __✗__ | [Singapore](Countries/Singapore.md) |
-| __✗__ | [Sint Maarten](Countries/Sint-Maarten.md) |
-| __✗__ | [Slovakia](Countries/Slovakia.md) |
-| __✗__ | [Slovenia](Countries/Slovenia.md) |
-| __✗__ | [Solomon Islands](Countries/Solomon-Islands.md) |
-| __✓__ | [Somalia](Countries/Somalia.md) |
-| __✓__ | [Somaliland](Countries/Somaliland.md) |
-| __✗__ | [South Africa](Countries/South-Africa.md) |
-| __✗__ | [South Korea](Countries/South-Korea.md) |
-| __✓__ | [South Ossetia](Countries/South-Ossetia.md) |
-| __✗__ | [South Sudan](Countries/South-Sudan.md) |
-| __✗__ | [Sovereign Base Areas of Akrotiri and Dhekelia](Countries/SBAs.md) |
-| __✗__ | [Spain](Countries/Spain.md) |
-| __✓__ | [Sri Lanka](Countries/Sri-Lanka.md) |
-| __✗__ | [Sudan](Countries/Sudan.md) |
-| __✗__ | [Suriname](Countries/Suriname.md) |
-| __✗__ | [Sweden](Countries/Sweden.md) |
-| __✗__ | [Switzerland](Countries/Switzerland/README.md) |
-| __✗__ | [Syria](Countries/Syria.md) |
-| __✗__ | [Taiwan](Countries/Taiwan.md) |    <!-- T -->
-| __✗__ | [Tajikistan](Countries/Tajikistan.md) |
-| __✗__ | [Tanzania](Countries/Tanzania.md) |
-| __✗__ | [Thailand](Countries/Thailand.md) |
-| __✗__ | [Togo](Countries/Togo.md) |
-| __✗__ | [Tonga](Countries/Tonga.md) |
-| __✗__ | [Transnistria](Countries/Transnistria.md) |
-| __✓__ | [Trinidad and Tobago](Countries/Trinidad-and-Tobago.md) |
-| __✗__ | [Tunisia](Countries/Tunisia.md) |
-| __✗__ | [Turkey](Countries/Turkey.md) |
-| __✗__ | [Turkmenistan](Countries/Turkmenistan.md) |
-| __✗__ | [Turks and Caicos Islands](Countries/Turks-and-Caicos-Islands.md) |
-| __✓__ | [Tuvalu](Countries/Tuvalu.md) |
-| __✓__ | [Uganda](Countries/Uganda.md) |                           <!-- U -->
-| __✗__ | [Ukraine](Countries/Ukraine.md) |
-| __✗__ | [United Arab Emirates](Countries/UAE.md) |
-| __~__ | [United Kingdom](<Countries/United Kingdom/README.md>) |
-| __~__ | [United States](Countries/United-States/README.md) |
-| __✗__ | [U. S. Virgin Islands](Countries/US-Virgin-Islands.md) |
-| __✗__ | [Uruguay](Countries/Uruguay.md) |
-| __✗__ | [Uzbekistan](Countries/Uzbekistan.md) |
-| __✓__ | [Vanuatu](Countries/Vanuatu.md) |                          <!-- V -->
-| __✓__ | [Vatican City](Countries/Vatican-City.md) |
-| __~__ | [Venezuela](Countries/Venezuela.md) |
-| __✓__ | [Vietnam](Countries/Vietnam.md) |
-| __✓__ | [Yemen](Countries/Yemen.md) |                            <!-- Y -->
-| __✗__ | [Zambia](Countries/Zambia.md) |                           <!-- Z -->
-| __✗__ | [Zimbabwe](Countries/Zimbabwe.md) |
+|       | Countries                                                                         |
+| ----- | :-------------------------------------------------------------------------------- |
+| **✓** | [Abkhazia](Countries/Abkhazia.md)                                                 |
+| **✗** | [Afghanistan](Countries/Afghanistan.md)                                           |
+| **✗** | [Albania](Countries/Albania.md)                                                   |
+| **✗** | [Algeria](Countries/Algeria.md)                                                   |
+| **✗** | [American Samoa](Countries/American-Samoa.md)                                     |
+| **✗** | [Andorra](Countries/Andorra.md)                                                   |
+| **✗** | [Angola](Countries/Angola.md)                                                     |
+| **✗** | [Anguilla](Countries/Anguilla.md)                                                 |
+| **✗** | [Antigua and Barbuda](Countries/Antigua-and-Barbuda.md)                           |
+| **✗** | [Argentina](Countries/Argentina.md)                                               |
+| **✗** | [Armenia](Countries/Armenia.md)                                                   |
+| **✗** | [Aruba](Countries/Aruba.md)                                                       |
+| **✗** | [Australia](Countries/Australia/README.md)                                        |
+| **✗** | [Austria](Countries/Austria.md)                                                   |
+| **✗** | [Azerbaijan](Countries/Azerbaijan.md)                                             |
+| **✓** | [Bahamas](Countries/Bahamas.md)                                                   |
+| **✓** | [Bahrain](Countries/Bahrain.md)                                                   |
+| **✗** | [Bangladesh](Countries/Bangladesh.md)                                             |
+| **✗** | [Barbados](Countries/Barbados.md)                                                 |
+| **✗** | [Belarus](Countries/Belarus.md)                                                   |
+| **✗** | [Belgium](Countries/Belgium.md)                                                   |
+| **✗** | [Belize](Countries/Belize.md)                                                     |
+| **✓** | [Benin](Countries/Benin.md)                                                       |
+| **✗** | [Bermuda](Countries/Bermuda.md)                                                   |
+| **✓** | [Bhutan](Countries/Bhutan.md)                                                     |
+| **✓** | [Bolivia](Countries/Bolivia.md)                                                   |
+| **✗** | [Bosnia and Herzegovina](Countries/Bosnia-Herzegoniva.md)                         |
+| **✓** | [Botswana](Countries/Botswana.md)                                                 |
+| **✗** | [Brazil](Countries/Brazil.md)                                                     |
+| **✗** | [British Virgin Islands](Countries/British-Virgin-Islands.md)                     |
+| **✗** | [Brunei](Countries/Brunei.md)                                                     |
+| **✗** | [Bulgaria](Countries/Bulgaria.md)                                                 |
+| **✓** | [Burkina Faso](Countries/Burkina-Faso.md)                                         |
+| **✓** | [Burundi](Countries/Burundi.md)                                                   |
+| **✓** | [Cambodia](Countries/Cambodia.md)                                                 |
+| **✗** | [Cameroon](Countries/Cameroon.md)                                                 |
+| **~** | [Canada](Countries/Canada/README.md)                                              |
+| **✗** | [Cape Verde](Countries/Cape-Verde.md)                                             |
+| **✗** | [Cayman Islands](Countries/Cayman-Islands.md)                                     |
+| **✗** | [Centrafrique](Countries/Centrafrique.md)                                         |
+| **✗** | [Chad](Countries/Chad.md)                                                         |
+| **✓** | [Chile](Countries/Chile.md)                                                       |
+| **~** | [China](Countries/China/README.md)                                                |
+| **✓** | [Colombia](Countries/Colombia.md)                                                 |
+| **✗** | [Comoros](Countries/Comoros.md)                                                   |
+| **✗** | [Congo-Brazzaville](Countries/Congo-Brazzaville.md)                               |
+| **✗** | [Congo-Kinshasa](Countries/Congo-Kinshasa.md)                                     |
+| **✗** | [Cook Islands](Countries/Cook-Islands.md)                                         |
+| **✗** | [Costa Rica](Countries/Costa-Rica.md)                                             |
+| **✗** | [Croatia](Countries/Croatia.md)                                                   |
+| **✗** | [Cuba](Countries/Cuba.md)                                                         |
+| **✗** | [Curaçao](Countries/Curaçao.md)                                                   |
+| **✗** | [Cyprus](Countries/Cyprus.md)                                                     |
+| **✗** | [Czech Republic](Countries/Czech-Republic.md)                                     |
+| **✗** | [Denmark](Countries/Denmark/README.md)                                            |
+| **✓** | [Djibouti](Countries/Djibouti.md)                                                 |
+| **✗** | [Dominica](Countries/Dominica.md)                                                 |
+| **✓** | [Dominican Republic](Countries/Dominican-Republic.md)                             |
+| **✗** | [East Timor](Countries/East-Timor.md)                                             |
+| **✗** | [Ecuador](Countries/Ecuador.md)                                                   |
+| **✗** | [Egypt](Countries/Egypt.md)                                                       |
+| **✓** | [El Salvador](Countries/El-Salvador.md)                                           |
+| **✓** | [Equatorial Guinea](Countries/Equatorial-Guinea.md)                               |
+| **✓** | [Eritrea](Countries/Eritrea.md)                                                   |
+| **✗** | [Estonia](Countries/Estonia.md)                                                   |
+| **✗** | [Eswatini](Countries/Eswatini.md)                                                 |
+| **✓** | [Ethiopia](Countries/Ethiopia.md)                                                 |
+| **✗** | [Falkland Islands](Countries/Falkland-Islands.md)                                 |
+| **✗** | [Fidji](Countries/Fidji.md)                                                       |
+| **✗** | [Finland](Countries/Finland/README.md)                                            |
+| **~** | [France](Countries/France/README.md)                                              |
+| **✓** | [Gabon](Countries/Gabon.md)                                                       |
+| **✓** | [Gambia](Countries/Gambia.md)                                                     |
+| **✓** | [Georgia](Countries/Georgia.md)                                                   |
+| **✗** | [Germany](Countries/Germany.md)                                                   |
+| **✗** | [Ghana](Countries/Ghana.md)                                                       |
+| **✓** | [Gibraltar](Countries/Gibraltar.md)                                               |
+| **✗** | [Greece](Countries/Greece.md)                                                     |
+| **✗** | [Grenada](Countries/Grenada.md)                                                   |
+| **✓** | [Guam](Countries/Guam.md)                                                         |
+| **✗** | [Guatemala](Countries/Guatemala.md)                                               |
+| **✗** | [Guernsey](Countries/Guernsey.md)                                                 |
+| **✗** | [Guinea](Countries/Guinea.md)                                                     |
+| **✗** | [Guinea-Bissau](Countries/Guinea-Bissau.md)                                       |
+| **✓** | [Guyana](Countries/Guyana.md)                                                     |
+| **✓** | [Haiti](Countries/Haiti.md)                                                       |
+| **✗** | [Honduras](Countries/Honduras.md)                                                 |
+| **✗** | [Hungary](Countries/Hungary.md)                                                   |
+| **✗** | [Iceland](Countries/Iceland.md)                                                   |
+| **✓** | [India](Countries/India.md)                                                       |
+| **✓** | [Indonesia](Countries/Indonesia.md)                                               |
+| **✗** | [Iran](Countries/Iran.md)                                                         |
+| **✗** | [Iraq](Countries/Iraq.md)                                                         |
+| **✗** | [Ireland](Countries/Ireland.md)                                                   |
+| **✓** | [Isle of Man](Countries/Isle-of-Man.md)                                           |
+| **✗** | [Israel](Countries/Israel.md)                                                     |
+| **✗** | [Italy](Countries/Italy.md)                                                       |
+| **✗** | [Ivory Coast](Countries/Ivory-Coast.md)                                           |
+| **✓** | [Jamaica](Countries/Jamaica.md)                                                   |
+| **✗** | [Japan](Countries/Japan.md)                                                       |
+| **✗** | [Jersey](Countries/Jersey.md)                                                     |
+| **✗** | [Jordan](Countries/Jordan.md)                                                     |
+| **✗** | [Kazakhstan](Countries/Kazakhstan.md)                                             |
+| **✗** | [Kenya](Countries/Kenya.md)                                                       |
+| **✗** | [Kiribati](Countries/Kiribati.md)                                                 |
+| **✗** | [Kosovo](Countries/Kosovo.md)                                                     |
+| **✓** | [Kuwait](Countries/Kuwait.md)                                                     |
+| **✗** | [Kyrgyzstan](Countries/Kyrgyzstan.md)                                             |
+| **✗** | [Laos](Countries/Laos.md)                                                         |
+| **✗** | [Latvia](Countries/Latvia.md)                                                     |
+| **✗** | [Lebanon](Countries/Lebanon.md)                                                   |
+| **✗** | [Lesotho](Countries/Lesotho.md)                                                   |
+| **✗** | [Liberia](Countries/Liberia.md)                                                   |
+| **✗** | [Libya](Countries/Libya.md)                                                       |
+| **✗** | [Liechtenstein](Countries/Liechtenstein.md)                                       |
+| **✗** | [Lithuania](Countries/Lithuania.md)                                               |
+| **✗** | [Luxembourg](Countries/Luxembourg.md)                                             |
+| **✓** | [Madagascar](Countries/Madagascar.md)                                             |
+| **✗** | [Malawi](Countries/Malawi.md)                                                     |
+| **✗** | [Malaysia](Countries/Malaysia.md)                                                 |
+| **✗** | [Maldives](Countries/Maldives.md)                                                 |
+| **✗** | [Mali](Countries/Mali.md)                                                         |
+| **✗** | [Malta](Countries/Malta.md)                                                       |
+| **✗** | [Marshall Islands](Countries/Marshall-Islands.md)                                 |
+| **✓** | [Mauritania](Countries/Mauritania.md)                                             |
+| **✗** | [Mauritius](Countries/Mauritius.md)                                               |
+| **✓** | [Mexico](Countries/Mexico.md)                                                     |
+| **✗** | [Micronesia](Countries/Micronesia.md)                                             |
+| **✗** | [Moldova](Countries/Moldova.md)                                                   |
+| **✓** | [Monaco](Countries/Monaco.md)                                                     |
+| **✓** | [Mongolia](Countries/Mongolia.md)                                                 |
+| **✗** | [Montenegro](Countries/Montenegro.md)                                             |
+| **✗** | [Montserrat](Countries/Montserrat.md)                                             |
+| **✗** | [Morocco](Countries/Morocco.md)                                                   |
+| **✗** | [Mozambique](Countries/Mozambique.md)                                             |
+| **✗** | [Myanmar](Countries/Myanmar.md)                                                   |
+| **✗** | [Namibia](Countries/Namibia.md)                                                   |
+| **✗** | [Nauru](Countries/Nauru.md)                                                       |
+| **✗** | [Nepal](Countries/Nepal.md)                                                       |
+| **✗** | [Netherlands](Countries/Netherlands.md)                                           |
+| **✗** | [New Zealand](Countries/New-Zealand.md)                                           |
+| **✓** | [Nicaragua](Countries/Nicaragua.md)                                               |
+| **✗** | [Niger](Countries/Niger.md)                                                       |
+| **✗** | [Nigeria](Countries/Nigeria.md)                                                   |
+| **✗** | [Niue](Countries/Niue.md)                                                         |
+| **✗** | [North Korea](Countries/North-Korea.md)                                           |
+| **✗** | [Northern Macedonia](Countries/Northern-Macedonia.md)                             |
+| **✗** | [Northern Mariana Islands](Countries/Northern-Mariana-Islands.md)                 |
+| **✗** | [Northern Cyprus](Countries/Northern-Cyprus.md)                                   |
+| **✗** | [Norway](Countries/Norway.md)                                                     |
+| **✗** | [Oman](Countries/Oman.md)                                                         |
+| **✓** | [Pakistan](Countries/Pakistan.md)                                                 |
+| **✗** | [Palau](Countries/Palau.md)                                                       |
+| **✗** | [Palestine](Countries/Palestine.md)                                               |
+| **✗** | [Panama](Countries/Panama.md)                                                     |
+| **✓** | [Papua New Guinea](Countries/Papua-New-Guinea.md)                                 |
+| **✗** | [Paraguay](Countries/Paraguay.md)                                                 |
+| **✓** | [Peru](Countries/Peru.md)                                                         |
+| **✓** | [Philippines](Countries/Philippines.md)                                           |
+| **✗** | [Pitcairn, Henderson, Ducie and Oeno Islands](Countries/Pitcairn-Islands.md)      |
+| **✗** | [Poland](Countries/Poland.md)                                                     |
+| **✗** | [Portugal](Countries/Portugal.md)                                                 |
+| **✗** | [Puerto Rico](Countries/Puerto-Rico.md)                                           |
+| **✗** | [Qatar](Countries/Qatar.md)                                                       |
+| **✗** | [Romania](Countries/Romania.md)                                                   |
+| **✗** | [Russia](Countries/Russia.md)                                                     |
+| **✓** | [Rwanda](Countries/Rwanda.md)                                                     |
+| **✓** | [Sahrawi ADR](Countries/SADR.md)                                                  |
+| **✓** | [Saint Helena, Ascension and Tristan da Cunha](Countries/Saint-Helena.md)         |
+| **✗** | [Saint Kitts and Nevis](Countries/Saint-Kitts-and-Nevis.md)                       |
+| **✗** | [Saint Lucia](Countries/Saint-Lucia.md)                                           |
+| **✗** | [Saint Vincent and the Grenadines](Countries/Saint-Vincent-and-the-Grenadines.md) |
+| **✗** | [Samoa](Countries/Samoa.md)                                                       |
+| **✗** | [San Marino](Countries/San-Marino.md)                                             |
+| **✗** | [São Tomé and Príncipe](Countries/São-Tomé-and-Príncipe.md)                       |
+| **✗** | [Saudi Arabia](Countries/Saudi-Arabia.md)                                         |
+| **✗** | [Senegal](Countries/Senegal.md)                                                   |
+| **✗** | [Serbia](Countries/Serbia.md)                                                     |
+| **✗** | [Seychelles](Countries/Seychelles.md)                                             |
+| **✓** | [Sierra Leone](Countries/Sierra-Leone.md)                                         |
+| **✗** | [Singapore](Countries/Singapore.md)                                               |
+| **✗** | [Sint Maarten](Countries/Sint-Maarten.md)                                         |
+| **✗** | [Slovakia](Countries/Slovakia.md)                                                 |
+| **✗** | [Slovenia](Countries/Slovenia.md)                                                 |
+| **✗** | [Solomon Islands](Countries/Solomon-Islands.md)                                   |
+| **✓** | [Somalia](Countries/Somalia.md)                                                   |
+| **✓** | [Somaliland](Countries/Somaliland.md)                                             |
+| **✗** | [South Africa](Countries/South-Africa.md)                                         |
+| **✗** | [South Korea](Countries/South-Korea.md)                                           |
+| **✓** | [South Ossetia](Countries/South-Ossetia.md)                                       |
+| **✗** | [South Sudan](Countries/South-Sudan.md)                                           |
+| **✗** | [Sovereign Base Areas of Akrotiri and Dhekelia](Countries/SBAs.md)                |
+| **✗** | [Spain](Countries/Spain.md)                                                       |
+| **✓** | [Sri Lanka](Countries/Sri-Lanka.md)                                               |
+| **✗** | [Sudan](Countries/Sudan.md)                                                       |
+| **✗** | [Suriname](Countries/Suriname.md)                                                 |
+| **✗** | [Sweden](Countries/Sweden.md)                                                     |
+| **✗** | [Switzerland](Countries/Switzerland/README.md)                                    |
+| **✗** | [Syria](Countries/Syria.md)                                                       |
+| **✗** | [Taiwan](Countries/Taiwan.md)                                                     |
+| **✗** | [Tajikistan](Countries/Tajikistan.md)                                             |
+| **✗** | [Tanzania](Countries/Tanzania.md)                                                 |
+| **✗** | [Thailand](Countries/Thailand.md)                                                 |
+| **✗** | [Togo](Countries/Togo.md)                                                         |
+| **✗** | [Tonga](Countries/Tonga.md)                                                       |
+| **✗** | [Transnistria](Countries/Transnistria.md)                                         |
+| **✓** | [Trinidad and Tobago](Countries/Trinidad-and-Tobago.md)                           |
+| **✗** | [Tunisia](Countries/Tunisia.md)                                                   |
+| **✗** | [Turkey](Countries/Turkey.md)                                                     |
+| **✗** | [Turkmenistan](Countries/Turkmenistan.md)                                         |
+| **✗** | [Turks and Caicos Islands](Countries/Turks-and-Caicos-Islands.md)                 |
+| **✓** | [Tuvalu](Countries/Tuvalu.md)                                                     |
+| **✓** | [Uganda](Countries/Uganda.md)                                                     |
+| **✗** | [Ukraine](Countries/Ukraine.md)                                                   |
+| **✗** | [United Arab Emirates](Countries/UAE.md)                                          |
+| **~** | [United Kingdom](<Countries/United Kingdom/README.md>)                            |
+| **~** | [United States](Countries/United-States/README.md)                                |
+| **✗** | [U. S. Virgin Islands](Countries/US-Virgin-Islands.md)                            |
+| **✗** | [Uruguay](Countries/Uruguay.md)                                                   |
+| **✗** | [Uzbekistan](Countries/Uzbekistan.md)                                             |
+| **✓** | [Vanuatu](Countries/Vanuatu.md)                                                   |
+| **✓** | [Vatican City](Countries/Vatican-City.md)                                         |
+| **~** | [Venezuela](Countries/Venezuela.md)                                               |
+| **✓** | [Vietnam](Countries/Vietnam.md)                                                   |
+| **✓** | [Yemen](Countries/Yemen.md)                                                       |
+| **✗** | [Zambia](Countries/Zambia.md)                                                     |
+| **✗** | [Zimbabwe](Countries/Zimbabwe.md)                                                 |
 
 ## Maps
 
-| Map of unschooling friendly countries | near |
-| :-: | :------ |
-| ![Unschooling friendly countries near London](Maps/Unschooling_friendly_countries_near_London.svg) | London |
-| ![Unschooling friendly countries near New York City](Maps/Unschooling_near_NYC.svg) | New York City |
-| ![Unschooling friendly countries near Hong Kong](Maps/Unschooling_near_HK.svg) | Hong Kong |
-| ![Unschooling friendly countries near Singapore](Maps/Unschooling_near_Singapore.svg) | Singapore |
-| ![Unschooling friendly countries near Tokyo](Maps/Unschooling_near_Tokyo.svg) | Tokyo |
-| ![Unschooling friendly countries near Dubai](Maps/Unschooling_near_Dubai.svg) | Dubai |
+|                               Map of unschooling friendly countries                                | near          |
+| :------------------------------------------------------------------------------------------------: | :------------ |
+| ![Unschooling friendly countries near London](Maps/Unschooling_friendly_countries_near_London.svg) | London        |
+|        ![Unschooling friendly countries near New York City](Maps/Unschooling_near_NYC.svg)         | New York City |
+|           ![Unschooling friendly countries near Hong Kong](Maps/Unschooling_near_HK.svg)           | Hong Kong     |
+|       ![Unschooling friendly countries near Singapore](Maps/Unschooling_near_Singapore.svg)        | Singapore     |
+|           ![Unschooling friendly countries near Tokyo](Maps/Unschooling_near_Tokyo.svg)            | Tokyo         |
+|           ![Unschooling friendly countries near Dubai](Maps/Unschooling_near_Dubai.svg)            | Dubai         |
+
+ ## Global developments in compulsory early childhood education (2022–2025)
+
+Since 2022, a growing number of countries have introduced or expanded laws
+making preschool education compulsory for children between the ages of 3 and 5.
+This trend is closely linked to international policy initiatives and
+coordination mechanisms.
+
+A major turning point was the UNESCO World Conference on Early Childhood Care
+and Education, held in Tashkent in November 2022.
+During this event, 147 countries endorsed the Tashkent Declaration, which called
+for all governments to provide at least one year of free and compulsory pre-
+primary education.
+This commitment aligns with Sustainable Development Goal 4.2, which aims for
+universal access to quality early childhood education by 2030.
+
+These reforms are often reinforced by external incentives.
+In the European Union, for instance, funding from the Recovery and Resilience
+Facility is conditional on implementing early childhood education targets.
+In other regions, World Bank and Global Partnership for Education grants support
+similar reforms.
+
+Additionally, international organizations such as the OECD and UNESCO have begun
+publishing detailed comparisons of early childhood systems, including legal
+obligations and enrollment rates.
+This reporting contributes to a form of peer pressure, encouraging countries to
+align with emerging international norms.
