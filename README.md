@@ -70,7 +70,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | **✗** | [Denmark](Countries/Denmark/README.md)                                            |
 | **✓** | [Djibouti](Countries/Djibouti.md)                                                 |
 | **✗** | [Dominica](Countries/Dominica.md)                                                 |
-| **✓** | [Dominican Republic](Countries/Dominican-Republic.md)                             |
+| **✗** | [Dominican Republic](Countries/Dominican-Republic.md)                             |
 | **✗** | [East Timor](Countries/East-Timor.md)                                             |
 | **✗** | [Ecuador](Countries/Ecuador.md)                                                   |
 | **✗** | [Egypt](Countries/Egypt.md)                                                       |
