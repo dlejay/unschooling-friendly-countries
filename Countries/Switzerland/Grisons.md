@@ -1,16 +1,21 @@
 # Unschooling in Grisons
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✗__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
 
-## Context
+|       |                                            |
+| ----- | ------------------------------------------ |
+| **✓** | Homeschooling is a legal form of schooling |
+| **✗** | It requires no prior authorisation         |
+| **✗** | It can be curriculum-free                  |
 
-According to the _Verordnung zum Schulgesetz_ :
+## Compulsory education
+
+In Graubünden, compulsory school (“Volksschule”) currently lasts 9 years.
+
+## Unschooling
+
+According to the *Verordnung zum Schulgesetz* :
 
 > 2.3. Private schools and private tuition
-> 
+>
 > Art. 12
 > teaching authorization
 > Teachers at private schools and for private lessons must meet the same teaching authorization requirements as teachers at public elementary schools.
@@ -21,6 +26,15 @@ According to the _Verordnung zum Schulgesetz_ :
 >
 > The government can order the closure of private schools if they do not meet the legal requirements or requirements.
 
+Foreigners and expat families in Graubünden face the same rules as Swiss citizens.
+
+## Statistics
+
+| Year | Homeschoolers | Source     |
+| ---- | ------------- | ---------- |
+| 2020 | 30-35         | Beobachter |
+
 ## Sources
 
 [_Verordnung zum Schulgesetz_](https://www.gr-lex.gr.ch/app/de/texts_of_law/421.010)
+[_Die Kinder zu Hause unterrichten?_](https://www.beobachter.ch/bildung/schule/die-kinder-zu-hause-unterrichten-357929)
