@@ -41,7 +41,7 @@ According to the *Volksschulgesetz* :
 
 ## Statistics
 
-| Year | New approuvals | Total number or children |
+| Year | New approuvals | Total number of children |
 | ---- | -------------- | ------------------------ |
 | 2024 | 24             | 93                       |
 
