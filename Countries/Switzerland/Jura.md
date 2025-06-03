@@ -20,6 +20,13 @@ According to the *Loi sur l’enseignement privé* :
 > that meets the general requirements of the plans of study.
 > The notice must be renewed at the beginning of each year and whenever the child's place of residence changes.
 
+## Statistics
+
+| Year | Homeschoolers |
+| ---- | ------------- |
+| 2018 | 31            |
+| 2024 | 70            |
+
 ## News
 
 In 2024 Jura’s government and parliament proposed and began enacting much stricter rules.
@@ -42,3 +49,4 @@ The new provisions (effective August 2025) include the following changes :
 - [_Loi sur l’enseignement privé_](https://rsju.jura.ch/fr/viewdocument.html?idn=20078&id=37007)
 - [ecolealamaison.ch](https://ecolealamaison.ch/wp-content/uploads/2021/02/JURA_IEF_Etat_des_lieux_pratiques_cantonales14836-1.pdf)
 - [_Un nouveau cadre légal pour l’école à domicile dans le Jura_](https://www.rfj.ch/rfj/Actualite/Region/20240115-Un-nouveau-cadre-legal-pour-l-ecole-a-domicile-dans-le-Jura.html)
+- [_Des règles plus strictes pour l’école à la maison dans le Jura_](https://www.rfj.ch/rfj/Actualite/Region/20240904-Des-regles-plus-strictes-pour-l-ecole-a-la-maison-dans-le-Jura.html
