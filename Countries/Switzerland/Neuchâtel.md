@@ -22,11 +22,15 @@ According to the *Loi sur l'organisation scolaire* :
 > 3. Only children who share the same legal residence may be homeschooled together.
 > 4. Authorization may be limited, subject to conditions and obligations, or revoked at any time if any of the granting conditions are no longer met.
 > 5. Home education is subject to supervision by the cantonal office in charge of compulsory education.
-> 6. Through regular monitoring, the cantonal office verifies that the following cumulative conditions are met:
->    a) The child has a valid residence in the canton of Neuchâtel;
->    b) Teaching and upbringing respect the child’s fundamental rights;
->    c) The proposed educational plan is coherent and enables achievement of the learning objectives set by the current curriculum, and the time dedicated to the child’s education is sufficient to ensure full and effective implementation of the proposed program;
->    d) Adequate socialization measures are in place to ensure the development of social skills as required by the current curriculum.
+> 6. Through regular monitoring, the cantonal office verifies that the following cumulative conditions are met :
+> 
+>    a. The child has a valid residence in the canton of Neuchâtel ;
+>    
+>    b. Teaching and upbringing respect the child’s fundamental rights ;
+>    
+>    c. The proposed educational plan is coherent and enables achievement of the learning objectives set by the current curriculum, and the time dedicated to the child’s education is sufficient to ensure full and effective implementation of the proposed program ;
+>    
+>    d. Adequate socialization measures are in place to ensure the development of social skills as required by the current curriculum.
 
 ## Trend
 
