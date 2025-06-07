@@ -22,7 +22,20 @@ According to the Montana Code Annotated,
 >
 > (5) in the case of home schools, shall notify the county superintendent of schools of the county in which the home school is located in each school fiscal year of the student's attendance at the school.
 
+## Trend
+
+Montana’s new homeschool law, enacted in May 2025 via House Bill 778, significantly reduces regulatory requirements for homeschooling families.
+The law eliminates the need to provide immunization records and removes the mandate that homeschooling must occur in buildings compliant with local health and safety regulations. Now, families are required to :
+
+- Annually notify the county superintendent of their intent to homeschool.
+- Maintain attendance records.
+- Provide instruction for the minimum aggregate hours as stipulated by state law.
+- Offer an organized course of study covering subjects required in public schools.
+
+These changes grant homeschooling families in Montana greater autonomy and flexibility in their educational approach.
+
 ## Sources
 
 - [Mont. Code Ann. §§ 20-5-102](https://archive.legmt.gov/bills/mca/title_0200/chapter_0050/part_0010/section_0020/0200-0050-0010-0020.html)
 - [Mont. Code Ann. §§ 20-5-109](https://archive.legmt.gov/bills/mca/title_0200/chapter_0050/part_0010/section_0090/0200-0050-0010-0090.html)
+- [MONTANA JUST MADE HOMESCHOOLING EASIER FOR FAMILIES](https://billingsmix.com/ixp/1152/p/homeschool-law-changes-montana/)
