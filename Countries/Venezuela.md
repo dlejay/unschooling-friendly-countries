@@ -1,6 +1,11 @@
 # Unschooling in Venezuela
 
-## Context
+## Compulsory education
+
+The Venezuelan constitution and education law affirm that education is a “function indeclinable of the State” and compulsory across various levels.
+Article 9 of the _Ley Orgánica de Educación_ of 2009 states that preschool and basic education are mandatory levels.
+
+## Unschooling
 
 According to OLASE :
 
@@ -13,4 +18,5 @@ According to OLASE :
 
 ## Sources
 
-* [OLASE](https://sinescuela.org/en:venezuela:inicio)
+- [OLASE](https://sinescuela.org/en:venezuela:inicio)
+- [Meet the Woman Fiercely Advocating for Homeschooling in Venezuela](https://hslda.org/post/meet-the-woman-fiercely-advocating-for-homeschooling-in-venezuela)
