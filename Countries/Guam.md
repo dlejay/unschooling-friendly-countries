@@ -1,9 +1,14 @@
 # Unschooling in Guam
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
+
+|       |                                            |
+| ----- | ------------------------------------------ |
+| **✓** | Homeschooling is a legal form of schooling |
+| **✓** | It requires no prior authorisation         |
+| **✓** | It can be curriculum-free                  |
+
+## Compulsory education
+
+From the ages of 5 to 18.
 
 ## Context
 
@@ -14,4 +19,4 @@ According to HSLDA :
 
 ## Sources
 
-* [HSLDA](https://hslda.org/post/how-to-comply-with-guams-homeschool-law)
+- [HSLDA](https://hslda.org/post/how-to-comply-with-guams-homeschool-law)
