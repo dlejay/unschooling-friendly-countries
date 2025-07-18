@@ -225,7 +225,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | **✗** | [Turkmenistan](Countries/Turkmenistan.md)                                         |
 | **✗** | [Turks and Caicos Islands](Countries/Turks-and-Caicos-Islands.md)                 |
 | **✓** | [Tuvalu](Countries/Tuvalu.md)                                                     |
-| **✓** | [Uganda](Countries/Uganda.md)                                                     |
+| **✗** | [Uganda](Countries/Uganda.md)                                                     |
 | **✗** | [Ukraine](Countries/Ukraine.md)                                                   |
 | **✗** | [United Arab Emirates](Countries/UAE.md)                                          |
 | **~** | [United Kingdom](<Countries/United Kingdom/README.md>)                            |
