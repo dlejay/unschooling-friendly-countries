@@ -1,19 +1,46 @@
 # Unschooling in Wales
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
 
-## Context
+|       |                                            |
+| ----- | ------------------------------------------ |
+| **✓** | Homeschooling is a legal form of schooling |
+| **✓** | It requires no prior authorisation         |
+| **✓** | It can be curriculum-free                  |
 
-According to HSLDA
+## Compulsory education
 
-> While education is compulsory for five- to sixteen-year-olds, the law has never required that such education be received in schools. Parents have the duty of ensuring that their child receives “efficient full-time education” which is suitable to the child’s age, ability, aptitude and to any special educational needs he or she may have. This education may be provided “either by regular attendance at school or otherwise.”
->
-> The “otherwise” allows parents to opt to educate their children at home as long as they provide “suitable education”. There is no legal definition of “full-time”, and parents are not obliged to follow the national curriculum or to be in possession of any teaching qualifications. The parents’ reasons for opting for homeschooling are not relevant. 
+Wales has the same compulsory education age range as most of the UK.
+Education is mandatory from age 5 up to 16.
 
-> The Guidance issued by the Welsh Assembly Government indicates that there is considerable flexibility in terms of the method of delivery of home education and the content of such education. LEAs may offer advice and suggestions but may not specify a curriculum to be followed.
+## Unschooling
+
+After years of debate and delay,  
+the Welsh Government introduced statutory guidance on home education in May 2023.
+
+This guidance reaffirms that parents are not required to follow the national curriculum  
+and may educate using any philosophy, including unschooling, as long as the education is suitable.
+
+However, local authorities are now expected to see and speak with home-educated children  
+to assess the suitability of education and hear the child’s views.
+
+In 2025, seven local authorities began piloting a Children Missing Education (CME) database.  
+This allows councils to cross-check health records with school rolls to identify children not in education.  
+Families educating at home, even those never registered in school, may be contacted by the local authority.
+
+## Statistics
+
+| Year    | Homeschooled children |
+| ------- | --------------------- |
+| 2023/24 | 6,156                 |
+| 2022/23 | 5,330                 |
+| 2021/22 | 4,681                 |
+
+The numbers have more than doubled since 2018/19.  
+The fastest growth is among 5-year-olds and teenagers aged 14–15.
+
 ## Sources
 
-* [HSLDA](https://hslda.org/post/wales)
+- [Written Statement: Publication of Elective Home Education Statutory Guidance](https://www.gov.wales/written-statement-publication-elective-home-education-statutory-guidance)
+- [Families First in Education Wales – Government publications and updates](https://familiesfirst.wales/welsh-government/#:~:text=MSs,Plenary%20%E2%80%93%206%20June%202023)
+- [Senedd Research Briefing on Elective Home Education](https://research.senedd.wales/research-articles/elective-home-education-in-wales)
+- [Elective home education: guidance for local authorities](https://www.gov.wales/elective-home-education-guidance-local-authorities)
+- [Children Missing Education Database (pilot): summary](https://edyourself.org/wales-children-missing-education-database-pilot/)
