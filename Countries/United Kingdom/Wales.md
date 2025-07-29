@@ -41,6 +41,5 @@ The fastest growth is among 5-year-olds and teenagers aged 14–15.
 
 - [Written Statement: Publication of Elective Home Education Statutory Guidance](https://www.gov.wales/written-statement-publication-elective-home-education-statutory-guidance)
 - [Families First in Education Wales – Government publications and updates](https://familiesfirst.wales/welsh-government/#:~:text=MSs,Plenary%20%E2%80%93%206%20June%202023)
-- [Senedd Research Briefing on Elective Home Education](https://research.senedd.wales/research-articles/elective-home-education-in-wales)
-- [Elective home education: guidance for local authorities](https://www.gov.wales/elective-home-education-guidance-local-authorities)
+- [Elective home education: guidance for local authorities](https://www.gov.wales/elective-home-education-guidance-html)
 - [Children Missing Education Database (pilot): summary](https://edyourself.org/wales-children-missing-education-database-pilot/)
