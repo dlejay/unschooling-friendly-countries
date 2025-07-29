@@ -26,13 +26,13 @@ According to the official website :
 >
 > - you do not need to be a qualified teacher
 > - your child is not obliged to follow the curriculum or take tests, but you are required by law to make sure they receive full-time education suitable to their age, ability and aptitude and to any special educational needs your child may have
->   - you do not need special permission from a school or the Education Authority (EA) but you do need to tell the school principal where a child has previously been registered at a school so that he or she is de-registered
->   - you will need to let the EA know if you are removing your child from a special school
->   - you do not need to observe school hours, days or terms
->   - you do not need to have a fixed timetable, nor give formal lessons
->   - there are no funds directly available for parents who decide to educate their children at home
->   - the EA in your region may provide guidance on the material which may be suitable for you to use and they may also visit you annually to advise on how your child is progressing
->   - Education Authority
+> - you do not need special permission from a school or the Education Authority (EA) but you do need to tell the school principal where a child has previously been registered at a school so that he or she is de-registered
+> - you will need to let the EA know if you are removing your child from a special school
+> - you do not need to observe school hours, days or terms
+> - you do not need to have a fixed timetable, nor give formal lessons
+> - there are no funds directly available for parents who decide to educate their children at home
+> - the EA in your region may provide guidance on the material which may be suitable for you to use and they may also visit you annually to advise on how your child is progressing
+> - Education Authority
 
 Northern Ireland’s homeschooling laws and regulations apply equally to all
 residents.
