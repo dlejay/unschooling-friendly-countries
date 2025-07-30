@@ -1,23 +1,25 @@
 # Unschooling in Ethiopia
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
 
-## Context
+|       |                                            |
+| ----- | ------------------------------------------ |
+| **✗** | Homeschooling is a legal form of schooling |
 
-According to UNESCO :
+## Compulsory education
 
-> In Ethiopia, there is no Education Act or Law. Instead, the country is governed by the Constitution of the Federal Democratic Republic of Ethiopia 1994, the Education and Training Policy 1994, and several proclamations, guidelines, and regulations (issued at both the federal and regional levels).
+In Ethiopia under the 2025 General Education Proclamation,
+the mandatory schooling period is pre‑primary plus six years of primary education
+– about 7 years in total.
 
-> […] there is no legal provision on homeschooling in Ethiopia […]
+## Unschooling
 
-At least two entities provides a home schooling program.
+According to the General Education Proclamation :
+
+> **13. Free and Compulsory Education**
+>
+> 1/ Any child of school age in government schools at the pre-primary level has
+> the right to free primary and middle-level education and the obligation to
+> attend school.
 
 ## Sources
 
-* [education-profiles.org](https://education-profiles.org/sub-saharan-africa/ethiopia/~non-state-actors-in-education)
-* [binghamacademy.net](http://binghamacademy.net/home-school)
-* [enlightiumacademy.com](https://www.enlightiumacademy.com/topics/homeschool/chidrenshome-school-in-addis-ababa-overview)
-* [Homeschooling, Ethiopia's parents not ready](https://addisfortune.news/homeschooling-ethiopias-parents-not-ready/)
+- [Proclamation No. 1368-2025: The General Education Proclamation](https://ethiolex.com/proclamation-no-1368-2025-the-general-education-proclamation)

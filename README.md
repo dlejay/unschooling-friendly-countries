@@ -79,7 +79,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | **✓** | [Eritrea](Countries/Eritrea.md)                                                   |
 | **✗** | [Estonia](Countries/Estonia.md)                                                   |
 | **✗** | [Eswatini](Countries/Eswatini.md)                                                 |
-| **✓** | [Ethiopia](Countries/Ethiopia.md)                                                 |
+| **✗** | [Ethiopia](Countries/Ethiopia.md)                                                 |
 | **✗** | [Falkland Islands](Countries/Falkland-Islands.md)                                 |
 | **✗** | [Fidji](Countries/Fidji.md)                                                       |
 | **✗** | [Finland](Countries/Finland/README.md)                                            |
