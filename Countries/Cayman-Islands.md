@@ -1,25 +1,28 @@
 # Unschooling in Caymand Islands
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✗__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
 
-## Context
+|       |                                            |
+| ----- | ------------------------------------------ |
+| **✓** | Homeschooling is a legal form of schooling |
+| **✗** | It requires no prior authorisation         |
+| **✗** | It can be curriculum-free                  |
 
-According to the Education Law :
+## Compulsory education
 
-> 30. (1) The mandatory subjects for the primary and middle secondary education stages are as set out in the Law.
+Education is compulsory for all children from age 5 up to 17 (inclusive).
 
-The list of “standards” that must be met in order to homeschool include :
+## Unschooling
 
-> 1. The teacher who is to teach in the home is a licensed teacher.
-> 
-> […]
-> 
-> 5. The curriculum includes the area of reading, writing, mathematics, sciences, and social studies, and in years.
+According to the Education Act :
+
+> **Exemption from duty to secure school attendance**
+>
+> **16. (1)** The Director of the Department of Education Services may, upon the application
+> of a parent or legal guardian of a child, authorise a child of compulsory school
+> age to be educated at the place where the child is normally resident or at the
+> home of another person approved by the parent or legal guardian if the parent
+> complies with this section and the programme meets the goals and objectives
+> outlined in Part 5.
 
 ## Sources
 
-* [Education Law](http://www.education.gov.ky/portal/pls/portal/docs/1/12480364.PDF)
-* [Homeschooling approval standards](https://hslda.org/docs/librariesprovider2/public/international/dept-ed-services_home-schooling-approval-standards_2016.pdf?sfvrsn=735fffd1_1)
+- [Education Act](https://legislation.gov.ky/cms/images/LEGISLATION/PRINCIPAL/2016/2016-0048/EducationAct_2024%20Revision.pdf)
