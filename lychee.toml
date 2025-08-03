@@ -1,0 +1,4 @@
+exclude = [
+# Kyrgystan
+    "cbd\\.minjust\\.gov\\.kg"
+]
