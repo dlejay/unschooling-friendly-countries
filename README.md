@@ -30,6 +30,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | **✗** | [Azerbaijan](Countries/Azerbaijan.md)                                             |
 | **✓** | [Bahamas](Countries/Bahamas.md)                                                   |
 | **✗** | [Bahrain](Countries/Bahrain.md)                                                   |
+| **~** | [Bailiwick of Guernsey](Countries/Bailiwick-of-Guernsey/READMEmd)                 |
 | **✗** | [Bangladesh](Countries/Bangladesh.md)                                             |
 | **✗** | [Barbados](Countries/Barbados.md)                                                 |
 | **✗** | [Belarus](Countries/Belarus.md)                                                   |
@@ -94,7 +95,6 @@ or a self-governing territory with permanent population not part of a sovereign 
 | **✗** | [Grenada](Countries/Grenada.md)                                                   |
 | **✓** | [Guam](Countries/Guam.md)                                                         |
 | **✗** | [Guatemala](Countries/Guatemala.md)                                               |
-| **~** | [Bailiwick of Guernsey](Countries/Bailiwick-of-Guernsey/READMEmd)                 |
 | **✗** | [Guinea](Countries/Guinea.md)                                                     |
 | **✗** | [Guinea-Bissau](Countries/Guinea-Bissau.md)                                       |
 | **✓** | [Guyana](Countries/Guyana.md)                                                     |
