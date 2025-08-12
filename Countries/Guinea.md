@@ -1,16 +1,20 @@
 # Unschooling in Guinea
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
-## Context
+## Compulsory education
 
-According to Article 24 of the Constitution of 2020,
+The official length of compulsory education in Guinea is 9 years.
 
-> School is compulsory and free for children of both sexes up to the age of sixteen, in accordance with the law.
+## Statistics
 
-Note : The constitution has been suspended since the 2021 takeover led by Colonel Mamadi Doumbouya.
+According to UNICEF, as of 2023 about one-third of primary-aged children (34 %)
+are out of school, and nearly half of lower-secondary-aged children (47 %) are
+not attending school.
+
+## News
+
+The constitution has been suspended since the 2021 takeover led by Colonel Mamadi Doumbouya.
+A constitutional referendum is scheduled for 21 September 2025.
 
 ## Sources
 
-* [Constitution of 2020](https://www.coursupgn.org/wp-content/uploads/2021/01/La-Constiution-Guinéenne-de-2020.pdf)
+- [Guinea 2023 COAR](https://www.unicef.org/media/152936/file/Guinea-2023-COAR.pdf)
