@@ -1,9 +1,15 @@
 # Unschooling in Peru
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
+
+|       |                                            |
+| ----- | ------------------------------------------ |
+| **✓** | Homeschooling is a legal form of schooling |
+| **✓** | It requires no prior authorisation         |
+| **✓** | It can be curriculum-free                  |
+
+## Compulsory education
+
+According to the Constitution, education is mandatory from age 5
+to age 16, including one year of pre-school, primary and secondary education.
 
 ## Context
 
@@ -18,5 +24,5 @@ And according to Article 13 :
 
 ## Sources
 
-* [Constitution of Peru](https://www.constituteproject.org/constitution/Peru_2021.pdf?lang=en)
-* [OLASE](https://sinescuela.org/en:peru:inicio)
+- [Constitution of Peru](https://www.constituteproject.org/constitution/Peru_2021.pdf?lang=en)
+- [OLASE](https://sinescuela.org/en:peru:inicio)
