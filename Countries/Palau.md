@@ -1,9 +1,14 @@
 # Unschooling in Palau
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
-## Context
+|       |                                            |
+| ----- | ------------------------------------------ |
+| **✗** | Homeschooling is a legal form of schooling |
+
+## Compulsory education
+
+In Palau, education is complusory for 12 years.
+
+## Unschooling
 
 According to the Law :
 
@@ -13,6 +18,8 @@ According to the Law :
 >
 > (b) Any parent, guardian, and other person having the responsibility for or care of a child whose attendance at school is obligatory shall send the child to school. Any parent, guardian, or other person who permits a child who is under his control to be absent from school without good cause and in violation of applicable law or regulations shall be guilty of a violation of this section and, upon conviction, shall be fined not more than $100.
 
+The same law applies to all residents.
+
 ## Sources
 
- * [Education - Title 22](http://www.paclii.org/pw/legis/consol_act/et22144/)
+- [Education - Title 22](http://www.paclii.org/pw/legis/consol_act/et22144/)
