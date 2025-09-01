@@ -1,11 +1,16 @@
 # Unschooling in Bolivia
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
 
-## Context
+|       |                                            |
+| ----- | ------------------------------------------ |
+| **✓** | Homeschooling is a legal form of schooling |
+| **✓** | It requires no prior authorisation         |
+| **✓** | It can be curriculum-free                  |
+
+## Compulsory education
+
+The _Ley de la Education_ mandates 12 years of basic and secondary education for everyone.
+
+## Unschooling
 
 According to UNESCO :
 
@@ -13,5 +18,6 @@ According to UNESCO :
 
 ## Sources
 
-* [education-profiles.org](https://education-profiles.org/sub-saharan-africa/united-republic-of-tanzania/~non-state-actors-in-education)
-* [OLASE](https://sinescuela.org/en:bolivia:inicio)
+- [_Ley de la Education_](https://www.lexivox.org/norms/BO-L-N70.html)
+- [education-profiles.org](https://education-profiles.org/sub-saharan-africa/united-republic-of-tanzania/~non-state-actors-in-education)
+- [OLASE](https://sinescuela.org/en:bolivia:inicio)
