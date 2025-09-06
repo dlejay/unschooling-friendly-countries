@@ -206,7 +206,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | **✗** | [South Sudan](Countries/South-Sudan.md)                                           |
 | **✗** | [Sovereign Base Areas of Akrotiri and Dhekelia](Countries/SBAs.md)                |
 | **✗** | [Spain](Countries/Spain.md)                                                       |
-| **✓** | [Sri Lanka](Countries/Sri-Lanka.md)                                               |
+| **✗** | [Sri Lanka](Countries/Sri-Lanka.md)                                               |
 | **✗** | [Sudan](Countries/Sudan.md)                                                       |
 | **✗** | [Suriname](Countries/Suriname.md)                                                 |
 | **✗** | [Sweden](Countries/Sweden.md)                                                     |
