@@ -1,6 +1,7 @@
 exclude = [
     "https?://(dx\\.)?doi\\.org/.*",
     "https?://(www\\.)?unicef\\.org/.*",
+    "https?://(www\\.)?ohchr\\.org/.*",
 # France
     "https?://(www\\.)?legifrance\\.gouv\\.fr/.*",
 # Kyrgystan
