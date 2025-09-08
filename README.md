@@ -219,7 +219,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | **✗** | [Togo](Countries/Togo.md)                                                         |
 | **✗** | [Tonga](Countries/Tonga.md)                                                       |
 | **✗** | [Transnistria](Countries/Transnistria.md)                                         |
-| **✓** | [Trinidad and Tobago](Countries/Trinidad-and-Tobago.md)                           |
+| **✗** | [Trinidad and Tobago](Countries/Trinidad-and-Tobago.md)                           |
 | **✗** | [Tunisia](Countries/Tunisia.md)                                                   |
 | **✗** | [Turkey](Countries/Turkey.md)                                                     |
 | **✗** | [Turkmenistan](Countries/Turkmenistan.md)                                         |
