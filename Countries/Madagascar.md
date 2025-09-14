@@ -1,10 +1,17 @@
 # Unschooling in Madagascar
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
-## Context
+
+|       |                                            |
+| ----- | ------------------------------------------ |
+| **✓** | Homeschooling is a legal form of schooling |
+| **✓** | It requires no prior authorisation         |
+| **✓** | It can be curriculum-free                  |
+
+## Compulsory education
+
+Madagascar’s compulsory education system spans 10 years of schooling.
+Under the 2023 law, children begin one mandatory year of preschool at age 5, then proceed through nine years of primary and lower-secondary education.
+
+## Unschooling
 
 According to UNESCO :
 
@@ -14,4 +21,5 @@ According to UNESCO :
 
 ## Sources
 
-* [education-profiles.org](https://education-profiles.org/fr/afrique-sub-saharienne/madagascar/~acteurs-non-etatiques-dans-leducation)
+- [Education Orientation Law (Loi n°2022‑018)](https://www.assemblee-nationale.mg/wp-content/uploads/2023/01/LOI-n%C2%B0-2022-018-Syst%C3%A8me-%C3%A9ducatif.pdf)
+- [education-profiles.org](https://education-profiles.org/fr/afrique-sub-saharienne/madagascar/~acteurs-non-etatiques-dans-leducation)
