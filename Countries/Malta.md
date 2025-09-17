@@ -11,7 +11,7 @@ curriculum_free_allowed: no
 
 Compulsory education runs from age 5 until 16 (end of Year 11).
 
-## Context
+## Unschooling
 
 According to the Education Act :
 
