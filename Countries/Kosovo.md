@@ -1,15 +1,10 @@
-<!--
+---
 last_reviewed: 2025-09-16
--->
+homeschooling_legal: yes
+prior_authorization_required: no
+---
 
 # Unschooling in Kosovo
-
-_Last reviewed: 2025-09-15_
-
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✓** | Homeschooling is a legal form of schooling |
-| **✗** | It requires no prior authorisation         |
 
 ## Compulsory education
 
