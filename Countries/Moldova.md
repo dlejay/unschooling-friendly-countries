@@ -17,7 +17,7 @@ According to the _ORDIN N°98_,
 
 > Home instruction is organised for a fixed period for children and pupils who, because of health problems or a disability, are temporarily unable to travel.
 
->     11.	The decision to organise home-based education is confirmed by an order of the local specialised education authority issued on the basis of the parents’/legal representatives’ request. Attached must be:
+> 11.	The decision to organise home-based education is confirmed by an order of the local specialised education authority issued on the basis of the parents’/legal representatives’ request. Attached must be:
 >
 > - the complex assessment report of the child’s development;
 > - the disability and work-capacity certificate and the individual rehabilitation and social inclusion programme issued by the National Council for Determination of Disability and Work Capacity or its territorial branches (for children with disabilities); or, for other categories of children, the treating physician’s conclusion (specialist or family doctor) confirmed by the head of the public medical-sanitary institution at the child’s place of residence, attesting temporary limitations and restrictions on participation in the ordinary educational process due to serious health problems or temporary functional impairments caused by illness and/or trauma.
