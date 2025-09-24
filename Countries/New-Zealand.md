@@ -39,4 +39,5 @@ According to the official page of the Ministry of Education :
 
 ## Sources
 
+- [Homeschool enrolments still high after rapid rise](https://www.rnz.co.nz/news/national/542420/homeschool-enrolments-still-high-after-rapid-rise)
 - [parents.education.govt.nz](https://parents.education.govt.nz/primary-school/schooling-in-nz/home-education/)
