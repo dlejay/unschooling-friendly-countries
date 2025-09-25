@@ -1,9 +1,13 @@
+---
+last_reviewed: 2025-09-25
+homeschooling_legal: yes
+prior_authorization_required: yes
+---
 # Unschooling in Ghana
 
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✗__ | It requires no prior authorisation |
+## Compulsory education
+
+Basic education (ages roughly 4–15) is compulsory : two years of kindergarten plus six years of primary and three years of junior high.
 
 ## Context
 
@@ -25,4 +29,5 @@ According to HSLDA :
 
 ## Sources
 
-* [HSLDA](https://hslda.org/post/ghana)
+- [Pre-Tertiary Education Act](https://www.scribd.com/document/872897277/PreTertiary-Education-Act-2020)
+- [HSLDA](https://hslda.org/post/ghana)
