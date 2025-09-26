@@ -1,11 +1,16 @@
+---
+last_reviewed: 2025-09-26
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: yes
+---
 # Unschooling in Kuwait
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
 
-## Context
+## Compulsory education
+
+Kuwait mandates nine years of free education (primary plus intermediate levels) for its citizens.
+
+## Unschooling
 
 According to HSLDA :
 
