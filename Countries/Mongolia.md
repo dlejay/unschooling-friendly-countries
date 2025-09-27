@@ -1,21 +1,22 @@
+---
+last_reviewed: 2025-09-27
+homeschooling_legal: yes
+prior_authorization_required: yes
+---
 # Unschooling in Mongolia
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
 
-## Context
+## Compulsory education
 
-Basic education is compulsory in Mongolia. The law does not address home education and several families were able to education their children at home without
-government interference.
+Mongolia’s compulsory education spans the full pre‑university cycle.
+By law, “compulsory education” means the 12‑year schooling level.
 
-The Mongolian government is currrently in the process of formalising homeschooling.
+## Unschooling
+
+The new school law of July 2023 reads :
+
+> 22.7.At the request of parents, guardians and custodians, primary education can be taught through home education, and the procedure for organizing and supervising home education shall be approved by the Cabinet member in charge of education matters.
 
 ## Sources
 
-* [_БОЛОВСРОЛЫН ТУХАЙ_](https://legalinfo.mn/mn/detail/9020)
-* [Homeschooling in Mongolia](https://www.thepatatas.com/homeschooling-in-mongolia/)
-* [Family spotlight Mongolia](https://teachmejoy.com/family-spotlight-mongolia/)
-* [Homeschool in Mongolia (Монголын гэр сургууль)](https://www.facebook.com/groups/226596098465319/)
-* [Homeschooling freedom winning in Mongolia](https://associationforcreation.org/index.php/2021/03/17/homeschool-freedom-mongolia/)
+- [Laws of Mongolia on Education](https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/71503/MNG71503%20Eng.pdf)
+- [ON PRE-SCHOOL AND GENERAL EDUCATION](https://legalinfo.mn/en/edtl/16960383492621)
