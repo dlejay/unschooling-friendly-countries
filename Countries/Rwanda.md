@@ -1,11 +1,16 @@
+---
+last_reviewed: 2025-09-28
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: yes
+---
 # Unschooling in Rwanda
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
 
-## Context
+## Compulsory education
+
+The law mandates 6 years of compulsory education.
+
+## Unschooling
 
 According to Law n° 36 :
 
@@ -18,4 +23,5 @@ According to Law n° 36 :
 > 
 ## Sources
 
+- [aacrao.org](https://www.aacrao.org/edge/country/rwanda)
 * [Law n° 36](https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/107714/132749/F-1175978014/RWA-107714.pdf)
