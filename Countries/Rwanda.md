@@ -24,4 +24,4 @@ According to Law n° 36 :
 ## Sources
 
 - [aacrao.org](https://www.aacrao.org/edge/country/rwanda)
-* [Law n° 36](https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/107714/132749/F-1175978014/RWA-107714.pdf)
+- [Law n° 36](https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/107714/RWA-107714.pdf)
