@@ -160,7 +160,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | **✗** | [Niue](Countries/Niue.md)                                                         |
 | **✗** | [North Korea](Countries/North-Korea.md)                                           |
 | **✗** | [Northern Macedonia](Countries/Northern-Macedonia.md)                             |
-| **✗** | [Northern Mariana Islands](Countries/Northern-Mariana-Islands.md)                 |
+| **✗** | [Northern Mariana Islands](Countries/CNMI.md)                                     |
 | **✗** | [Northern Cyprus](Countries/Northern-Cyprus.md)                                   |
 | **✗** | [Norway](Countries/Norway.md)                                                     |
 | **✗** | [Oman](Countries/Oman.md)                                                         |
