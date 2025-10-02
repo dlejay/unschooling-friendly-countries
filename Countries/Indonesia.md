@@ -1,12 +1,18 @@
+---
+last_reviewed: 2025-10-02
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: yes
+---
+
 # Unschooling in Indonesia
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
 
+## Compulsory education
 
-## Context
+In Indonesia, the state mandates 9 years of free compulsory education (6 years primary + 3 years lower secondary)
+for ages approximately 7 to 15.
+
+## Unschooling
 
 According to the Education Act :
 
