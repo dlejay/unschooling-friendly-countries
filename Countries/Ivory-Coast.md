@@ -1,9 +1,14 @@
+---
+last_reviewed: 2025-10-03
+homeschooling_legal: no
+---
 # Unschooling in Ivory Coast
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
-## Context
+## Compulsory education
+
+The mandatory education spans 10 years (ages 6–16).
+
+## Unschooling 
 
 Schooling became mandatory in 2015.
 
