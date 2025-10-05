@@ -5,5 +5,7 @@ exclude = [
 # France
     "https?://(www\\.)?legifrance\\.gouv\\.fr/.*",
 # Kyrgystan
-    "cbd\\.minjust\\.gov\\.kg"
+    "cbd\\.minjust\\.gov\\.kg",
+# Togo
+    "https?://(www\\.)?assemblee\\-nationale\\.tg/.*"
 ]

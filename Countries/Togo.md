@@ -1,9 +1,10 @@
+---
+last_reviewed: 2025-10-05
+homeschooling_legal: no
+---
 # Unschooling in Togo
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
-## Context
+## Compulsory schooling
 
 According to the Constitution of Togo :
 
@@ -13,6 +14,8 @@ According to the Constitution of Togo :
 > 
 > The State shall progressively ensure that public education is free of charge.
 
+Compulsory schooling applies to all residents.
+
 ## Sources
 
-* [_CONSTITUTION TOGOLAISE DE LA IVe REPUBLIQUE_](https://www.ilo.org/dyn/natlex/docs/ELECTRONIC/38025/110367/F-1481961433/TGO-38025%20(VERSION%20CONSOLIDEE).pdf)
+- [_CONSTITUTION TOGOLAISE DE LA IVe REPUBLIQUE_](https://assemblee-nationale.tg/wp-content/uploads/2021/05/constitution-consolidee-derniere-version.pdf)
