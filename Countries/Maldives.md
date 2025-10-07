@@ -1,9 +1,12 @@
+---
+last_reviewed: 2025-10-07
+homeschooling_legal: no
+---
 # Unschooling in Maldives
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
-## Context
+## Compulsory schooling
+
+Schooling is mandatory from age 4 up to age 16.
 
 According to Article 10 of the Education Act :
 
@@ -16,4 +19,4 @@ According to Article 10 of the Education Act :
 
 ## Sources
 
-* [Education Act](https://www.moe.gov.mv/assets/upload/English_translation_of_Education_Act.pdf)
+- [Education Act](https://www.moe.gov.mv/storage/files/resources/English_translation_of_Education_Act.pdf#:~:text=14,education%20to%20children%20of%20the)
