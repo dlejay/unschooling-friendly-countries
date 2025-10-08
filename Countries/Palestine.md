@@ -1,9 +1,12 @@
+---
+last_reviewed: 2025-10-08
+homeschooling_legal: no
+---
 # Unschooling in Palestine
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
-## Context
+## Compulsory schooling
+
+Schooling is mandatory for 10 years (up to Grade 10).
 
 According to the first Palestinian law on Education, enacted in 2017 :
 
@@ -11,4 +14,4 @@ According to the first Palestinian law on Education, enacted in 2017 :
 
 ## Sources
 
-* [al-monitor.com](https://www.al-monitor.com/originals/2017/04/palestine-education-ministry-law-schools.html)
+- [al-monitor.com](https://www.al-monitor.com/originals/2017/04/palestine-education-ministry-law-schools.html)
