@@ -4,6 +4,8 @@ exclude = [
     "https?://(www\\.)?ohchr\\.org/.*",
 # France
     "https?://(www\\.)?legifrance\\.gouv\\.fr/.*",
+# Jersey
+    "https?://(www\\.)?itv\\.com/.*",
 # Kyrgystan
     "cbd\\.minjust\\.gov\\.kg",
 # Togo
