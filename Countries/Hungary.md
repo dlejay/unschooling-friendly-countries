@@ -31,5 +31,4 @@ For foreign or expat families, the same compulsory education rules apply, and au
 
 - [Hungary: New public education law takes a swing at alternative schools](https://kafkadeskdotorg.wordpress.com/2019/07/21/hungary-new-public-education-law-takes-a-swing-at-alternative-schools/)
 - [_A kormány szigorítása után majdnem a felére csökkent a magántanulók száma_](https://hvg.hu/itthon/20201019_magantanulo_egyeni_tanrend_munkarend_oktatas_iskolaigazgato)
-a nemzeti köznevelésről_](https://net.jogtar.hu/jogszabaly?docid=a1100190.tv)
 - [Act CXC of 2011 on National Public Education (_A nemzeti köznevelésről_)](https://net.jogtar.hu/jogszabaly?docid=a1100190.tv)
