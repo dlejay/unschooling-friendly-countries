@@ -1,9 +1,10 @@
+---
+last_reviewed: 2025-10-12
+homeschooling_legal: no
+---
 # Unschooling in the Sovereign Base Areas of Akrotiri and Dhekelia
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
-## Context
+## Compulsory schooling
 
 According to the Education Provisions Ordinance 2005, Cyprus Compulsory Education and Provisions of Free Education Law applies to the Bases.
 
