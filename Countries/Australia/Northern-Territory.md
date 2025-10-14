@@ -1,11 +1,17 @@
+---
+last_reviewed: 2025-10-14
+homeschooling_legal: yes
+prior_authorization_required: yes
+curriculum_free_allowed: no
+---
 # Unschooling in the Northern Territory
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✗__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
 
-## Context
+## Compulsory education
+
+Education is compulsory from age 6 until the completion of Year 10.
+After Year 10, young people must remain in approved education, training, or employment until they turn 17.
+
+## Unschooling
 
 According to the Education Act :
 
@@ -20,6 +26,13 @@ According to the Education Act :
 > (6) The approval of an application is subject to the following conditions:
 > 
 > (a) subject to subsection (7), the curriculum to be used must be one that is approved by the Australian Curriculum Assessment and Reporting Authority or any successor of that body;
+
+## Statistics
+
+News reports show that home-school enrolments doubled nationwide in the pandemic era; one analysis estimated a 52% increase in the NT from 2019 to 2023.
+
 ## Sources
 
-* [Education Act](https://legislation.nt.gov.au/en/Legislation/EDUCATION-ACT-2015)
+- [Stages of schooling](https://nt.gov.au/learning/primary-and-secondary-students/stages-of-schooling)
+- [Education Act](https://legislation.nt.gov.au/en/Legislation/EDUCATION-ACT-2015)
+- [‘We haven’t looked back’: home schooling in Australia experiences post-lockdown boom](https://www.theguardian.com/australia-news/2023/nov/26/we-havent-looked-back-home-schooling-in-australia-seeing-post-lockdown-boom)
