@@ -8,6 +8,8 @@ exclude = [
     "https?://(www\\.)?itv\\.com/.*",
 # Kyrgystan
     "cbd\\.minjust\\.gov\\.kg",
+# Northern Territory
+    "https?://(www\\.)?nt\\.gov\\.au/.*",
 # Togo
     "https?://(www\\.)?assemblee\\-nationale\\.tg/.*"
 ]
