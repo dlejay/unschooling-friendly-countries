@@ -1,9 +1,11 @@
+---
+last_reviewed: 2025-10-17
+homeschooling_legal: no
+---
 # Unschooling in Lesotho
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
-## Context
+## Compulsory schooling
+
 According to the Education Act :
 
 > **Compulsory Attendance**
@@ -14,4 +16,4 @@ According to the Education Act :
 
 ## Sources
 
-* [Education Act](https://planipolis.iiep.unesco.org/sites/default/files/ressources/lesotho_education_act_2010.pdf)
+- [Education Act](https://planipolis.iiep.unesco.org/sites/default/files/ressources/lesotho_education_act_2010.pdf)
