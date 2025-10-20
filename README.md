@@ -87,7 +87,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | **~** | [France](Countries/France/README.md)                                              |
 | **✗** | [Gabon](Countries/Gabon.md)                                                       |
 | **✓** | [Gambia](Countries/Gambia.md)                                                     |
-| **✓** | [Georgia](Countries/Georgia.md)                                                   |
+| **✗** | [Georgia](Countries/Georgia.md)                                                   |
 | **✗** | [Germany](Countries/Germany.md)                                                   |
 | **✗** | [Ghana](Countries/Ghana.md)                                                       |
 | **✓** | [Gibraltar](Countries/Gibraltar.md)                                               |

@@ -1,20 +1,29 @@
+---
+last_reviewed: 2025-10-19
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: no
+---
 # Unschooling in Georgia
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
 
-## Context
+## Compulsory education
 
-According to HSLDA
+Education is compulsory between ages 6 to 15:
+- Primary (Grades I-VI);
+- Basic (Grades VII-X).
 
-> According to the Article 35 of the Constitution, primary and basic education are obligatory. The civil code of Georgia states that it is the obligation of each parent to bring up and provide education to his/her child. In addition, there are no restrictions in choosing a form of education according to the constitution. Thus it is up to a parent, or a guardian in case of absence of parents, to make a decision whether a child will receive mandatory general education in an educational institution or informally outside of the system. 
->
-> The law “on general education” grants a right to an individual to study general education programs independently. The rules and conditions to receive informal general education (eksternat) are defined by the Ministry. According to the aforementioned rule, an individual has a right to independently study each course or a subject of general education on primary, basic and secondary stages. 
->
-> In addition, the legislation of Georgia does not oblige parents to provide information to a government body in advance if they choose to provide their child with education independently from a school. However, the legislation does provide sanctions for those parents who avoid their obligation to bring up and provide education to their children. 
+## Unschooling
+
+According to the law About general education :
+
+> **Article 9. The right to receive general education**
+> […]
+> 4. General education may be obtained in the form of an external course. An external course holder has the right to receive a document
+> certifying complete general education in the form of an external course if he/she has achieved the level of achievement established by the
+> National Curriculum.
+
 
 ## Sources
 
-* [HSLDA](https://hslda.org/post/georgia)
+- [jnews.ge](https://jnews.ge/132411/)
+- [Law of Georgia – About general education](https://natlex.ilo.org/dyn/natlex2/natlex2/files/download/117826/GEO-117826%20%28EN%29.pdf)
