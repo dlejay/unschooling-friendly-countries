@@ -17,7 +17,9 @@ Education is compulsory between ages 6 to 15:
 According to the law About general education :
 
 > **Article 9. The right to receive general education**
+>
 > […]
+>
 > 4. General education may be obtained in the form of an external course. An external course holder has the right to receive a document
 > certifying complete general education in the form of an external course if he/she has achieved the level of achievement established by the
 > National Curriculum.
