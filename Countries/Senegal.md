@@ -17,7 +17,7 @@ According to the _loi d’orientation de l’Education nationale_
 >
 > Compulsory education is provided free of charge in public educational institutions.
 >
-> Parents whose children reach the age of 6 are required to enroll them in a public or private school. Parents are responsible for ensuring that their > children attend school until the age of 16.
+> Parents whose children reach the age of 6 are required to enroll them in a public or private school. Parents are responsible for ensuring that their children attend school until the age of 16.
 >
 >Any child under the age of 16 who cannot be maintained in general education is directed to a vocational training facility
 
