@@ -1,7 +1,8 @@
+---
+last_reviewed: 2025-10-23
+homeschooling_legal: no
+---
 # Unschooling in Syria
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
 ## Context
 
@@ -11,4 +12,4 @@ According to Hamand :
 
 ## Sources
 
-* [Girls ahead in Syria](https://pubmed.ncbi.nlm.nih.gov/12318179/)
+- [Girls ahead in Syria](https://pubmed.ncbi.nlm.nih.gov/12318179/)
