@@ -1,9 +1,16 @@
+---
+last_reviewed: 2025-10-24
+homeschooling_legal: yes
+prior_authorization_required: yes
+curriculum_free_allowed: no
+---
 # Unschooling in Niue
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
-## Context
+## Compulsory education
+
+Education is compulsory from age 5 to 16 under the Niue Education Act 1989.
+
+## Unschooling
 
 According to the Education Act :
 
@@ -29,4 +36,4 @@ According to the Education Act :
 
 ## Sources
 
-* [Education Act](https://planipolis.iiep.unesco.org/sites/default/files/ressources/niue_education_act_vol_261.pdf)
+- [Education Act](https://planipolis.iiep.unesco.org/sites/default/files/ressources/niue_education_act_vol_261.pdf)
