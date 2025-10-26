@@ -1,8 +1,10 @@
+---
+last_reviewed: 2025-10-26
+homeschooling_legal: no
+---
 # Unschooling in the Marshall Islands
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
-## Context
+
+## Compulsory schooling
 
 According to the Public School System Act :
 
@@ -12,4 +14,4 @@ According to the Public School System Act :
 
 ## Sources
 
-* [Public School System Act](http://rmiparliament.org/cms/images/LEGISLATION/PRINCIPAL/2013/2013-0023/MarshallIslandsPublicSchoolSystemAct2013_1.pdf)
+- [Public School System Act 2013](https://rmiparliament.org/cms/images/LEGISLATION/PRINCIPAL/2013/2013-0023/2013-0023_1.pdf)
