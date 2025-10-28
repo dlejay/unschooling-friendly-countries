@@ -1,12 +1,17 @@
+---
+last_reviewed: 2025-10-28
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: no
+---
+
 # Unschooling in Russia
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
 
+## Compulsory education
 
-## Context
+Education is compulsory for nine years (primary and basic general levels, usually until age 15).  
+
+## Unschooling
 
 According to Article 44 of the law On Education in the Russian Federation :
 
@@ -49,7 +54,15 @@ But, according to Article 58
 >
 > 11. Students in basic professional educational programs who have not liquidated academic debts within the established time limits are expelled from this organization as they have not fulfilled their obligations for the conscientious development of the educational program and the implementation of the curriculum.
 
+## Statistics
+
+| Year | Homeschoolers |
+| - | - |
+| 2025 | 60,000 |
+
 ## Sources
 
-* [Article 44](https://base.garant.ru/77308190/0add9c67393c4454d39a78904e0baac0/) of the law On Education in the Russian Federation N 273-FZ.
-* [Article 58](https://base.garant.ru/70291362/5f5aeb9844a3cec55dca4cf7554741a3/) of the law On Education in the Russia Federation N 273-FZ.
+- [Article 44](https://base.garant.ru/77308190/0add9c67393c4454d39a78904e0baac0/) of the law On Education in the Russian Federation N 273-FZ.
+- [Article 58](https://base.garant.ru/70291362/5f5aeb9844a3cec55dca4cf7554741a3/) of the law On Education in the Russia Federation N 273-FZ.
+- [_Сколько осталось частному образованию в России?_](https://www.moscowtimes.ru/2025/05/26/skolko-ostalos-chastnomu-obrazovaniyu-v-rossii-a164317)
+- [Homeschooling in Russia](https://creation.com/en/articles/homeschooling-in-russia)
