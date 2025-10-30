@@ -1,11 +1,21 @@
-# Unschooling in Victoria
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✗__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
+---
+last_reviewed: 2025-10-30
+homeschooling_legal: yes
+prior_authorization_required: yes
+curriculum_free_allowed: no
+---
 
-## Context
+# Unschooling in Victoria
+
+## Compulsory education
+
+
+Education is compulsory for children from 6 to 17 years of age.  
+After Year 10, young people must continue in school, training, or employment
+(at least 25 hours per week) until age 17.  
+Parents are legally responsible for ensuring attendance or approved registration for home schooling.
+
+## Unschooling
 
 According to the Education Act :
 
@@ -39,7 +49,16 @@ According to the Victorian Requistration and Qualifications Authority :
 > **School enrolment during the application process**
 >
 > While we assess your application, the law says children aged 6–17 years must remain enrolled in school.
+
+## Statistics
+
+| Year | Homeschoolers |
+| - | - |
+| 2025 | 11,691 |
+| 2024 | 11,240 |
+
 ## Sources
 
 * [Education Act](https://content.legislation.vic.gov.au/sites/default/files/2022-12/06-24aa097-authorised.pdf)
 * [hsregister](https://www.vrqa.vic.gov.au/home/Pages/hsregister.aspx)
+* [VRQA – Home schooling trends and statistics 2025](https://www.vrqa.vic.gov.au)
