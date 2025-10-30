@@ -61,4 +61,4 @@ According to the Victorian Requistration and Qualifications Authority :
 
 * [Education Act](https://content.legislation.vic.gov.au/sites/default/files/2022-12/06-24aa097-authorised.pdf)
 * [hsregister](https://www.vrqa.vic.gov.au/home/Pages/hsregister.aspx)
-* [VRQA – Home schooling trends and statistics 2025](https://www.vrqa.vic.gov.au)
+* [VRQA – Home schooling trends and statistics 2025](https://www2.vrqa.vic.gov.au/home-schooling-trends-and-statistics)
