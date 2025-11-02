@@ -1,11 +1,17 @@
-# Unschooling in Equatorial Guinea
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
+---
+last_reviewed: 2025-11-02
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: yes
+---
 
-## Context
+# Unschooling in Equatorial Guinea
+
+## Compulsory education
+
+Primary education (roughly ages 6–11) is compulsory.
+
+## Unschooling
 
 By Article 49.-3 of the _Ley General de Educación_ :
 
@@ -14,4 +20,4 @@ By Article 49.-3 of the _Ley General de Educación_ :
 
 ## Sources
 
-* [_Ley General de Educación_](https://www.unesco.org/education/edurights/media/docs/fc2478d778e12339679198d823bf980de6bc3b9e.pdf)
+- [_Ley General de Educación_](https://www.unesco.org/education/edurights/media/docs/fc2478d778e12339679198d823bf980de6bc3b9e.pdf)
