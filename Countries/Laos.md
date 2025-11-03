@@ -1,9 +1,10 @@
+---
+last_reviewed: 2025-11-03
+homeschooling_legal: no
+---
 # Unschooling in Laos
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
-## Context
+## Compulsory schooling
 
 According to the Education Law :
 
@@ -15,4 +16,4 @@ According to the Education Law :
 
 ## Sources
 
-* [Law on Education](https://www.wto.org/english/thewto_e/acc_e/lao_e/wtacclao31_leg_3.pdf)
+- [Law on Education](https://www.wto.org/english/thewto_e/acc_e/lao_e/wtacclao31_leg_3.pdf)
