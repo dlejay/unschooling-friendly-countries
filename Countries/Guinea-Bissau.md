@@ -14,4 +14,4 @@ The law establishes nine years of mandatory basic education, starting around age
 
 ## Sources
 
-- [Basic Education Law of Guinea-Bissau (2010)](https://fecongd.org/pdf/crianca/LeiBasesSistemaEducativo.pdf)
+- [Basic Education Law of Guinea-Bissau (2010)](https://www.unesco.org/education/edurights/media/docs/66ed11bae55d3ab337a6c6d2f0b8a69be4fe5638.pdf)
