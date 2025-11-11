@@ -1,11 +1,16 @@
+---
+last_reviewed: 2025-11-11
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: yes
+---
 # Unschooling in Guyana
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
 
-## Context
+## Compulsory education
+
+Education is compulsory for roughly twelve years, from about age 5 or 6 to 16.
+
+## Unschooling
 
 According to the Education Act :
 
@@ -18,3 +23,4 @@ According to the Education Act :
 ## Sources
 
 * [Education Act](http://badaj.org/wp-content/uploads/2014/07/Education%20act(1).pdf)
+- [Homeschoolers see ‘child-centred’ advantage outside formal learning](https://www.stabroeknews.com/2020/10/25/sunday/homeschoolers-see-child-centred-advantage-outside-formal-learning/)
