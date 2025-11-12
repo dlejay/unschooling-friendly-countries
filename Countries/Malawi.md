@@ -12,7 +12,7 @@ According to the Education Act (2013) :
 
 This law applies to all children resident in Malawi.
 
-According to the National Education Policy (2013).
+According to the National Education Policy (2013) :
 
 > The primary cycle is for eight years, from standard 1 to standard 8.
 
