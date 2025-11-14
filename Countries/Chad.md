@@ -1,9 +1,10 @@
+---
+last_reviewed: 2025-11-14
+homeschooling_legal: no
+---
 # Unschooling in Chad
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
-## Context
+## Compulsory schooling
 
 According to the _Loi portant orientation du Système Éducatif Tchadien_:
 
