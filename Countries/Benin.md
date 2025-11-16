@@ -1,16 +1,30 @@
+---
+last_reviewed: 2025-11-16
+homeschooling_legal: no
+---
 # Unschooling in Benin
 
-## Context
+## Compulsory education
 
-According to UNESCO :
+Primary education is compulsory by Article 13 of the Constitution :
 
-> The country does not seem to regulate homeschooling.
+> **Art 13.**
+>
+> The State provides for the education of young people through public schools.
+Primary education is compulsory. The State is gradually ensuring free public education.
 
-According to aacrao.org:
+It normally lasts six years.
 
-> Currently, the education is free and compulsory from ages 6 to 12, but attendance at school is not enforced
+## Unschooling
+
+Schooling is made compulsory in Benin by the 2015 Child Code :
+
+> **Article 113**: Schooling requirement
+>
+> Schooling is compulsory, from preschool to the end of the primary cycle.
+Parents are required to enrol their children in school without any form of discrimination.
 
 ## Sources
 
-* [education-profiles.org](https://education-profiles.org/fr/afrique-sub-saharienne/benin/~acteurs-non-etatiques-dans-leducation)
-* [aacrao.org](https://www.aacrao.org/edge/country/benin)
+- [_Constitution de la République du Bénin_](https://cdn.accf-francophonie.org/2019/03/benin-constitution-1990.pdf)
+- [2015 Child Code](https://faolex.fao.org/docs/pdf/ben161458.pdf)
