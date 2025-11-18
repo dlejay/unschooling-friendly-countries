@@ -1,9 +1,10 @@
+---
+last_reviewed: 2025-11-18
+homeschooling_legal: no
+---
 # Unschooling in Zambia
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
-## Context
+## Compulsory schooling
 
 According to the Education Act:
 
@@ -11,4 +12,4 @@ According to the Education Act:
 
 ## Sources
 
-* [Education Act, 2011](https://www.parliament.gov.zm/sites/default/files/documents/acts/Education%20Act%202011.pdf)
+- [Education Act, 2011](https://www.parliament.gov.zm/sites/default/files/documents/acts/Education%20Act%202011.pdf)
