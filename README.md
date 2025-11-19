@@ -155,7 +155,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | **✗** | [Netherlands](Countries/Netherlands.md)                                           |
 | **✗** | [New Zealand](Countries/New-Zealand.md)                                           |
 | **✓** | [Nicaragua](Countries/Nicaragua.md)                                               |
-| **✗** | [Niger](Countries/Niger.md)                                                       |
+| **✓** | [Niger](Countries/Niger.md)                                                       |
 | **✗** | [Nigeria](Countries/Nigeria.md)                                                   |
 | **✗** | [Niue](Countries/Niue.md)                                                         |
 | **✗** | [North Korea](Countries/North-Korea.md)                                           |

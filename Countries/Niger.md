@@ -1,16 +1,17 @@
+---
+last_reviewed: 2025-11-19
+education_mandatory: no
+---
 # Unschooling in Niger
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
-## Context
+## Right to education
 
-According to France TV info:
+According to the 1998 _Loi d’Orientation du Système Éducatif_ (LOSEN),
+education is recognised as a right and the State must guarantee access to
+schooling for children aged 4 to 18.
 
-> https://www.francetvinfo.fr/monde/afrique/niger/pourquoi-est-ce-si-difficile-pour-les-filles-daller-a-lecole-au-niger_3406391.html
-
-> Theoretically, in Niger, school is compulsory for girls up to the age of 16. This measure, adopted in 2017 by presidential decree, aims to protect them from early marriage and encourage their education. 
+The law contains no provision that makes education of shcooling compulsory.
 
 ## Sources
 
-* [France TV info](https://www.francetvinfo.fr/monde/afrique/niger/pourquoi-est-ce-si-difficile-pour-les-filles-daller-a-lecole-au-niger_3406391.html)
+- [_Loi d’Orientation du Système Éducatif_](https://adsdatabase.ohchr.org/IssueLibrary/NIGER_Education%20Law.pdf)
