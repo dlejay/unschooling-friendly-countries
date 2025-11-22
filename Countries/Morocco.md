@@ -1,9 +1,10 @@
+---
+last_reviewed: 2025-11-22
+homeschooling_legal: no
+---
 # Unschooling in Morocco
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
-## Context
+## Compulsory schooling
 
 According to a law from 1963:
 
