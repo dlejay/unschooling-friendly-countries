@@ -1,10 +1,10 @@
+---
+last_reviewed: 2025-11-23
+homeschooling_legal: no
+---
 # Unschooling in Tunisia
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
-
-## Context
+## Compulsory schooling
 
 According to the law 2002-80:
 
@@ -12,4 +12,4 @@ According to the law 2002-80:
 
 ## Sources
 
-* [_Loi d’orientation n° 2002-80 du 23 juillet 2002, relative à l’éducation et à l’enseignement scolaire_](https://www.ilo.org/dyn/natlex/docs/SERIAL/61806/55086/F1183773494/TUN-61806.pdf)
+- [_Loi d’orientation n° 2002-80 du 23 juillet 2002, relative à l’éducation et à l’enseignement scolaire_](https://planipolis.iiep.unesco.org/sites/default/files/ressources/tunisia_loi_orientation.pdf)
