@@ -1,10 +1,10 @@
+---
+last_reviewed: 2025-11-25
+homeschooling_legal: no
+---
 # Unschooling in Bangladesh
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✗__ | It requires no prior authorisation |
 
-## Context
+## Compulsory schooling
 
 According to the Primary Education (Compulsory) Act, 1990 :
 
