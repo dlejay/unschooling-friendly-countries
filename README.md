@@ -237,7 +237,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | **✓** | [Vatican City](Countries/Vatican-City.md)                                         |
 | **~** | [Venezuela](Countries/Venezuela.md)                                               |
 | **✓** | [Vietnam](Countries/Vietnam.md)                                                   |
-| **✓** | [Yemen](Countries/Yemen.md)                                                       |
+| **~** | [Yemen](Countries/Yemen/README.md)                                                |
 | **✗** | [Zambia](Countries/Zambia.md)                                                     |
 | **✓** | [Zimbabwe](Countries/Zimbabwe.md)                                                 |
 
