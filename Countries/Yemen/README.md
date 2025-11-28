@@ -4,7 +4,7 @@
 |-|-|
 | __✗__ | [Houth-controlled areas](Houthi.md) |
 | __✓__ | [IRG-controlled areas (Aden-based government)](IRG.md) |
-| __✗__ | [STC-influenced southern areas](STC.md) |
+| __✓__ | [STC-influenced southern areas](STC.md) |
 
 ## Context
 
