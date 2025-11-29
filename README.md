@@ -168,7 +168,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | **✗** | [Palau](Countries/Palau.md)                                                       |
 | **✗** | [Palestine](Countries/Palestine.md)                                               |
 | **✗** | [Panama](Countries/Panama.md)                                                     |
-| **✓** | [Papua New Guinea](Countries/Papua-New-Guinea.md)                                 |
+| **~** | [Papua New Guinea](Countries/Papua-New-Guinea/README.md)                          |
 | **✗** | [Paraguay](Countries/Paraguay.md)                                                 |
 | **✓** | [Peru](Countries/Peru.md)                                                         |
 | **✓** | [Philippines](Countries/Philippines.md)                                           |
