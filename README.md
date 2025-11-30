@@ -46,7 +46,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | **✗** | [British Virgin Islands](Countries/British-Virgin-Islands.md)                     |
 | **✗** | [Brunei](Countries/Brunei.md)                                                     |
 | **✗** | [Bulgaria](Countries/Bulgaria.md)                                                 |
-| **✓** | [Burkina Faso](Countries/Burkina-Faso.md)                                         |
+| **✗** | [Burkina Faso](Countries/Burkina-Faso.md)                                         |
 | **✓** | [Burundi](Countries/Burundi.md)                                                   |
 | **✓** | [Cambodia](Countries/Cambodia.md)                                                 |
 | **✗** | [Cameroon](Countries/Cameroon.md)                                                 |
