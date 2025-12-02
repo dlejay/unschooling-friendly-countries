@@ -1,11 +1,18 @@
+---
+last_reviewed: 2025-12-02
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: no
+---
 # Unschooling in Ukraine
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
 
-## Context
+## Compulsory education
+
+According to the MoE website in English,
+
+> School education is compulsory. Previously, it lasted 11 years, but with the start of the New Ukrainian School reform in 2018, school education will last 12 years.
+
+## Unschooling
 
 According to Order 955,
 
@@ -27,4 +34,5 @@ According to Order 955,
 
 ## Sources
 
+- [emergency.mon.gov.ua](https://emergency.mon.gov.ua/educationalsystem)
 * [_НАКАЗ 10.07.2019  № 955_](https://zakon.rada.gov.ua/laws/show/z0852-19#Text)
