@@ -3,6 +3,7 @@
 | | |
 |-|-|
 | __✗__ | [SAF-controlled areas](SAF.md) |
+| __✓__ | [RSF-controlled areas](RSF.md) |
 
 ## Context
 
