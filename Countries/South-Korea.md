@@ -6,7 +6,7 @@ homeschooling_legal: no
 
 ## Compulsory schooling
 
-According to the Elementary and Secundary Education Act:
+According to the Elementary and Secondary Education Act:
 
 > **Article 13 (Obligation of School Enrollment)** (1) Every citizen shall send sons and daughters or children
 > under his or her care to an elementary school from March 1 of the year following the year in which the date
@@ -27,12 +27,20 @@ According to the Elementary and Secundary Education Act:
 >
 > [This Article Wholly Amended on Mar. 21, 2012]
 
-> **Article 68 (Fines)** ① A fine of not more than one million won shall be imposed on any person who falls under any of the following subparagraphs.
-> 1. a person who fails to fulfill his/her obligation to attend school after being encouraged to do so pursuant to Article 13 (4).
-> 2. a person who interferes with the compulsory education of a person subject to compulsory education in violation of Article 15
-> 3. a person who fails to admit a student in violation of Article 53 or engages in behavior that interferes with school attendance and classes.
-> (2) Fines under paragraph (1) shall be imposed and collected by the appropriate superintendent of education as prescribed by Presidential Decree.
-> [Amended March 21, 2012].
+> **Article 68 (Administrative Fines)** (1) Any of the following persons shall be subject to an administrative fine
+> not exceeding one million won:
+> 1. A person who has been urged to fulfill the obligation of school enrollment referred to in Article 13 (4) but
+> fails to fulfill it;
+> 2. A person who hinders persons subject to compulsory education from receiving compulsory education in
+> violation of Article 15;
+> 3. A person who fails to send students to school or performs acts hindering students from attending school
+> or taking lessons in violation of Article 53.
+>
+> (2) Administrative fines referred to in paragraph (1) shall be imposed and collected by the superintendent of
+> education, as prescribed by Presidential Decree.
+>
+> [This Article Wholly Amended on Mar. 21, 2012]
+
 
 ## Sources
 
