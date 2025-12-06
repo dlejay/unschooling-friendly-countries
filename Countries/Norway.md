@@ -1,9 +1,10 @@
+---
+last_reviewed: 2025-12-06
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: no
+---
 # Unschooling in Norway
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
 
 ## Context
 
@@ -48,6 +49,11 @@ According to nhuf.no:
 > The national curriculum includes goals which specify what the child should know by the completion of certain school grades. There are goals which apply to the completion of years 2, 4, 7, and 10. (Children are usually 7 years old at the beginning of year 2, and 15 years old at the beginning of year 10.)
 >
 > Since homeschoolers are free to choose which educational method best suits their child, the goals are of great importance. The goals should be reached over time, not necessarily precisely in the prescribed year/age.
+
+## News
+
+Since 2024, parents must notify the kommune before homeschooling begins, and the municipality must initiate supervision within three months.
+
 ## Sources
 
 * [Education Act](https://www.ilo.org/dyn/natlex/natlex4.detail?p_lang=en&p_isn=68581&p_country=NOR&p_count=1505&p_classification=09&p_classcount=42)
