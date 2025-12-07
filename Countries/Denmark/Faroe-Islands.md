@@ -1,7 +1,9 @@
+---
+last_reviewed: 2025-12-07
+homeschooling_legal: no
+---
+
 # Unschooling in the Faroe Islands
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
 ## Context
 
@@ -19,5 +21,5 @@ In addition, according to Firouz GAINI
 ## Sources
 
 * [NEW TO THE
-FAROE ISLANDS](https://www.heilsutrygd.fo/get.file?ID=15887)
+FAROE ISLANDS](https://vs.cdn.fo/media/1861/national-handbook-online-version.pdf?s=VPM8z4IL-N2OYYX_6jAUhAQs5cA)
 * [Family and Primary Schools in the Faroe Islands](https://www.eduhk.hk/primaryed/eproceedings/fullpaper/RN066.pdf)
