@@ -1,9 +1,10 @@
+---
+last_reviewed: 2025-12-08
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: yes
+---
 # Unschooling in Metropolitan Denmark
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
 
 ## Context
 
@@ -21,7 +22,13 @@ From Retsinformation.dk,
 
 > According to Section 2 of the Free Schools Act, the language of instruction in a free primary school is Danish, unless the Minister of Education has approved another language of instruction. The provision does not exclude that teaching in a foreign language takes place in this language (e.g. that English is taught in English). English, German and French can also be taught in other subjects when this takes place in conjunction with the teaching of the language subject. Teaching in the subject Danish must always take place in Danish, regardless of whether the minister has approved another language of instruction, as the teaching must of course be organized according to the students' academic level. The crucial thing is that the students get a competence in the Danish subject that is on par with that of the primary school.
 
+## Statistics
+
+| Year | Homeschoolers |
+| - | - |
+| 2025/26 | 2,560 |
 ## Sources
 
 * [Section 76 of the Constitution](https://www.ft.dk/da/dokumenter/bestil-publikationer/publikationer/mingrundlov/min-grundlov/kapitel-8/paragraf-76)
 * [retsinformation.dk](https://www.retsinformation.dk/eli/mt/2001/145)
+- [More Danish families are choosing homeschooling, but why is it rising so fast?](https://www.nordiskpost.com/2025/10/12/denmark-homeschooling-is-rising-2025)
