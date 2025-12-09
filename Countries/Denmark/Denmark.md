@@ -2,7 +2,7 @@
 last_reviewed: 2025-12-08
 homeschooling_legal: yes
 prior_authorization_required: no
-curriculum_free_allowed: yes
+curriculum_free_allowed: no
 ---
 # Unschooling in Metropolitan Denmark
 
