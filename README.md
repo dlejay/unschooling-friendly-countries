@@ -198,7 +198,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | **✗** | [Slovakia](Countries/Slovakia.md)                                                 |
 | **✗** | [Slovenia](Countries/Slovenia.md)                                                 |
 | **✗** | [Solomon Islands](Countries/Solomon-Islands.md)                                   |
-| **✓** | [Somalia](Countries/Somalia.md)                                                   |
+| **~** | [Somalia](Countries/Somalia/README.md)                                            |
 | **✓** | [Somaliland](Countries/Somaliland.md)                                             |
 | **✗** | [South Africa](Countries/South-Africa.md)                                         |
 | **✗** | [South Korea](Countries/South-Korea.md)                                           |
