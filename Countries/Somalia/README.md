@@ -3,6 +3,7 @@
 | | |
 |-|-|
 | __✗__ | [Galmudug](Galmudug.md) |
+| __✓__ | [Hirshabelle](Hirshabelle.md) |
 
 ## Context
 
