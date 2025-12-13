@@ -4,6 +4,7 @@
 |-|-|
 | __✗__ | [Galmudug](Galmudug.md) |
 | __✓__ | [Hirshabelle](Hirshabelle.md) |
+| __✗__ | [Puntland](Puntland.md) |
 
 ## Context
 
