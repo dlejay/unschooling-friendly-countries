@@ -1,7 +1,8 @@
 exclude = [
     "https?://(dx\\.)?doi\\.org/.*",
-    "https?://(www\\.)?unicef\\.org/.*",
+    "https?://(www\\.)?ilo\\.org/.*",
     "https?://(www\\.)?ohchr\\.org/.*",
+    "https?://(www\\.)?unicef\\.org/.*",
 # Denmark
     "https?://(www\\.)?ft\\.dk/.*",
 # France

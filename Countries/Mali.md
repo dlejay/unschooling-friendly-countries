@@ -1,7 +1,8 @@
+---
+last_reviewed: 2025-12-17
+homeschooling_legal: no
+---
 # Unschooling in Mali
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
 According to Law 99-046 AN RM:
 
