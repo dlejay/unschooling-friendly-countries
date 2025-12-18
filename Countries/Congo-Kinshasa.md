@@ -1,7 +1,9 @@
-# Unschooling in the DRC
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
+---
+last_reviewed: 2025-12-18
+homeschooling_legal: no
+---
+
+# Unschooling in the Democratic Republic of the Congo
 
 According to _Loi-cadre_:
 
