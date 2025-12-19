@@ -1,9 +1,10 @@
+---
+last_reviewed: 2025-12-19
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: yes
+---
 # Unschooling in Alberta
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
 
 ## Context
 
@@ -21,6 +22,8 @@ In addition,
 > • Parents providing a home education program that is not supervised by a school authority may be required to submit these
 > 
 > records to the Ministry should there be an investigation.
+
 ## Sources
 
-* [Home Education Handbook](https://open.alberta.ca/dataset/0fdb8ef7-030f-4ffd-aa6d-2c0a001af674/resource/2e9fdd10-cd00-4285-8a95-2cd9963572bb/download/educ-home-education-handbook-2023.pdf)
+- [Alberta Regulation 89/2019](https://kings-printer.alberta.ca/1266.cfm?page=2019_089.cfm&leg_type=Regs&isbncln=9780779856824)
+- [Home Education Handbook](https://open.alberta.ca/dataset/0fdb8ef7-030f-4ffd-aa6d-2c0a001af674/resource/2e9fdd10-cd00-4285-8a95-2cd9963572bb/download/educ-home-education-handbook-2023.pdf)
