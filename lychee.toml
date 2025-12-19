@@ -3,6 +3,8 @@ exclude = [
     "https?://(www\\.)?ilo\\.org/.*",
     "https?://(www\\.)?ohchr\\.org/.*",
     "https?://(www\\.)?unicef\\.org/.*",
+# Alberta
+    "https?://(www\\.)?open\\.alberta\\.ca/.*",
 # Denmark
     "https?://(www\\.)?ft\\.dk/.*",
 # France
