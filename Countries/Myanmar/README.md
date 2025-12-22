@@ -1,6 +1,7 @@
 # Unschooling in Myanmar
 | | |
 |-|-|
+| __✗__ | [Kachin Independence Organization (KIO)–administered areas](KIO.md) |
 | __✗__ | [Republic of the Union of Myanmar](Republic_of_the_Union_of_Myanmar.md) |
 | __✓__ | [Wa State](Wa-State.md) |
 
