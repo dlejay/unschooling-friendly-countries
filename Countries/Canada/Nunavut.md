@@ -1,9 +1,10 @@
+---
+last_reviewed: 2025-12-26
+homeschooling_legal: yes
+prior_authorization_required: yes
+curriculum_free_allowed: no
+---
 # Unschooling in Nunavut
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✗__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
 
 ## Context
 
