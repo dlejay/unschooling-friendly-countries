@@ -148,7 +148,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | **✗** | [Montserrat](Countries/Montserrat.md)                                             |
 | **✗** | [Morocco](Countries/Morocco.md)                                                   |
 | **✗** | [Mozambique](Countries/Mozambique.md)                                             |
-| **~** | [Myanmar](Countries/Myanmar.md)                                                   |
+| **~** | [Myanmar](Countries/Myanmar/README.md)                                            |
 | **✗** | [Namibia](Countries/Namibia.md)                                                   |
 | **✗** | [Nauru](Countries/Nauru.md)                                                       |
 | **✗** | [Nepal](Countries/Nepal.md)                                                       |
