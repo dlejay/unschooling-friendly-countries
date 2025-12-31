@@ -5,6 +5,8 @@ exclude = [
     "https?://(www\\.)?unicef\\.org/.*",
 # Alberta
     "https?://(www\\.)?open\\.alberta\\.ca/.*",
+# Burma
+    "https?://(www\\.)?burmalibrary\\.org/.*",
 # Canada
     "https?://(www\\.)?canlii\\.org/.*",
 # Denmark
