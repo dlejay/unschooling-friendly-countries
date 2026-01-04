@@ -3,9 +3,9 @@ last_reviewed: 2026-01-04
 homeschooling_allowed: no
 ---
 
-# Unschooling in Myanmar – areas under the control of the Shan State Army
+# Unschooling in Myanmar – areas under the control of the Shan State Progress Party
 
-The SSA enforces compulsory conscription of children.
+The Shan State Army North enforces compulsory conscription of children.
 
 ## Sources
 
