@@ -10,6 +10,7 @@
 | __✗__ | [National Democratic Alliance Army (NDAA)-administered areas](NDAA.md) |
 | __✓__ | [National Unity Government (NUG)-administered areas](NUG.md) |
 | __✗__ | [New Mon State](Mon.md) |
+| __✗__ | [Pa-O Self-Administered Zone](Pa-O.md) |
 | __✗__ | [Republic of the Union of Myanmar](Republic_of_the_Union_of_Myanmar.md) |
 | __✓__ | [RCSS/SSA-controlled areas of Shan State](Shan.md) |
 | __✓__ | [RTa’ang National Liberation Army (TNLA)-administered areas](TNLA.md) |
