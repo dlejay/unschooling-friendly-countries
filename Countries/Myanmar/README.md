@@ -16,5 +16,6 @@
 | __✓__ | [RTa’ang National Liberation Army (TNLA)-administered areas](TNLA.md) |
 | __✗__ | [Shan State Progress Party (SSPP)-administered areas](SSPP.md) |
 | __✓__ | [Wa State](Wa-State.md) |
+| __✗__ | [Zomi Revolutionary Army (ZRA)-controlled areas](ZRA.md) |
 
 Education in the Myanmar region is administered by multiple conflicting powers.
