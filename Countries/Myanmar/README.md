@@ -2,6 +2,7 @@
 | | |
 |-|-|
 | __✓__ | [Arakan](Arakan.md) |
+| __✓__ | [Chin Brotherhood Alliance (CBA)-controlled areas](CBA.md) |
 | __✓__ | [Chinland](Chinland.md) |
 | __✓__ | [Kachin Independence Organization (KIO)–administered areas](KIO.md) |
 | __✓__ | [Karenni State Interim Executive Council (IEC)-administered areas](KIEC.md) |
