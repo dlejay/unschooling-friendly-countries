@@ -1,9 +1,10 @@
+---
+last_reviewed: 2026-01-11
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: yes
+---
 # Unschooling in Manitoba
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
 
 ## Context
 
@@ -18,7 +19,8 @@ From the official website :
 
 > When planning for homeschooling, parents must demonstrate how their educational programming is equivalent to that of a public school.
 
+In practice, no curriculum, testing, or inspections are prescribed; the requirement is legal equivalency, not curricular conformity.
 
 ## Sources
 
-* [edu.gob.mb.ca](https://www.edu.gov.mb.ca/k12/schools/ind/homeschool/index.html)
+- [edu.gob.mb.ca](https://www.edu.gov.mb.ca/k12/schools/ind/homeschool/index.html)
