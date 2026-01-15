@@ -1,13 +1,14 @@
+---
+last_reviewed: 2026-01-15
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: yes
+---
 # Unschooling in Nova Scotia
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
 
 ## Context
 
-According to the Education Reform Act :
+According to the Education Act :
 
 > HOME EDUCATION
 > 
