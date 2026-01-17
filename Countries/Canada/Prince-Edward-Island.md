@@ -1,9 +1,10 @@
+---
+last_reviewed: 2026-01-17
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: yes
+---
 # Unschooling in Prince Edward Island
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
 
 ## Context
 
