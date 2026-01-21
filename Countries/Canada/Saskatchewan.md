@@ -1,9 +1,10 @@
+---
+last_reviewed: 2026-01-21
+homeschooling_legal: yes
+prior_authorization_required: yes
+curriculum_free_allowed: no
+---
 # Unschooling in Saskatchewan
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✗__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
 
 ## Context
 
@@ -14,6 +15,7 @@ According to responsiblehomeschooling.org :
 > **Included with the notification form, the parent must submit a written Home Education Plan**. This plan must follow the Goals of Education for Saskatchewan, be age-appropriate, and account for the ability level of the student. The program should outline the philosophical approach and reasons for choosing home education. 
 
 > Within 30 days of receiving the Notification Form, the registering authority will review the notification. If the notification is compliant with regulations, the registering authority will notify the parent of successful registration of the home-based education program.  
+
 ## Sources
 
 * [responsiblehomeschooling.org](https://responsiblehomeschooling.org/canada/saskatchewan/)
