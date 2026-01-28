@@ -1,15 +1,22 @@
+---
+last_reviewed: 2026-01-28
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: no
+---
 # Unschooling in Indiana
 
 ## Context
 
-Homeschooling is not recognised in Indiana.
+According to IN Code § 20-33-2-4 (2024) :
 
-In addition, private schools, according to HSLDA must :
-
-> 1. Provide equivalent instruction in the English language.
->
-> Private schools must teach in the English language and provide instruction equivalent to that given in public schools. However, the State Board of Education is not given the authority to define “equivalent instruction” nor to approve homeschool programs. There are no mandatory subjects for a homeschool program, but HSLDA recommends that you follow the same general subjects that would be taught in public school.
+> Sec. 4. Subject to the specific exceptions under this chapter, a student shall attend either:
+> 
+> (1) a public school that the student is entitled to attend under IC 20-26-11; or
+> 
+> (2) another school taught in the English language.
 
 ## Sources
 
-* [HSLDA](https://hslda.org/post/how-to-comply-with-indiana-s-homeschool-law)
+- [IN Code § 20-33-2-4 (2024)](https://law.justia.com/codes/indiana/title-20/article-33/chapter-2/section-20-33-2-4/)
+- [Liberty in education: School choice](https://www.in.gov/attorneygeneral/files/Parents-Bill-of-Rights-Liberty-in-Ed.pdf)
