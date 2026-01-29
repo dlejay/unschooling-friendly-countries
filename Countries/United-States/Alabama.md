@@ -1,8 +1,10 @@
+---
+last_reviewed: 2026-01-29
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: yes
+---
 # Unschooling in Alabama
-
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
 ## Sources
 
