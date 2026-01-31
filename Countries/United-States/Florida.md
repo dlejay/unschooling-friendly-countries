@@ -1,42 +1,51 @@
+---
+last_reviewed: 2026-01-31
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: yes
+---
 # Unschooling in Florida
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
 
-## Context
+## Compulsory education
 
-According to HSLDA
+According to Florida Statute §1003.21,
 
-> A. File a notice of intent to homeschool.
+- Children who are 6 years old by February 1 of a school year must attend regularly.
+- Students must continue attendance until age 16 (or older if they have not graduated and have not filed a formal declaration to terminate enrollment).
+- Compulsory education requirements may be satisfied through a home education program.
+
+## Unschooling
+
+Unschooling is lawful in Florida under the home education program framework established by Florida Statute §1002.41.
+
+Under §1002.41, legal obligations are limited to:
+- Submitting a written notice of intent to establish a home education program to the county school superintendent.
+- Maintaining a portfolio of records documenting educational activities and materials.
+- Providing an annual educational evaluation demonstrating educational progress, using one of the statutory evaluation methods.
+
+### Statutory evaluation methods
+
+Florida Statute §1002.41(1)(f) provides:
+
+> “The parent shall provide for an annual educational evaluation in which is documented the student’s demonstration of educational progress at a level commensurate with her or his ability.  
+> The parent shall select the method of evaluation and shall file a copy of the evaluation annually with the district school superintendent’s office in the county in which the student resides.  
+> The annual educational evaluation shall consist of one of the following:
 >
-> Within 30 days of beginning your homeschool program, you must file a notice of intent to establish a home education program with the county superintendent. You do not need to file this every year. This notice must include the full legal names, addresses, and birthdates of your homeschool students. HSLDA members may use our attorney-designed notice of intent form, attached below.
->
-> State law requires the superintendent to accept the notice and immediately register the home education program. The school district cannot require any additional information unless the student decides to participate in a public school program or service. No grade level may be assigned and a Social Security number (or other personal information of the student) cannot be included in any state or district database unless the student decides to participate in that public school program or service.
->
-> B. Maintain a portfolio.
->
-> Throughout the year, you must keep a portfolio of records and materials. The portfolio must contain:
->
-> a log of educational activities made contemporaneously with the instruction, with a list of the titles of any reading materials used, and
-> samples of writings, worksheets, workbooks, creative materials, etc., used or developed by the student.
-> You must keep this portfolio for two years after it is completed. The district school superintendent or his or her agent can, but is not required to, review your portfolio only after 15 days’ written notice.
->
-> C. Evaluate your student annually.
->
-> Each student must be evaluated by one of the following options every year:
-> 
-> Have educational progress evaluated by a teacher holding a valid regular Florida teaching certificate and selected by the parent—the evaluation must include review of a portfolio and discussion with the student;
-> 
-> Take any nationally normed student achievement test administered by a certified teacher;
-> 
-> Take a state student assessment test used by the school district and administered by a certified teacher, at a location and under testing conditions approved by the school district;
-> 
-> Be evaluated by a Florida licensed psychologist or school psychologist; or
-> 
-> Be “evaluated with any other valid measurement tool as mutually agreed upon.”
+> 1. A teacher selected by the parent shall evaluate the student’s educational progress upon review of the portfolio and discussion with the student. Such teacher shall hold a valid regular Florida certificate to teach academic subjects at the elementary or secondary level;
+> 2. The student shall take any nationally normed student achievement test administered by a certified teacher;
+> 3. The student shall take a state student assessment test used by the school district and administered by a certified teacher, at a location and under testing conditions approved by the school district;
+> 4. The student shall be evaluated by an individual holding a valid, active license pursuant to s. 490.003(7) or (8);
+> 5. The student shall be evaluated with any other valid measurement tool as mutually agreed upon by the district school superintendent and the parent.”
+
+
+## Statistics
+
+| Year | Homeschoolers |
+| - | - |
+| 2023-2024 | 155,000 |
 
 ## Sources
 
-* [HSLDA](https://hslda.org/post/how-to-comply-with-floridas-homeschool-law)
+- [Florida Statute §1003.21](https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099%2F1003%2FSections%2F1003.21.html)
+- [Florida Statute §1002.41](https://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1002/Sections/1002.41.html)
+- [Number of homeschool students grows in Florida](https://mynews13.com/fl/orlando/news/2025/07/31/homeschooling-popoular-in-florida)
