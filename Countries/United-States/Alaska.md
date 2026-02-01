@@ -1,16 +1,29 @@
+---
+last_reviewed: 2026-02-01
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: yes
+---
+
 # Unschooling in Alaska
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
 
-## Context
+## Compulsory education
 
-According to HSLDA :
+According to Alaska Stat. § 14.30.010
 
-> This option allows you to educate your child in your home as long as you are the parent or legal guardian. There are no requirements to notify the state, seek approval, test, file forms, or have any teacher qualifications.
+> (a) Every child between seven and 16 years of age shall attend school at the public school in the district in which the child resides during each school term. Every parent, guardian or other person having the responsibility for or control of a child between seven and 16 years of age shall maintain the child in attendance at a public school in the district in which the child resides during the entire school term, except as provided in (b) of this section.
+
+
+## Unschooling
+
+Further in the same Statute,
+
+> (b) This section does not apply if a child
+> 
+> […]
+>
+> (12) is being educated in the child's home by a parent or legal guardian.
 
 ## Sources
 
-* [HSLDA](https://hslda.org/post/how-to-comply-with-alaskas-homeschool-law)
+- [Alaska Statutes Title 14. Education, Libraries, and Museums § 14.30.010. When attendance compulsory](https://codes.findlaw.com/ak/title-14-education-libraries-and-museums/ak-st-sect-14-30-010.html)
