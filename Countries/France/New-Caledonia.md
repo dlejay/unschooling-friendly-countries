@@ -1,9 +1,10 @@
+---
+last_reviewed: 2026-02-05
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: yes
+---
 # Unschooling in New Caledonia
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✓__ | It can be curriculum-free |
 
 ## Context
 
