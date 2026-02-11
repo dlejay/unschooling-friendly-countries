@@ -1,19 +1,41 @@
+---
+last_reviewed: 2026-02-11
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: no
+---
 # Unschooling in Kentucky
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
 
-## According to HSLDA
+## Compulsory education
 
-> You are required to include reading, writing, spelling, grammar, history, mathematics, science, and civics in your homeschool curriculum, and to teach in the English language.
+Education is compulsory between ages 6 and 18.
 
-## According to CRHE
+## Unschooling
 
-> A portfolio that contains samples of the best work done by each child in several areas of study for each year the student is homeschooled is recommended but not required.  This may be of assistance in documenting the existence of the homeschool or the transfer of the child to another educational setting.  Accurate attendance records and grades must be kept in a notebook, on a computer, or in another manner, but must be readily available in case of an inquiry. See Ky. Rev. Stat. Ann. §159.040.
+According to the Homeschool Requirements of the Kentucky DoE,
+
+> ✓ Establish a bonafide school for the children to attend. When informing the district superintendent
+of your desire to homeschool, create a ‘school’ name. This will be used for future records and
+diplomas.
+
+> ✓ Record and maintain scholarship reports of each student's progress in all subjects taught at the
+> same intervals as the local public schools. See KRS 159.040. KDE suggests that the person
+> responsible for instruction keep a portfolio that contains samples of the best work done by each
+> child in several areas of study and maintain the portfolio each year the student is homeschooled.
+> This may be of assistance in documenting the existence of the homeschool or the transfer of the
+> child to another educational setting. A record of courses taken and grades received is also
+> necessary.
+
+> ✓ It is required that all core instruction be offered in the English language.
+
+## Statistiques
+
+| Year | Homeschoolers |
+| - | - |
+| 2024-2025 | 40,708 |
+| 2023–2024 | 41,016 |
 
 ## Sources
 
-* [HSLDA](https://hslda.org/post/how-to-comply-with-kentuckys-homeschool-law)
-* [CRHE](https://responsiblehomeschooling.org/kentucky/)
+- [Kentucky Department of Education — Homeschool Information](https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/5510/Mcs/25d77e54-8f7a-4c75-9adf-1614c8ee7bcc/KY_Home_School_Informational_Packet.pdf)
+- [kyyouth.org](https://kyyouth.org/kentucky-homeschool-trends-and-reflection)
