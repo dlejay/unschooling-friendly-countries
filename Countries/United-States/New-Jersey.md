@@ -1,11 +1,16 @@
+---
+last_reviewed: 2026-02-12
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: no
+---
 # Unschooling in New Jersey
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✓__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
 
-## Context
+## Compulsory education
+
+Education is compulsory from 6 to 16.
+
+## Unschooling
 
 According to the FAQs :
 
@@ -17,11 +22,14 @@ According to the FAQs :
 > 
 > State v. Massa 95 N.J. Super 382 (1967): In court, the parents were charged with failing to cause the child to attend school under the compulsory education law.  The only issue before the court was whether the parents were providing equivalent instruction.  The court held that the language under the compulsory education law, providing for equivalent instruction elsewhere than at school, required showing only academic equivalency and not equivalency of social development derived from group education.  In educating the child at home, the parents were required to show only that “the instruction was academically equivalent to that provided in the local public school.” 
 
-## According to CRHE
+## Statistics
 
-> Failure to educate is included in the state’s definition of neglect. Should a homeschool be reported for educational neglect, a state official may investigate to determine whether equivalent instruction is being provided. Should a local board of education become concerned that a given homeschooled child is not receiving equivalent instruction, the they may request evidence of the child’s education from the parent. In either case, the parent must provide evidence that the child is receiving “equivalent instruction,” but the state then has the burden of proving beyond a reasonable doubt that a family’s curriculum is not academically equivalent to a public school education. See State v. Massa 95 N.J. Super 382 (1967).
+| Year | % of K-12 |
+| - | - |
+| 2023–24) | 3.69 % |
+| 2022-23 | 3.62 % |
 
 ## Sources
 
-* [Frequently Asked Questions: Homeschooling](https://www.nj.gov/education/safety/nontraditional/faq_homeschool.shtml)
-* [CRHE](https://responsiblehomeschooling.org/New-Jersey/)
+- [NJ Rev Stat § 18A:38-25 (2024)](https://law.justia.com/codes/new-jersey/title-18a/section-18a-38-25)
+- [Frequently Asked Questions: Homeschooling](https://www.nj.gov/education/safety/nontraditional/faq_homeschool.shtml)
