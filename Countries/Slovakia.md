@@ -1,11 +1,25 @@
+---
+last_reviewed: 2026-02-15
+homeschooling_legal: yes
+prior_authorization_required: yes
+curriculum_free_allowed: no
+---
 # Unschooling in Slovakia
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✗__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
 
-## Context
+## Compulsory education
+
+According to the _školský zákon_,
+
+> § 19
+> **Compulsory school attendance**
+>
+> (1) No one may be exempted from compulsory school attendance.
+> 
+> (2) Compulsory school attendance is ten years and lasts until the end of the school year in which the pupil reaches the age of 16, unless otherwise provided for by this Act.
+> 
+> (3) Compulsory school attendance begins at the beginning of the school year following the day on which the child reaches the age of six and reaches school eligibility, unless otherwise provided by this Act.
+
+## Homeschooling
 
 According to the _školský zákon_, homeschooling is only possible for primary education, and :
 
@@ -22,13 +36,14 @@ According to the _školský zákon_, homeschooling is only possible for primary 
 >
 > (2) Education according to an individual curriculum may be permitted by the school director for a gifted student or for serious reasons, especially pregnancy and maternity.
 
-## According to HSLDA
+## Statistics
 
-Homeschooling got legalised in 2008 but
+| Year | Homeschoolers |
+| - | - |
+| 2024/2025 | 1,544 |
+| 2023/2024 | 1,830 |
 
-> A child´s legal representative (e.g., parent) should fulfill qualification requirements or hire a teacher fulfilling these qualification requirements. 
-
-> Children who are homeschooled are required to be taught the same curriculum as children at school and are required to be board examined at school every 6 months
 ## Sources
 
-* [_školský zákon_](https://www.zakonypreludi.sk/zz/2008-245)
+- [_školský zákon_](https://www.zakonypreludi.sk/zz/2008-245)
+- [domacevzdelavanie.sk](https://www.domacevzdelavanie.sk/wp-content/uploads/2024/01/Statistika_DV_2023_2024.pdf)
