@@ -1,9 +1,10 @@
+---
+last_reviewed: 2026-02-21
+homeschooling_legal: no
+---
 # Unschooling in Guatemala
-| | |
-|-|-|
-| __✗__ | Homeschooling is a legal form of schooling |
 
-## Context
+## Compulsory education
 
 According to the Constitution:
 
