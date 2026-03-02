@@ -1,11 +1,16 @@
+---
+last_reviewed: 2026-03-02
+homeschooling_legal: yes
+prior_authorization_required: yes
+curriculum_free_allowed: no
+---
 # Unschooling in Virginia
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✗__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
 
-## Context
+## Compulsory education
+
+Under § 22.1-254 of the Code of Virginia, education is compulsory from 5 to 18.
+
+## Unschooling
 
 According to § 22.1-254.1 of the Code of Virginia,
 
@@ -17,6 +22,15 @@ and children need to pass standardised tests
 
 > C. The parent who elects to provide home instruction shall provide the division superintendent by August 1 following the school year in which the child has received home instruction with either (i) evidence that the child has attained a composite score in or above the fourth stanine on any nationally normed standardized achievement test, or an equivalent score on the ACT, SAT, or PSAT test or (ii) an evaluation or assessment that the division superintendent determines to indicate that the child is achieving an adequate level of educational growth and progress, including (a) an evaluation letter from a person licensed to teach in any state, or a person with a master's degree or higher in an academic discipline, having knowledge of the child's academic progress, stating that the child is achieving an adequate level of educational growth and progress or (b) a report card or transcript from an institution of higher education, college distance learning program, or home-education correspondence school.
 > 
+
+## Statistics
+
+| Year | Homeschoolers |
+| - | - |
+| 2025-26 | 66,117 |
+| 2024-25 | 62,763 |
+| 2023-24 | 60,124 |
+
 ## Sources
 
-* [Code of Virginia.– § 22.1-254.1. Declaration of policy; requirements for home instruction of children](https://law.lis.virginia.gov/vacode/title22.1/chapter14/section22.1-254.1/#:~:text=Pupils-,§%2022.1%2D254.1.,of%20the%20Commonwealth%20of%20Virginia.)
+- [Code of Virginia.– § 22.1-254.1. Declaration of policy; requirements for home instruction of children](https://law.lis.virginia.gov/vacode/title22.1/chapter14/section22.1-254.1/#:~:text=Pupils-,§%2022.1%2D254.1.,of%20the%20Commonwealth%20of%20Virginia.)
