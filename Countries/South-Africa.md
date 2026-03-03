@@ -1,12 +1,23 @@
+---
+last_reviewed: 2026-03-03
+homeschooling_legal: yes
+prior_authorization_required: yes
+curriculum_free_allowed: no
+---
 # Unschooling in South Africa
 
-| | |
-|-|-|
-| __✓__ | Homeschooling is a legal form of schooling |
-| __✗__ | It requires no prior authorisation |
-| __✗__ | It can be curriculum-free |
+## Compulsory education
 
-## Context
+Compulsory school attendance applies from Grade R to Grade 9.
+
+It ends when the learner:
+- turns 15, or
+- completes Grade 9,
+whichever occurs first.
+
+Grades 10–12 (FET phase) are not compulsory.
+
+## Homeschooling
 
 The BELA Act rewrites section 51 of the South African Schools Act as:
 
@@ -38,7 +49,6 @@ The BELA Act rewrites section 51 of the South African Schools Act as:
 > 
 > (3) In considering the application, the Head of Department may, on just cause shown and after notification to the parent, require a delegated official to conduct a pre-registration consultation with the parents and learner to verify the information supplied in the application documentation and to provide support, where necessary, with the application process.
 
-
 ## Sources
 
-* [BELA Act](https://www.parliament.gov.za/storage/app/media/Acts/2024/Act_32_of_2024_Basic_Education_Laws_Amendment_Act.pdf)
+- [BELA Act](https://www.parliament.gov.za/storage/app/media/Acts/2024/Act_32_of_2024_Basic_Education_Laws_Amendment_Act.pdf)
