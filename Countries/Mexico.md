@@ -1,3 +1,6 @@
+---
+last_reviewed: 2026-03-04
+---
 # Unschooling in Mexico
 
 ## Context
