@@ -1,12 +1,16 @@
+---
+last_reviewed: 2026-03-08
+homeschooling_legal: yes
+prior_authorization_required: depends
+curriculum_free_allowed: no
+---
 # Unschooling in California
 
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✓** | Homeschooling is a legal form of schooling |
-| **~** | It requires no prior authorisation         |
-| **✗** | It can be curriculum-free                  |
+## Compulsory education
 
-## Context
+Compulsory full-time education applies from age 6 through 18.
+
+## Homeschooling
 
 California has four homeschool options.
 
@@ -38,7 +42,14 @@ Under §48224 of the California Education Code :
 Independent study is a public school alternative to traditional classroom-based education, authorized under California Education Code Sections 51745–51749.3.
 Unlike the previous, which fall under private school law, independent study is a public school option, typically offered through public school districts or county offices of education, including charter schools.
 
+## Statistics
+
+2024–25: 30,621 schools / 51,276 students
+2023–24: 29,240 schools / 49,402 students
+2022–23: 27,383 schools / 46,966 students
+
 ## Sources
 
+- [Private School Counts & Enrollment by Year](https://www.cde.ca.gov/ds/si/ps/psastatcountsbyyear.asp)
 - [Cal. Educ. Code §48222](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?sectionNum=48222&lawCode=EDC)
 - [Cal. Educ. Code §48224](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=EDC&sectionNum=48224)
