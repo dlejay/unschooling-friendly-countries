@@ -1,10 +1,10 @@
+---
+last_reviewed: 2026-03-11
+homeschooling_legal: no
+---
 # Unschooling in the Solomon Islands
 
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✗** | Homeschooling is a legal form of schooling |
-
-## Context
+## Compulsory schooling
 
 According to the Education Act of 2023 :
 
