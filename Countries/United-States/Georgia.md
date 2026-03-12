@@ -1,12 +1,16 @@
+---
+last_reviewed: 2026-03-12
+homeschooling_legal: yes
+prior_authorization_required: yes
+curriculum_free_allowed: no
+---
 # Unschooling in Georgia
 
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✓** | Homeschooling is a legal form of schooling |
-| **✗** | It requires no prior authorisation         |
-| **✗** | It can be curriculum-free                  |
+## Compulsory education
 
-## Context
+Georgia requires children to receive education between the 6th and 16th birthdays.
+
+## Homeschooling
 
 According to the Homeschool Statute,
 
@@ -14,6 +18,14 @@ According to the Homeschool Statute,
 
 > (c)(5.) The home study program must provide instruction each 12 months to home study students equivalent to 180 school days of education with each school day consisting of at least four and one-half school hours unless the child is physically unable to comply with the rule provided for in this paragraph;
 
+## Statistics
+
+| Year | % of K-12 |
+| - | - |
+| 2023-24 | 6.27 % |
+| 2022-23 | 6.99 % |
+
 ## Sources
 
-- [GA Code § 20-2-690 (2021)](https://law.justia.com/codes/georgia/2021/title-20/chapter-2/article-16/part-1/subpart-2/section-20-2-690/)
+- [GA Code § 20-2-690 (2024)](https://codes.findlaw.com/ga/title-20-education/ga-code-sect-20-2-690/)
+- [Johns Hopkins – Institute for Education Policy](https://education.jhu.edu/edpolicy/policy-research-initiatives/homeschool-hub/states/georgia/)
