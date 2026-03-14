@@ -1,12 +1,16 @@
+---
+last_reviewed: 2026-03-14
+homeschooling_legal: yes
+prior_authorization_required: yes
+curriculum_free_allowed: no
+---
 # Unschooling in Maryland
 
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✓** | Homeschooling is a legal form of schooling |
-| **✗** | It requires no prior authorisation         |
-| **✗** | It can be curriculum-free                  |
+## Compulsory education
 
-## Context
+Maryland law requires every child between ages 5 and 18 to receive instruction.
+
+## Homeschooling
 
 According to Section 13A.10.01.01 - Home Instruction Program of the Md. Code
 Regs.
@@ -22,6 +26,14 @@ Regs.
 > (b) Include instruction in English, mathematics, science, social studies, art, music, health, and physical education; and
 > (c) Take place on a regular basis during the school year and be of sufficient duration to implement the instruction program.
 
+## Statistics
+
+| Year | Homeschoolers |
+| - | - |
+| 2024-25 | 42,151 |
+| 2023-24 | 40,123 |
+
 ## Sources
 
 - [Md. Code Regs. 13A.10.01.01](https://casetext.com/regulation/maryland-administrative-code/title-13a-state-board-of-education/subtitle-10-home-instruction/chapter-13a1001-general-regulations/section-13a100101-home-instruction-program)
+- [15 year report 2010-2025](https://marylandpublicschools.org/about/Documents/DSFSS/SSSP/HomeInstruct/15-Year-Report-2010-2025-A.pdf)
