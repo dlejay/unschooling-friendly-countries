@@ -1,12 +1,16 @@
+---
+last_reviewed: 2026-03-16
+homeschooling_legal: yes
+prior_authorization_required: no
+curriculum_free_allowed: no
+---
 # Unschooling in Minnesota
 
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✓** | Homeschooling is a legal form of schooling |
-| **✗** | It requires no prior authorisation         |
-| **✗** | It can be curriculum-free                  |
+## Compulsory education
 
-## Context
+Minnesota's compulsory law requires children to receive instruction from ages 7 to 17.
+
+## Homeschooling
 
 According to Minn. Stat. Ann. § 120A.22
 
@@ -24,7 +28,23 @@ According to Minn. Stat. Ann. § 120A.22
 > (4) hold a baccalaureate degree; or
 > (5) be the parent of a child who is assessed according to the procedures in subdivision 11.
 > Any person providing instruction in a public school must meet the requirements of clause (1).
+> 
+> Subd. 11. **Assessment of performance.** (a) Each year the performance of every child ages seven through 16 and every child ages 16 through 17 for which an initial report was filed pursuant to section 120A.24, subdivision 1, after the child is 16 and who is not enrolled in a public school must be assessed using a nationally norm-referenced standardized achievement examination. The superintendent of the district in which the child receives instruction and the person in charge of the child's instruction must agree about the specific examination to be used and the administration and location of the examination.
+>
+> (b) To the extent the examination in paragraph (a) does not provide assessment in all of the subject areas in subdivision 9, the parent must assess the child's performance in the applicable subject area. This requirement applies only to a parent who provides instruction and does not meet the requirements of subdivision 10, clause (1) or (2).
+>
+> (c) If the results of the assessments in paragraphs (a) and (b) indicate that the child's performance on the total battery score is at or below the 30th percentile or one grade level below the performance level for children of the same age, the parent must obtain additional evaluation of the child's abilities and performance for the purpose of determining whether the child has learning problems.
+>
+> (d) A child receiving instruction from a nonpublic school, person, or institution that is accredited by an accrediting agency, recognized according to section 123B.445, or recognized by the commissioner, is exempt from the requirements of this subdivision.
+
+## Statistics
+
+| Year | Homeschoolers |
+| - | - |
+| 2024-25 | 31,216 |
+| 2023-24 | 29,062 |
 
 ## Sources
 
 - [Minn. Stat. Ann. § 120A.22](https://www.revisor.mn.gov/statutes/cite/120A.22)
+- [Minnesota Education Statistics Summary](https://www.lrl.mn.gov/docs/2026/other/260403.pdf)
