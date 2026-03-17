@@ -1,12 +1,16 @@
+---
+last_reviewed: 2026-03-17
+homeschooling_legal: yes
+prior_authorization_required: yes
+curriculum_free_allowed: no
+---
 # Unschooling in Washington
 
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✓** | Homeschooling is a legal form of schooling |
-| **✗** | It requires no prior authorisation         |
-| **✗** | It can be curriculum-free                  |
+## Compulsory education
 
-## Context
+General compulsory attendance starts at age 8 and runs to under 18.
+
+## Homeschooling
 
 According to RCW 28A.200.010,
 
@@ -17,6 +21,14 @@ According to RCW 28A.200.010,
 > (b) Ensure that test scores or annual academic progress assessments and immunization records, together with any other records that are kept relating to the instructional and educational activities provided, are forwarded to any other public or private school to which the child transfers. At the time of a transfer to a public school, the superintendent of the local school district in which the child enrolls may require a standardized achievement test to be administered and shall have the authority to determine the appropriate grade and course level placement of the child after consultation with parents and review of the child's records; and
 > (c) Ensure that a standardized achievement test approved by the state board of education is administered annually to the child by a qualified individual or that an annual assessment of the student's academic progress is written by a certificated person who is currently working in the field of education. The state board of education shall not require these children to meet the student learning goals, learn the state learning standards, or take the assessments under RCW 28A.655.070. The standardized test administered or the annual academic progress assessment written shall be made a part of the child's permanent records. If, as a result of the annual test or assessment, it is determined that the child is not making reasonable progress consistent with his or her age or stage of development, the parent shall make a good faith effort to remedy any deficiency.
 
+## Statistics
+
+| Year | % of K-12 |
+| - | - |
+| 2023-24 | 6.04 % |
+| 2022-23 | 6.59 % |
+
 ## Sources
 
 - [RCW 28A.200.010](https://app.leg.wa.gov/rcw/default.aspx?cite=28A.200.010)
+- [Johns Hopkins – Institute for Education Policy](https://education.jhu.edu/edpolicy/policy-research-initiatives/homeschool-hub/states/washington/)
