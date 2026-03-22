@@ -1,12 +1,16 @@
+---
+last_reviewed: 2026-03-22
+homeschooling_legal: yes
+prior_authorization_required: yes
+curriculum_free_allowed: no
+---
 # Unschooling in North Dakota
 
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✓** | Homeschooling is a legal form of schooling |
-| **✗** | It requires no prior authorisation         |
-| **✗** | It can be curriculum-free                  |
+## Compulsory education
 
-## Context
+North Dakota's compulsory attendance law covers children ages 7 through 16.
+
+## Homeschooling
 
 According to the Homeschool Statute,
 
@@ -36,6 +40,13 @@ According to the Homeschool Statute,
 >    remediation plan, the parent is deemed to be in violation of compulsory school
 >    attendance provisions and may no longer supervise the home education of the child.
 
+## Statistics
+
+| Year | % of K-12 |
+| - | - |
+| 2023-24 | 5.78 % |
+
 ## Sources
 
 - [Homeschool Statute](https://ndlegis.gov/cencode/t15-1c23.pdf)
+- [Johns Hopkins – Institute for Education Policy](https://education.jhu.edu/edpolicy/policy-research-initiatives/homeschool-hub/states/north-dakota/)
