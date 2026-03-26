@@ -1,12 +1,20 @@
+---
+last_reviewed: 2026-03-26
+homeschooling_legal: yes
+can_start_immediately: yes
+curriculum_free_allowed: no
+---
 # Unschooling in New Hampshire
 
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✓** | Homeschooling is a legal form of schooling |
-| **✓** | It requires no prior authorisation         |
-| **✗** | It can be curriculum-free                  |
+## Compulsory education
 
-## Context
+NH Rev Stat § 193:1 (2025)
+
+> **193:1 Duty of Parent; Compulsory Attendance by Pupil. –**
+>
+> I. A parent of any child at least 6 years of age and under 18 years of age shall cause such child to attend the public school to which the child is assigned in the child's resident district. Such child shall attend full time when such school is in session unless
+
+## Homeschooling
 
 According to the N.H. Rev. Stat. Ann. § 193-A
 
@@ -24,6 +32,16 @@ According to the N.H. Rev. Stat. Ann. § 193-A
 >
 > (d) The child shall be evaluated using any other valid measurement tool mutually agreed upon by the parent and the commissioner of education, resident district superintendent, or nonpublic school principal.
 
+## Statistics
+
+| Year | % of K-12 students |
+| - | - |
+| 2023–24 | 6.34 % |
+| 2022–23 | 6.21 % |
+| 2021–22 | 2.1 % |
+
 ## Sources
 
+- [NH Rev Stat § 193:1 (2025)](https://law.justia.com/codes/new-hampshire/title-xv/chapter-193/section-193-1/)
 - [N.H. Rev. Stat. Ann. § 193-A](https://law.justia.com/codes/new-hampshire/title-xv/chapter-193-a/section-193-a-6/)
+- [Johns Hopkins – Institute for Education Policy](https://education.jhu.edu/edpolicy/policy-research-initiatives/homeschool-hub/states/new-hampshire/)
