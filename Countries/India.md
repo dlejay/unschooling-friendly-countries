@@ -1,8 +1,19 @@
+---
+last_reviewed: 2026-03-28
+homeschooling_legal: yes
+can_start_immediately: yes
+curriculum_free_allowed: yes
+---
 # Unschooling in India
 
-## Context
+## Compulsory education
 
-In 2009, India passed the Right To Education Act, which according to the Departement of School Education & Literacy,
+The Right of Children to Free and Compulsory Education Act, 2009 provides
+for free and compulsory education to all children aged 6 to 14 years.
+
+## Homeschooling
+
+In 2009, India passed the Right To Education Act, which according to the Department of School Education & Literacy,
 
 > clarifies that ‘compulsory education’ means obligation of the appropriate government to provide free elementary education and ensure compulsory admission, attendance and completion of elementary education to every child in the six to fourteen age group. ‘Free’ means that no child shall be liable to pay any kind of fee or charges or expenses which may prevent him or her from pursuing and completing elementary education.
 
@@ -14,16 +25,8 @@ and homeschoolingindia.com notes :
 
 > The only hope is the badly written RTE Act itself. While it says every child between six and fourteen years of age must attend school and outlines consequences for schools that refuse to admit children, there is no consequence stated for a parent who refuses to send their child to school. And there is one more hope. Our poor implementation of laws.
 
-According to Krystelle Dsouza,
-
-> In the year 2023-2024, the Education Ministry discovered that more than 72,000 students were getting a home-based education, with Tamil Nadu leading the practice.
-
-In 2023, the report on the National Credit Network says homeschooling, online learning and alternative learning should be validated, and students given certificates & diplomas for them.
-
 ## Sources
 
-- [dsel.education.gov.in/rte](https://dsel.education.gov.in/rte)
+- [The Right of Children to Free and Compulsory Education Act, 2009](https://www.indiacode.nic.in/bitstream/123456789/19014/1/the_right_of_children_to_free_and_compulsory_education_act_2009.pdf)
 - [Is homeschooling legal in India?](https://homeschoolingindia.in/homeschooling-legal-india/)
 - [HSLDA](https://hslda.org/post/india)
-- [Article by Krystelle Dsouza](https://thebetterindia.com/388392/student-writes-novels-tips-to-study-at-home-how-to-homeschool/)
-- [Report of National Credit Network](https://www.ugc.gov.in/pdfnews/9028476_Report-of-National-Credit-Framework.pdf)
