@@ -1,12 +1,10 @@
+---
+last_reviewed: 2026-03-31
+homeschooling_legal: no
+---
 # Unschooling in Germany
 
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✗** | Homeschooling is a legal form of schooling |
-| **✗** | It requires no prior authorisation         |
-| **✗** | It can be curriculum-free                  |
-
-## Context
+## Compulsory schooling
 
 In Germany, the _Schulpflicht_ forbids homeschooling since at least the Weimar Constitution of 1919.
 
