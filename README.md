@@ -208,7 +208,7 @@ or a self-governing territory with permanent population not part of a sovereign 
 | **✗** | [Spain](Countries/Spain.md)                                                       |
 | **✗** | [Sri Lanka](Countries/Sri-Lanka.md)                                               |
 | **~** | [Sudan](Countries/Sudan/README.md)                                                |
-| **✗** | [Suriname](Countries/Suriname.md)                                                 |
+| **✓** | [Suriname](Countries/Suriname.md)                                                 |
 | **✗** | [Sweden](Countries/Sweden.md)                                                     |
 | **✗** | [Switzerland](Countries/Switzerland/README.md)                                    |
 | **✗** | [Syria](Countries/Syria.md)                                                       |

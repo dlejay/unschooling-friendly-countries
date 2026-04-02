@@ -1,35 +1,33 @@
+---
+last_reviewed: 2026-04-02
+homeschooling_legal: yes
+can_start_immediately: yes
+curriculum_free_allowed: yes
+---
 # Unschooling in Suriname
 
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✓** | Homeschooling is a legal form of schooling |
-| **✓** | It requires no prior authorisation         |
-| **✗** | It can be curriculum-free                  |
+## Compulsory education
 
-## Context
+According to Article 20 of the _Lager Onderwijswet 1960_
 
-Homeschooling in Suriname is subject to Chapter 2, Section 2 of the _Wet Primair Onderwijs en Toezicht_.
+> Parents, guardians or carers are obliged to ensure that children aged 7–12 under their authority receive regular primary education, where the opportunity exists, from persons qualified under this Act.
+> Exemption can be granted by Ministerial order.
 
-Article 19.2 states :
+## Homeschooling
 
-> If the child does not present itself to the Examination Office in time or does not obtain the certificate
-> of primary education after a maximum of two attempts,
-> the parents must register the child either in a school recognized by the Ministry
-> or in one of the following schools:
+According to Article 6(2) of the _Lager Onderwijswet 1960_
+
+> Exempted from the teacher qualification requirements are:
 >
-> a. international schools whose study certificates, after a
-> equivalence investigation by NOVA, as equivalent
-> are considered;
+> (a) parents, guardians or carers who themselves teach their own children, and
 >
-> b. schools located abroad, where the school age child
-> face-to-face education.
+> (b) persons who, after obtaining permission from the Director of Education, provide primary education exclusively to the children of a single family.
 
-## News
+## Statistics
 
-Suriname adopted a new National Education Policy (2024-2031), updating in
-particular their curriculum.
+Out-of-school rate in 2021 : 15.72 % for ages 6–11 and 48.66 % for ages 12–15.
 
 ## Sources
 
-- 2019 version of the [_Wet Primair Onderwijs en Toezicht_](https://www.dna.sr/media/280133/Wet_Primair_Onderwijs.pdf)
+- [_Lager Onderwijswet 1960_](https://www.dna.sr/media/v2rfyla1/de_lager_onderwijswet_1960.pdf)
 - [Education Policy (2024-2031)](https://gov.sr/wp-content/uploads/2025/03/National-Education-Policy-Suriname-2024-2031-ENGLISH_FINAL-1.pdf)
