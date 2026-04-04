@@ -25,14 +25,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.2676433"
-     inkscape:cx="357.35604"
-     inkscape:cy="426.38177"
+     inkscape:cx="357.35605"
+     inkscape:cy="426.77621"
      inkscape:window-width="2237"
-     inkscape:window-height="1124"
+     inkscape:window-height="1115"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="30"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g219" />
+     inkscape:current-layer="g20" />
   <defs
      id="defs1">
     <rect
@@ -1124,15 +1124,7 @@
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'SF Pro Text';-inkscape-font-specification:'SF Pro Text, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect7);display:inline;fill:#b96b00;fill-opacity:1;stroke:#b96b00;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"><tspan
            x="314.52126"
            y="248.31275"
-           id="tspan1">ISLE OF MAN</tspan></text>
-      <text
-         xml:space="preserve"
-         transform="matrix(2.6694258,0,0,2.6641299,266.44792,203.74622)"
-         id="text8"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;font-family:'SF Pro Text';-inkscape-font-specification:'SF Pro Text, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect8);display:inline;fill:#b96b00;fill-opacity:1;stroke:#040100;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"><tspan
-           x="664.06355"
-           y="623.92993"
-           id="tspan2">MONACO</tspan></text>
+           id="tspan2">ISLE OF MAN</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.5569px;font-family:'SF Pro Text';-inkscape-font-specification:'SF Pro Text, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#b96b00;fill-opacity:1;stroke:#040100;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
@@ -1158,10 +1150,6 @@
          style="fill:#b96b00;fill-opacity:1;stroke:#040100;stroke-width:2.07755;stroke-dasharray:none;stroke-opacity:1"
          d="m 1519.6978,1268.4608 95.176,-193.1452"
          id="path8" />
-      <path
-         style="fill:#b96b00;fill-opacity:1;stroke:#040100;stroke-width:1.94279;stroke-dasharray:none;stroke-opacity:1"
-         d="m 2147.2604,1728.7737 -25.8994,99.7786"
-         id="path13" />
       <path
          style="fill:#b96b00;fill-opacity:1;stroke:#040100;stroke-width:2.01583;stroke-dasharray:none;stroke-opacity:1"
          d="m 2386.0969,1892.1658 16.0729,-78.0943"
