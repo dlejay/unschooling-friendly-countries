@@ -1,21 +1,14 @@
+---
+last_reviewed: 2026-04-07
+homeschooling_legal: no
+---
 # Unschooling in Ticino
 
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✗** | Homeschooling is a legal form of schooling |
-| **✗** | It requires no prior authorisation         |
-| **✗** | It can be curriculum-free                  |
-
-## Context
+## Compulsory schooling
 
 Homeschooling is not allowed in Ticino. Article 6 of the _Legge della scuola_ states that :
 
 > All persons residing in the canton between the ages of four and fifteen are required to attend compulsory schooling.
-
-## News
-
-In 2023, a new law regarding compulsory schooling was discussed and then
-abandonned. This proposal did not aim at legalizing homeschooling.
 
 ## Sources
 
