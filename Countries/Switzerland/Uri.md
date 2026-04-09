@@ -1,23 +1,24 @@
+---
+last_reviewed: 2026-04-09
+homeschooling_legal: no
+---
 # Unschooling in Uri
 
-Homeschooling is **explicitely banned** in Uri.
+Homeschooling is explicitly banned in Uri.
 
-## Context
+## Compulsory schooling
 
-Article 18 of the _Bildungsgesetz_ states that :
+Article 18 of the _Bildungsgesetz_ provides that each child living in the canton of Uri who turns five by 31 July becomes subject to compulsory schooling at the start of the next school year.
 
-> Every child living in the canton of Uri who turns five by July 31 is required
-> to attend school at the beginning of the next school year.
+## Homeschooling
 
-Since the first of August 2023, the _Bildungsgesetz_ now explicitely forbids homeschooling
-in its Artikel 23(2).
+Article 23(2) of the _Bildungsgesetz_ states:
 
 > Privater Unterricht (Homeschooling) ist ausgeschlossen.
 
-This change was part of a broader overhaul of Uri’s education legislation (the _Gesetz über Schule und Bildung_),
-which was approved by 71 % of Uri voters in a September 2022 referendum.
+This rule is part of the revised _Gesetz über Schule und Bildung_ (_Bildungsgesetz_), which was approved by Uri voters on 25 September 2022 and entered into force on 1 January 2023.
 
 ## Sources
 
-- [_Bildungsgesetz_](https://www.ur.ch/_docn/268588/Entwurf_Bildungsgesetz_finale_Version.pdf)
-- [_Klares Ja zum Bildungsgesetz_](https://www.urnerzeitung.ch/zentralschweiz/uri/kanton-uri-klares-ja-zum-bildungsgesetz-ld.2345717)
+- [_Gesetz über Schule und Bildung (Bildungsgesetz)_](https://rechtsbuch.ur.ch/app/de/texts_of_law/10.1111)
+- [Official Uri referendum results, 25 September 2022](https://www.ur.ch/abstimmungen/termine/31937?_display-mode=a11y)
