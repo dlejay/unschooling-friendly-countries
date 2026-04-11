@@ -1,10 +1,10 @@
+---
+last_reviewed: 2026-04-11
+homeschooling_legal: yes
+can_start_immediately: no
+curriculum_free_allowed: no
+---
 # Unschooling in Zug
-
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✓** | Homeschooling is a legal form of schooling |
-| **✗** | It requires no prior authorisation         |
-| **✗** | It can be curriculum-free                  |
 
 ## Compulsory education
 
@@ -22,14 +22,13 @@ In order to apply for a permit, the teacher must already have a recognized teach
 
 | School year | Homeschoolers |
 | ----------- | ------------- |
-| 2022/23     | 0             |
-| 2023/24     | 0             |
+| 2013/14–2023/24     | 0             |
 
 ## News
 
-For the 2022/23 and 2023/24 school years the canton did not issue a single homeschooling permit.
-
-Stephan Schleiss, who has been Zug’s Education Director throughout this period, frequently emphasized the rationale behind the restrictions. He argues that a child’s schooling should occur in a social environment, not in isolation at home. “An isolation through one-on-one teaching must be avoided. Education toward community capability is highly valued,” Schleiss told local media.
+Stephan Schleiss, Zug's Education Director since 2011, has consistently defended the restrictions.
+He argues that a child's schooling should occur in a social environment, not in isolation at home.
+“An isolation through one-on-one teaching must be avoided. Education toward community capability is highly valued”, Schleiss told _zentralplus_ in 2021.
 
 ## Sources
 
