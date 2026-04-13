@@ -1,3 +1,7 @@
+---
+last_reviewed: 2026-04-13
+compulsory_education: no
+---
 # Unschooling in the Vatican City
 
 ## Compulsory education
