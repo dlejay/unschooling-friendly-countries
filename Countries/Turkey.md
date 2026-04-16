@@ -1,38 +1,65 @@
+---
+last_reviewed: 2026-04-16
+parents_may_choose_home_education_as_of_right: no
+---
 # Unschooling in Turkey
-
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✗** | Homeschooling is a legal form of schooling |
-| **✗** | It requires no prior authorisation         |
-| **✗** | It can be curriculum-free                  |
 
 ## Compulsory education
 
-The Education Basic Law mandates 12 years of compulsory schooling.
+Compulsory education is 12 years, organised as 4+4+4 under the 2012 reform :
+4 years of primary school (_ilkokul_), 4 years of lower secondary (_ortaokul_),
+and 4 years of upper secondary (_lise_).
 
-## Unschooling
+## Home education
 
-Homeschooling is not allowed in Turkey. Per the *National Education Basic Law* :
+Home education is not recognised as a general as-of-right alternative within Turkey’s compulsory education system.
 
-> ARTICLE 3 – Compulsory primary education includes children in the age group of 6-13.
-> This age begins at the end of September of the year in which the child turns 5,
-> and ends at the end of the academic year of the year in which he turns 13 and turns 14.
+The statutory framework is the _National Education Basic Law_ (Law No. 1739 of 14 June 1973) and the _Primary Education and Education Law_ (Law No. 222 of 1961), both substantially amended by Law No. 6287 of 30 March 2012, which introduced the 4+4+4 system and extended compulsory education from 8 to 12 years.
+
+From Law No. 222 (as amended by Law 6287) :
+
+> **Article 3** — Compulsory primary education covers children in the 6–13 age
+> group. This period begins at the end of September of the year in which the
+> child completes the age of 5, and ends at the end of the academic year of
+> the year in which the child completes 13 and enters 14.
 >
-> ARTICLE 7 – Primary Education; It is a National Education and Training Institution,
-> consisting of a four-year compulsory primary school and a four-year compulsory secondary school,
-> established to achieve the purpose specified in Article 1.
+> **Article 7** — Primary education is a national education and training
+> institution, established to achieve the purpose set out in Article 1,
+> consisting of compulsory four-year primary schools and compulsory
+> four-year lower secondary schools.
 
-The situation is quite different for foreign residents (expatriates) living in Turkey, who have more leeway to homeschool.
-Foreign nationals residing in Turkey are not legally obliged to enroll their children in Turkish schools if they prefer not to. In fact, expatriate families do not even need to notify the Ministry of Education if their children are studying at home or enrolled in an overseas distance-learning program
+Law 6287 further amended Article 3 of Law 222 to make upper secondary
+education (*ortaöğretim*) compulsory as well, bringing the total to 12 years.
 
-## News
+Parents who fail to enrol or send children to school may face administrative
+fines under the enforcement provisions of Law No. 222.
 
-In line with Turkey’s long-standing ‘unity of education’ principle, officials and experts have continued to view homeschooling skeptically, suggesting it does not align with national education objectives under current law.
+### Foreign residents
 
-Homeschooling carries a largely negative public perception, and media stories often underline the risks over the rewards.
+Some secondary sources aimed at expatriates suggest that foreign families
+may in practice have more flexibility, particularly where children follow
+a foreign curriculum or a distance-learning path.
+I have not verified a clear official Turkish legal source establishing
+a general codified exemption allowing foreign residents to homeschool
+outside the ordinary compulsory-schooling framework, and Turkish law firms
+writing for expatriate audiences are not consistent on this point.
+
+## Discourse
+
+Turkey's education system is centrally administered by the Ministry of
+National Education (MEB) under the long-standing _tevhid-i tedrisat_
+(unity of education) principle. Official and academic discourse continues
+to favour centralised, formally recognised schooling. Commentary in
+Turkish-language media and academic outlets has tended to frame home
+education skeptically, emphasising risks around socialisation and
+curriculum coherence. No legislative proposal recognising home education
+has advanced as of April 2026.
 
 ## Sources
 
-- [Law No.6287/7, enacted March 30, 2012](https://www.resmigazete.gov.tr/eskiler/2012/04/20120411-8.htm)
-- [hslda.org](https://hslda.org/post/turkey)
-- [_Pandeminin Ardından Yükselen Trend: Evde Eğitim_](https://iletim.istanbul.edu.tr/index.php/2024/02/26/pandeminin-ardindan-yukselen-trend-evde-egitim/#:~:text=Psikolog%20%C3%96zge%20%C3%96zta%C5%9F%C3%A7%C4%B1%E2%80%99n%C4%B1n%20g%C3%B6r%C3%BC%C5%9Fleri%20ise,mahrum%20kalmalar%C4%B1na%20sebep%20olabilece%C4%9Fini%20vurguluyor)
+- [Law No. 1739 — *Millî Eğitim Temel Kanunu* (1973)](https://www.mevzuat.gov.tr/mevzuatmetin/1.5.1739.pdf)
+- [Law No. 222 — *İlköğretim ve Eğitim Kanunu* (1961)](https://www.mevzuat.gov.tr/mevzuatmetin/1.4.222.pdf)
+- [Law No. 6287 of 30 March 2012 (amending act, 4+4+4 reform)](https://www.resmigazete.gov.tr/eskiler/2012/04/20120411-8.htm)
+- [hslda.org — Turkey](https://hslda.org/post/turkey)
+- [*Pandeminin Ardından Yükselen Trend: Evde Eğitim* — Istanbul University](https://iletim.istanbul.edu.tr/index.php/2024/02/26/pandeminin-ardindan-yukselen-trend-evde-egitim/)
+- [Eurydice — Türkiye: Fundamental principles and national policies](https://eurydice.eacea.ec.europa.eu/national-education-systems/turkiye/fundamental-principles-and-national-policies)
