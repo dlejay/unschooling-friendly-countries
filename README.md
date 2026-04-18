@@ -5,7 +5,7 @@
 Whithin the context of the following list, an _unschooling friendly country_ is a sovereign state
 or a self-governing territory with permanent population not part of a sovereign state, in which:
 
-1. Parents may choose home education as a matter of right ;
+1. Home education is open at all ;
 2. It can be started immediately ;
 3. It can be curriculum-free.
 
