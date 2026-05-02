@@ -1,8 +1,6 @@
 ---
 last_reviewed: 2026-05-02
 home_education_open_to_all: no
-can_start_immediately: no
-can_be_curriculum_free: no
 ---
 
 # Unschooling in Curaçao
@@ -58,8 +56,7 @@ organisation or quality of schooling. According to Curaçao Chronicle :
   prior notice and without consultation, despite an earlier ministerial
   invitation for HAC to submit a policy proposal.
 - The Algemene Rekenkamer (Oct 2024) and the Ombudsman (Feb 2026) have
-  flagged structural failures in leerplicht enforcement — relevant as
-  background to the ministry's stated rationale for stricter exemption review.
+  flagged structural failures in leerplicht enforcement.
 
 ## Sources
 
