@@ -12,7 +12,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 
 ## List of jurisdictions
 
-|       | Countries                                                                         |
+|       | Jurisdictions
 | ----- | :-------------------------------------------------------------------------------- |
 | **✓** | [Abkhazia](Countries/Abkhazia.md)                                                 |
 | **✗** | [Afghanistan](Countries/Afghanistan.md)                                           |
@@ -159,8 +159,8 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Niue](Countries/Niue.md)                                                         |
 | **✗** | [North Korea](Countries/North-Korea.md)                                           |
 | **✗** | [North Macedonia](Countries/North-Macedonia.md)                             |
-| **✗** | [Northern Mariana Islands](Countries/CNMI.md)                                     |
 | **✗** | [Northern Cyprus](Countries/Northern-Cyprus.md)                                   |
+| **✗** | [Northern Mariana Islands](Countries/CNMI.md)                                     |
 | **✗** | [Norway](Countries/Norway.md)                                                     |
 | **✗** | [Oman](Countries/Oman.md)                                                         |
 | **✓** | [Pakistan](Countries/Pakistan.md)                                                 |
@@ -241,7 +241,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 
 ## Maps
 
-|                               Map of unschooling friendly countries                                | near          |
+|                               Map of unschooling friendly jurisdictions                                | near          |
 | :------------------------------------------------------------------------------------------------: | :------------ |
 | ![Unschooling friendly countries near London](Maps/Unschooling_friendly_countries_near_London.svg) | London        |
 |        ![Unschooling friendly countries near New York City](Maps/Unschooling_near_NYC.svg)         | New York City |
