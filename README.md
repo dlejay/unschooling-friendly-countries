@@ -1,15 +1,16 @@
-# Unschooling friendly countries
+# Unschooling-friendly jurisdictions
 
 ## Definition
 
-Whithin the context of the following list, an _unschooling friendly country_ is a sovereign state
-or a self-governing territory with permanent population not part of a sovereign state, in which:
+In this list, an _unschooling-friendly jurisdiction_ is a territory with autonomous competence to set its own education-law rules. This may be a sovereign state, constituent country, federal state, canton, province, autonomous region, dependency, or another self-governing territory.
 
-1. Home education is open at all ;
+A jurisdiction is treated as _unschooling-friendly_ where:
+
+1. Home education is open to all ;
 2. It can be started immediately ;
-3. It can be curriculum-free.
+3. It can be interest-driven.
 
-## List of countries
+## List of jurisdictions
 
 |       | Countries                                                                         |
 | ----- | :-------------------------------------------------------------------------------- |
