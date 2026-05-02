@@ -1,4 +1,4 @@
-# Unschooling in Fidji
+# Unschooling in Fiji
 
 |       |                                            |
 | ----- | ------------------------------------------ |
@@ -37,7 +37,7 @@ According to the Compulsory Education Regulations
 >
 > (4) The application shall be supported by such evidence as the Minister may require.
 
-The law applies to all children in Fidji.
+The law applies to all children in Fiji.
 
 ## Sources
 

@@ -82,7 +82,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Eswatini](Countries/Eswatini.md)                                                 |
 | **✗** | [Ethiopia](Countries/Ethiopia.md)                                                 |
 | **✗** | [Falkland Islands](Countries/Falkland-Islands.md)                                 |
-| **✗** | [Fidji](Countries/Fidji.md)                                                       |
+| **✗** | [Fiji](Countries/Fiji.md)                                                       |
 | **✗** | [Finland](Countries/Finland/README.md)                                            |
 | **~** | [France](Countries/France/README.md)                                              |
 | **✗** | [Gabon](Countries/Gabon.md)                                                       |
