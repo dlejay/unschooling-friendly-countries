@@ -54,7 +54,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **~** | [Canada](Countries/Canada/README.md)                                              |
 | **✗** | [Cape Verde](Countries/Cape-Verde.md)                                             |
 | **✗** | [Cayman Islands](Countries/Cayman-Islands.md)                                     |
-| **✗** | [Centrafrique](Countries/Centrafrique.md)                                         |
+| **✗** | [Central African Republic](Countries/Central-African-Republic.md)                                         |
 | **✗** | [Chad](Countries/Chad.md)                                                         |
 | **✗** | [Chile](Countries/Chile.md)                                                       |
 | **~** | [China](Countries/China/README.md)                                                |

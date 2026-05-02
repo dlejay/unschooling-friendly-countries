@@ -2,7 +2,7 @@
 last_reviewed: 2025-12-01
 homeschooling_legal: no
 ---
-# Unschooling in Centrafrique
+# Unschooling in the Central African Republic
 
 ## Compulsory schooling
 
