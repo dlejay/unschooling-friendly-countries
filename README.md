@@ -151,7 +151,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Namibia](Countries/Namibia.md)                                                   |
 | **✗** | [Nauru](Countries/Nauru.md)                                                       |
 | **✗** | [Nepal](Countries/Nepal.md)                                                       |
-| **✗** | [Netherlands](<Countries/Kingdom of the Netherlands.md>)                                           |
+| **✗** | [Netherlands](<Countries/Kingdom of the Netherlands/README.md>)                                           |
 | **✗** | [New Zealand](Countries/New-Zealand.md)                                           |
 | **✓** | [Nicaragua](Countries/Nicaragua.md)                                               |
 | **✓** | [Niger](Countries/Niger.md)                                                       |
