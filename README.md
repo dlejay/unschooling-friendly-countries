@@ -66,7 +66,6 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Costa Rica](Countries/Costa-Rica.md)                                             |
 | **✗** | [Croatia](Countries/Croatia.md)                                                   |
 | **✗** | [Cuba](Countries/Cuba.md)                                                         |
-| **✗** | [Curaçao](Countries/Curaçao.md)                                                   |
 | **✗** | [Cyprus](Countries/Cyprus.md)                                                     |
 | **✗** | [Czech Republic](Countries/Czech-Republic.md)                                     |
 | **✗** | [Denmark](Countries/Denmark/README.md)                                            |
@@ -154,6 +153,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Nauru](Countries/Nauru.md)                                                       |
 | **✗** | [Nepal](Countries/Nepal.md)                                                       |
 | **✗** | [Netherlands](Countries/Netherlands.md)                                           |
+| **✗** | [Kingdom of the Netherlands](<Countries/Kingdom of the Netherlands/README.md>)                                           |
 | **✗** | [New Zealand](Countries/New-Zealand.md)                                           |
 | **✓** | [Nicaragua](Countries/Nicaragua.md)                                               |
 | **✓** | [Niger](Countries/Niger.md)                                                       |
