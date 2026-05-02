@@ -25,7 +25,6 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Antigua and Barbuda](Countries/Antigua-and-Barbuda.md)                           |
 | **✗** | [Argentina](Countries/Argentina.md)                                               |
 | **✗** | [Armenia](Countries/Armenia.md)                                                   |
-| **✗** | [Aruba](Countries/Aruba.md)                                                       |
 | **✗** | [Australia](Countries/Australia/README.md)                                        |
 | **✗** | [Austria](Countries/Austria.md)                                                   |
 | **✗** | [Azerbaijan](Countries/Azerbaijan.md)                                             |
@@ -152,8 +151,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Namibia](Countries/Namibia.md)                                                   |
 | **✗** | [Nauru](Countries/Nauru.md)                                                       |
 | **✗** | [Nepal](Countries/Nepal.md)                                                       |
-| **✗** | [Netherlands](Countries/Netherlands.md)                                           |
-| **✗** | [Kingdom of the Netherlands](<Countries/Kingdom of the Netherlands/README.md>)                                           |
+| **✗** | [Netherlands](<Countries/Kingdom of the Netherlands.md>)                                           |
 | **✗** | [New Zealand](Countries/New-Zealand.md)                                           |
 | **✓** | [Nicaragua](Countries/Nicaragua.md)                                               |
 | **✓** | [Niger](Countries/Niger.md)                                                       |
@@ -195,7 +193,6 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Seychelles](Countries/Seychelles.md)                                             |
 | **✓** | [Sierra Leone](Countries/Sierra-Leone.md)                                         |
 | **✗** | [Singapore](Countries/Singapore.md)                                               |
-| **✗** | [Sint Maarten](Countries/Sint-Maarten.md)                                         |
 | **✗** | [Slovakia](Countries/Slovakia.md)                                                 |
 | **✗** | [Slovenia](Countries/Slovenia.md)                                                 |
 | **✗** | [Solomon Islands](Countries/Solomon-Islands.md)                                   |
