@@ -1,4 +1,4 @@
-# Unschooling in Northern Macedonia
+# Unschooling in North Macedonia
 
 |       |                                            |
 | ----- | ------------------------------------------ |

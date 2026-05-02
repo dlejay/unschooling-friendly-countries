@@ -160,7 +160,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Nigeria](Countries/Nigeria.md)                                                   |
 | **✗** | [Niue](Countries/Niue.md)                                                         |
 | **✗** | [North Korea](Countries/North-Korea.md)                                           |
-| **✗** | [Northern Macedonia](Countries/Northern-Macedonia.md)                             |
+| **✗** | [North Macedonia](Countries/North-Macedonia.md)                             |
 | **✗** | [Northern Mariana Islands](Countries/CNMI.md)                                     |
 | **✗** | [Northern Cyprus](Countries/Northern-Cyprus.md)                                   |
 | **✗** | [Norway](Countries/Norway.md)                                                     |
