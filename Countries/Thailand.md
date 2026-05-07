@@ -1,9 +1,8 @@
 ---
 last_reviewed: 2026-05-07
-home_education_open_to_all: registration-system-built-around-thai-nationals
+home_education_open_to_all: yes
 can_start_immediately: no
 can_be_interest-driven: no
-unschooling_friendly: no
 ---
 # Unschooling in Thailand
 
@@ -18,12 +17,6 @@ Home education sits under section 12 of the 1999 Act and is governed in detail b
 The current operational framework is OBEC's « Guidelines for Basic Education by Family / Home School » (« แนวทางการจัดการศึกษาขั้นพื้นฐานโดยครอบครัว »), published by OBEC's Bureau of Policy and Planning of Basic Education (สนผ.สพฐ.) on 11 April 2025. Under this guide, the family submits an application and a learning plan to the local Educational Service Area Office (สำนักงานเขตพื้นที่การศึกษา), which forwards it to the Provincial Education Board (คณะกรรมการศึกษาธิการจังหวัด). The Board must notify the family of its decision within 30 days of receipt of the application. Once approved, the family carries out the plan, conducts annual assessment of the learner, and submits an annual report to the Educational Service Area Office, which verifies it and issues the formal certificate of completion.
 
 The « education provider » under the guide is the family itself or a person designated by the family — the text does not restrict that designation by nationality, though it does not expressly contemplate non-Thai providers either.
-
-## Conclusion
-
-Thailand is not an unschooling-friendly jurisdiction. Home education is legal and the statutory frame technically allows non-formal and informal modes, but the operational reality is permission-based : a family cannot start home education unilaterally, the learning plan must be approved by the Provincial Education Board, and the learner is subject to annual assessment and reporting against an adapted version of the national core curriculum. Within an approved plan there is genuine room for flexibility and interest-led adaptation, but child-led free-form unschooling without an approved plan or assessment is outside the regime.
-
-In practice, the registration system is built around Thai-citizen children and the Thai national core curriculum : the application asks for house-registration documents and the learning plan must map to Thai basic-education standards. Non-Thai involvement on the provider side is not expressly excluded, but expatriate families typically operate outside the OBEC family-registration system altogether — most commonly by enrolling their children with accredited international online schools. That practical route should not be confused with Thai-registered home education.
 
 ## Statistics
 
