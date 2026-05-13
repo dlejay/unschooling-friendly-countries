@@ -1,21 +1,32 @@
-# Unschooling in Northern Cyprus
+---
+last_reviewed: 2026-05-13
+home_education_open_to_all: no
+---
+# Unschooling in Northern Cyprus / TRNC
 
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✗** | Homeschooling is a legal form of schooling |
+## Compulsory schooling
 
-## Compulsory education
+Children are subject to compulsory school attendance from age 6 until age 15.
 
-Children are generally required to attend school through at least the secondary level.
+Law 17/1986 (*Milli Eğitim Yasası*), together with the *Zorunlu Eğitim Tüzüğü* made
+under it, frames compulsory education as compulsory attendance at a school.
 
-## Unschooling
+The TRNC Ministry of National Education (*Milli Eğitim Bakanlığı*) states, under
+*Zorunlu Eğitim Uygulamaları*:
 
-According to the Turkish Republic of Northern Cyprus Ministry of National Education,
+> Zorunlu eğitim çağındaki her yurttaşın bir okula devamı zorunludur.
 
-> It is compulsory for every citizen of compulsory education age to attend a school.
+("It is compulsory for every citizen of compulsory education age to attend a school.")
 
-The Turkish Cypriot system closely mirrors Turkey’s education policy, which mandates school attendance and provides no exceptions for home education.
-
+Parents or guardians who fail to register a child at school and/or ensure attendance are
+subject to criminal penalties, escalating to imprisonment for repeat convictions. No
+general home-education route is apparent in Law 17/1986, the compulsory-education
+regulation, or Ministry guidance.
 ## Sources
-
-- [_Zorunlu Eğitim Uygulamaları_](http://www.mebnet.net/node/37)
+- [*Zorunlu Eğitim Uygulamaları*](http://www.mebnet.net/sayfa/zorunlu-egitim-uygulamalari)
+  — TRNC Milli Eğitim Bakanlığı (live as of 2026-05-13; canonical URL,
+  replaces former `/node/37`)
+- [*Milli Eğitim Yasası* 17/1986](http://www.mebnet.net/sites/default/files/yasalar/17-1986.pdf)
+  — primary legislation
+- [*Zorunlu Eğitim Tüzüğü* (A.E. 656/1986)](http://www.mebnet.net/sites/default/files/tuzukler/ae656-86.pdf)
+  — regulation made under Arts. 49 and 70 of Law 17/1986
