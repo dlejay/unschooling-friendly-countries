@@ -34,7 +34,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Bangladesh](Countries/Bangladesh.md)                                             |
 | **✗** | [Barbados](Countries/Barbados.md)                                                 |
 | **✗** | [Belarus](Countries/Belarus.md)                                                   |
-| **✗** | [Belgium](Countries/Belgium.md)                                                   |
+| **✗** | [Belgium](Countries/Belgium/README.md)                                                   |
 | **✗** | [Belize](Countries/Belize.md)                                                     |
 | **✗** | [Benin](Countries/Benin.md)                                                       |
 | **✗** | [Bermuda](Countries/Bermuda.md)                                                   |
