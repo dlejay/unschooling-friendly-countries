@@ -7,7 +7,7 @@ Education is a Community competence under Art. 127 §1 of the *Constitution*. Th
 |       | Community                       |
 | ----- | ------------------------------- |
 | **✗** | [Flanders](Flanders.md)         |
-| **✗** | [Fédération Wallonie-Bruxelles](Wallonia-Brusselles.md)   |
+| **✗** | [Fédération Wallonie-Bruxelles](Wallonia-Brussels.md)   |
 | **✗** | Deutschsprachige Gemeinschaft   |
 
 The Flemish Community covers Dutch-medium education across the Flemish Region and in the bilingual Brussels-Capital Region. The Fédération Wallonie-Bruxelles covers French-medium education across the Walloon Region (except the German-speaking municipalities) and in Brussels. The Deutschsprachige Gemeinschaft covers the nine German-speaking municipalities of the eastern cantons.
