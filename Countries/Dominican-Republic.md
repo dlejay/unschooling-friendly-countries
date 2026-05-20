@@ -1,35 +1,33 @@
+---
+last_reviewed: 2026-05-20
+home_education_open_to_all: no
+---
 # Unschooling in the Dominican Republic
 
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✗** | Homeschooling is a legal form of schooling |
-| **✗** | It requires no prior authorisation         |
-| **✗** | It can be curriculum-free                  |
+## Compulsory schooling
 
-## Unschooling
+School attendance/enrolment through the school system is compulsory in the Dominican Republic.
 
-According to Art 63.2 of the Constitution :
+Art. 20 of the *Ley General de Educación* 66-97 provides:
 
-> The family is responsible for the education of its members and has the right to choose the type of education of their minor children.
+> The family has the obligation to school its children at the school age defined in the present law […]
 
-Also, according to Art 4g) of the *Ley General de Educación* :
+Art. 63 of the Constitution likewise declares education obligatory at the initial, basic and middle/secondary levels.
 
-> The family, primarily responsible for the education of its children, has the duty and the right to educate them.
-> It is free to decide the type and form of education it wishes for its children;
+Under Art. 33 of Ley 66-97, the final year of the initial level (*nivel inicial*) is obligatory and begins at age five. The basic level (*nivel básico*) follows, begins ordinarily at age six, and lasts eight years. The Constitution additionally makes the middle/secondary level obligatory.
 
-Despite the above rights, Dominican law mandates formal schooling for all
-children from age 6 to 14 (the ‘_nivel básico_’ covering primary education).
+## Home education
 
-Dominican education officials view ‘_educación en casa_’ (homeschooling) as a red flag, and families openly claiming to homeschool could face scrutiny.
+No current Dominican legal framework has been identified that allows parents simply to withdraw a child from school and educate at home as an ordinary recognised option.
 
-## News
+HSLDA’s current country note says that the term “educación en casa” is a red flag for Dominican authorities, while expatriates may use a foreign cover programme and describe the arrangement as distance learning.
+This suggests a practical workaround for some families, not an open domestic right to home educate.
 
-In 2023, homeschooling gained significant attention at the policy level.
-On May 17, 2023, Deputy Elías Wessin Chávez (of the PQDC party) introduced a bill in the Chamber of Deputies to formally incorporate ‘_educación en casa_’ (homeschooling) into the national education system.
+A bill has been under study to modify Ley 66-97 and incorporate “educación en casa” into the Dominican education system.
+As of this review, no enacted home-education framework has been identified; the proposal remained under committee/subcommittee study.
 
 ## Sources
 
 - [Dominican Republic's Constitution](https://www.constituteproject.org/constitution/Dominican_Republic_2015.pdf)
-- [_Ley General de Educación_](https://www.oas.org/juridico/spanish/mesicic2_repdom_sc_anexo_7_sp.pdf)
-- [HSLDA](https://hslda.org/post/dominican-republic)
-- [globalfoundationdd.org](https://www.globalfoundationdd.org/documentos/pre_alejandrina_esp.pdf)
+- [_Ley General de Educación_ 66-97](https://www.oas.org/juridico/spanish/mesicic2_repdom_sc_anexo_7_sp.pdf)
+- [HSLDA — República Dominicana](https://hslda.org/es/post/republica-dominicana)
