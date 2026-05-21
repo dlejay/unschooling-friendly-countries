@@ -1,19 +1,19 @@
-# Unschooling in Dominica
+---
+last_reviewed: 2026-05-21
+home_education_open_to_all: yes
+can_start_immediately: no
+can_be_curriculum_free: no
+---
 
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✓** | Homeschooling is a legal form of schooling |
-| **✗** | It requires no prior authorisation         |
-| **✗** | It can be curriculum-free                  |
+# Unschooling in Dominica
 
 ## Compulsory education
 
-Between 5 and 16.
+Compulsory school age is from 5 to 16.
 
-## Unschooling
+## Home education
 
-Article 79 of the Education Act states :
-
+Section 79 of the Education Act states :
 > (3) An educational plan for each student who is receiving home education shall be prepared and provided
 > to the Chief Education Officer subject to the following conditions—
 >
@@ -27,8 +27,9 @@ Article 79 of the Education Act states :
 >
 > (d) the educational plan shall be based on the national curriculum as established by the Minister under Part VIII.
 
-Expat families have the right to homeschool in Dominica, but they are subject to the same legal obligations as Dominican nationals.
+Expat families have the right to educate at home in Dominica, but they are subject to the same legal obligations as Dominican nationals.
 
 ## Sources
 
 - [Education Act](http://www.education.gov.dm/images/documents/education_laws/Education%20Act%201997%20Act%2011%20of%201997.pdf)
+- [Education Act No. 11 of 1997 (alternative government copy)](https://www.dominica.gov.dm/laws/1997/act11-1997.pdf)
