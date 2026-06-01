@@ -1,52 +1,41 @@
+---
+last_reviewed: 2026-06-01
+home_education_open_to_all: yes
+can_start_immediately: no
+can_be_interest-driven: no
+---
+
 # Unschooling in Jura
 
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✓** | Homeschooling is a legal form of schooling |
-| **✗** | It requires no prior authorisation         |
-| **✗** | It can be curriculum-free                  |
-
 ## Compulsory education
+Jura’s compulsory schooling (_scolarité obligatoire_) runs 11 years. Every child aged four by 31 July of the relevant year enters compulsory school (about age 4 through 14–15).
 
-Jura’s compulsory schooling (_scolarité obligatoire_) runs 11 years (about age 4 through 14–15).
+## Home Education
 
-## Context
-
-According to the *Loi sur l’enseignement privé* :
-
-> **Art. 9** Parents or legal guardians who intend to give private instruction to children of compulsory school age,
-> or to have them given private instruction, shall notify in writing the school board of the level concerned in the child's usual place of residence.
-> This notice shall indicate the persons responsible for the instruction and the measures taken to ensure that the child receives instruction
-> that meets the general requirements of the plans of study.
-> The notice must be renewed at the beginning of each year and whenever the child's place of residence changes.
+Home education requires authorization from the Service de l’enseignement and is subject to the conditions and oversight set out below.
 
 ## Statistics
 
 | Year | Homeschoolers |
 | ---- | ------------- |
-| 2018 | 31            |
 | 2024 | 70            |
+| 2018 | 31            |
 
-## News
+## Current legal framework
 
-In 2024 Jura’s government and parliament proposed and began enacting much stricter rules.
-A cantonal bill (revision of the private-education law) was submitted in January 2024 and approved in first reading
-by the parliament in September 2024.
-The new provisions (effective August 2025) include the following changes :
+Home education in Jura is governed by the _Loi sur l’enseignement privé_ (RSJU 417.1), further specified by articles 20–21 of its implementing ordinance (RSJU 417.11). The current requirements are :
 
-- Authorization regime : Homeschooling will require formal authorization from the _Service de l’Enseignement_, replacing the old simple notification.
-  Families must submit a written application (with curriculum and schedule) by May 31 for the next school year.
-  Once granted, the authorization will be valid indefinitely – no annual renewal will be needed (unlike the former rule of yearly renewal).
-- Timing : Home instruction can only begin at the start of the school year (after summer vacation); mid-year switches are no longer permitted ￼. Late requests may be considered only for exceptional reasons.
-- Instructor qualifications : The person giving instruction must hold a recognized tertiary-level or pedagogical qualification (e.g. a degree or diploma from a 3-year professional training). (Previously, no specific credential was required.) Debate text specifies that each homeschooling parent should be guided by an external “référent pédagogique” with appropriate teaching credentials ￼.
-- Language and modality : Instruction must be in French, reflecting Jura’s official language, and online-only schooling is explicitly forbidden.
-  This is a new restriction intended to ensure consistency with the cantonal curriculum.
-- Oversight : The _Service de l’Enseignement_ will have authority to monitor quality and reintegrate students into public school if standards are not met. Existing practice already re-enrolled a few students each year (5 in 2023, 3 in 2022) whose homeschooling was deemed inadequate. Under the reform, inspectors will continue annual or periodic reviews of homeschooled students.
+- Authorization regime : Home education requires formal authorization from the _Service de l’enseignement_ (SEN). A written application — including an annual teaching programme anticipating the relevant Plan d’études romand content — must be submitted, and families must keep a journal de bord (logbook) recording the child’s activities and topics throughout the year.
+- Deadline : The application must reach the Service de l’enseignement by 30 April at the latest for the following school year. A request may be submitted at any time only where exceptional circumstances justify not applying the ordinary deadline.
+- Validity : The authorization is not subject to annual renewal; it may be withdrawn if the conditions cease to be met. The SEN visits the home before granting authorization to discuss the project and inspect the place of instruction.
+- Instructor and pedagogical referent : Parents who do not have pedagogical training must be accompanied by a _référent pédagogique_. The referent has no precise job description : they act as a guide the parents can consult, and may attend the meetings presenting evaluation results.
+- Language : Instruction must be in French, reflecting Jura’s official language.
+- Modality : Pure distance education is not authorised. Teaching must take place during the day and, in principle, during the official school weeks.
+- Oversight : The SEN monitors quality and can reintegrate a student into public school if standards are not met. Children are evaluated once a year — at home in 1H and 2H, then in a grouped/common evaluation from 3H onward (held at the school in Bassecourt), based on Plan d’études romand objectives.
 
 ## Sources
-
+- [_Loi sur l’enseignement privé_ — RSJU 417.1 (consolidated, in force from 01.02.2025)](https://rsju.jura.ch/fr/viewdocument.html?idn=20078&id=37007) — primary source
+- [Ordonnance portant exécution de la loi sur l’enseignement privé — RSJU 417.11](https://rsju.jura.ch/fr/viewdocument.html?idn=20078&id=34490)
+- [IEL Jura — autorisation (procédure actuelle)](https://iel-ju.ch/autorisation.html)
 - [iel-ju.ch](https://iel-ju.ch)
-- [_Loi sur l’enseignement privé_](https://rsju.jura.ch/fr/viewdocument.html?idn=20078&id=37007)
-- [ecolealamaison.ch](https://ecolealamaison.ch/wp-content/uploads/2021/02/JURA_IEF_Etat_des_lieux_pratiques_cantonales14836-1.pdf)
-- [_Un nouveau cadre légal pour l’école à domicile dans le Jura_](https://www.rfj.ch/rfj/Actualite/Region/20240115-Un-nouveau-cadre-legal-pour-l-ecole-a-domicile-dans-le-Jura.html)
-- [_Des règles plus strictes pour l’école à la maison dans le Jura_](https://www.rfj.ch/rfj/Actualite/Region/20240904-Des-regles-plus-strictes-pour-l-ecole-a-la-maison-dans-le-Jura.html
+- [_L’école à la maison sera mieux encadrée_ (RFJ, 25.09.2024; source of the statistics)](https://www.rfj.ch/rfj/Actualite/Region/20240925-L-ecole-a-la-maison-sera-mieux-encadree.html)
