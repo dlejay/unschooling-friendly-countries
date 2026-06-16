@@ -233,7 +233,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Uzbekistan](Countries/Uzbekistan.md)                                             |
 | **✓** | [Vanuatu](Countries/Vanuatu.md)                                                   |
 | **✓** | [Vatican City](Countries/Vatican-City.md)                                         |
-| **~** | [Venezuela](Countries/Venezuela.md)                                               |
+| **✗** | [Venezuela](Countries/Venezuela.md)                                               |
 | **✓** | [Vietnam](Countries/Vietnam.md)                                                   |
 | **~** | [Yemen](Countries/Yemen/README.md)                                                |
 | **✗** | [Zambia](Countries/Zambia.md)                                                     |
