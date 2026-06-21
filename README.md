@@ -85,7 +85,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Finland](Countries/Finland/README.md)                                            |
 | **~** | [France](Countries/France/README.md)                                              |
 | **✗** | [Gabon](Countries/Gabon.md)                                                       |
-| **✓** | [Gambia](Countries/Gambia.md)                                                     |
+| **✗** | [Gambia](Countries/Gambia.md)                                                     |
 | **✗** | [Georgia](Countries/Georgia.md)                                                   |
 | **✗** | [Germany](Countries/Germany.md)                                                   |
 | **✗** | [Ghana](Countries/Ghana.md)                                                       |
