@@ -1,53 +1,49 @@
+---
+last_reviewed: 2026-06-27
+home_education_open_to_all: yes
+can_start_immediately: no
+can_be_interest-driven: no
+---
+
 # Unschooling in Jamaica
 
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✓** | Homeschooling is a legal form of schooling |
-| **✗** | It requires no prior authorisation         |
-| **✗** | It can be curriculum-free                  |
+## Statutory basis
 
-## Compulsory education
+Section 21 of the Education Act, 1965 imposes on parents a duty of full-time education for every child of compulsory school age.
+The Act permits home education through the alternative-arrangement clause :
 
-By statute, Jamaican parents must educate children within compulsory school age, defined by Ministerial order.
-In practice, the government regards education as obligatory up to age 18.
+> It shall be the duty of the parent of every child of compulsory school age residing in a compulsory education area to cause him to receive full-time education suitable to his age and ability, and satisfactory to the Educational Board for the area, either by regular attendance at school or otherwise.
+>
+> — Education Act, 1965, s. 21
 
-## Unschooling
+The duty is imposed on every parent of a child of compulsory school age resident in a compulsory education area, without distinction of nationality.
 
-The Ministryʼs Independent Schools Unit (ISU) handles homeschool registration
-and monitoring.
-Parents must formally register each homeschooled child : in practice, one writes to the child’s school board to maintain the child’s enrolment, and submits a homeschool application to the ISU.
-The ISU requires a detailed plan of study
-(usually aligned with the National Curriculum) and conducts home inspections.
-For example, MoEY guidelines note that the ISU “reviews and appraises”
-all homeschool applications, “inspects home facilities and designated records”,
-and may deregister any homeschool that fails to meet basic standards.
-Homeschooled children are also expected to participate in national examinations
-(e.g. Grade Six Achievement Test, CSEC) and extracurricular programs,
-with attendance and evaluation records kept on file.
+## Procedure
 
-Approved homeschools must follow an “efficient and suitable” curriculum.
-In practice, families use the Ministryʼs National Standards Curriculum
-or an approved accredited alternative (several private curricula are allowed).
-ISU guidelines require parents to keep regular attendance and evaluation logs,
-and allow homeschooled children to sit public exams at the appropriate age.
+Home education is administered by the Independent Schools Unit (ISU) of the Ministry of Education, Skills, Youth and Information (MOESYI).
+The current MOESYI guidance, published by the Jamaica Information Service on 14 May 2026, sets out a three-step procedure : application with certified supporting documents, an interview or consultation with education officers, and the issue of an approval letter by the ISU.
+The guidance is explicit that home education is to commence only after approval :
 
-After registration, the ISU conducts periodic inspections of the homeschool environment and records.
-If a homeschool fails to meet standards, the ISU can revoke its approval.
-Officials have warned that unregistered homeschools
-(or those teaching more children than allowed) violate the law and can trigger intervention by child-protection authorities.
+> The ISU will provide approval letters to parents/guardians who meet the requirements to homeschool children.
+> Only after receiving this approval should homeschooling officially begin.
+>
+> — JIS, “GOJ Support for Homeschooling in Jamaica”, 14 May 2026
 
-In addition, the Education Act and related laws impose a limit of six students per homeschool.
-MoEYʼs homeschool policy states that a parent may not instruct more than six children in a home without special permission.
-Likewise, under the Early Childhood Act, any person teaching three or more children under age six in a home must register as an early-childhood institution.
-The ISU has reiterated that homeschooling parents are capped at six children.
-All parents (citizens or non-citizens) must abide by these registration rules.
+## Curriculum and assessment
 
-While not formally certified, parents are expected to be sufficiently educated.
-Current MoEY policy suggests a parent should have at least two grade levels of education above the childʼs level ; in practice most homeschool parents hold college degrees.
+Following approval, the MOESYI guidance imposes structural expectations on the instructor :
+
+> After approval, homeschool teachers are expected to :
+>
+> - Keep records of lessons and student progress
+> - Use the MOESYI’s National Standards Curriculum
+> - Attend sessions offered by the ISU
+>
+> — JIS, “GOJ Support for Homeschooling in Jamaica”, 14 May 2026
+
+The same guidance provides that homeschooled students are expected to complete internal assessments based on approved curriculum guidelines, with records of grades maintained, and are encouraged to register for external examinations administered by the relevant educational administrators.
 
 ## Sources
 
-- [Education Act](https://moj.gov.jm/sites/default/files/laws/The%20Education%20Act.pdf)
-- [homeschooljamaica.com FAQ](https://www.homeschooljamaica.com/homeschool-faqs/)
-- [NPTAJ welcomes Senate’s passage of Teaching Council Bill](https://www.jamaicaobserver.com/2025/04/30/nptaj-welcomes-senates-passage-teaching-council-bill)
-- [Lawmakers mull homeschooling provisions under JTC bill](https://jamaica-gleaner.com/article/lead-stories/20230224/lawmakers-mull-homeschooling-provisions-under-jtc-bill)
+- [Education Act, 1965 (Ministry of Justice, Laws of Jamaica)](https://moj.gov.jm/sites/default/files/laws/The%20Education%20Act.pdf)
+- [JIS — GOJ Support for Homeschooling in Jamaica (14 May 2026)](https://jis.gov.jm/information/get-the-facts/goj-support-for-homeschooling-in-jamaica/)
