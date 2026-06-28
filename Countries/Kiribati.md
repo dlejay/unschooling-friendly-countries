@@ -1,15 +1,21 @@
-# Unschooling in Kiribati
+---
+last_reviewed: 2026-06-28
+home_education_open_to_all: yes
+can_start_immediately: no
+can_be_interest-driven: yes
+---
 
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✓** | Homeschooling is a legal form of schooling |
-| **✗** | It requires no prior authorisation         |
+# Unschooling in Kiribati
 
 ## Compulsory education
 
-All children are required by law to attend school for nine years.
+Compulsory education runs from the start of the year in which a child reaches the age of 6 years and 7 months until the end of the year the child turns 15, or until the child completes junior secondary education (Year 9), whichever comes first.
+This corresponds to nine year levels, Years 1 to 9.
 
 ## Unschooling
+
+Kiribati law does not regulate home education as a distinct category.
+It operates instead through a discretionary exemption from the duty to enrol.
 
 According to the Education Act :
 
@@ -23,7 +29,9 @@ According to the Education Act :
 >
 > (4) A parent who contravenes subsection (1) is liable to a fine not exceeding $50.
 
-All parents, local or expatriate, must enroll school-age children or obtain an exemption.
+Parents must enrol a child of compulsory school age unless the Director General of Education issues a certificate of exemption on written application.
+The Act lists no grounds for exemption and prescribes no curriculum, reporting schedule or inspection regime for an exempted child.
+Where an already-enrolled child is withdrawn, the parent must notify the principal of the child’s proposed education, and the principal must alert the Director General if not satisfied that “appropriate arrangements” have been made.
 
 ## Sources
 
