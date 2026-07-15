@@ -92,7 +92,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✓** | [Gibraltar](Countries/Gibraltar.md)                                               |
 | **✗** | [Greece](Countries/Greece.md)                                                     |
 | **✗** | [Grenada](Countries/Grenada.md)                                                   |
-| **✓** | [Guam](Countries/Guam.md)                                                         |
+| **✗** | [Guam](Countries/Guam.md)                                                         |
 | **✗** | [Guatemala](Countries/Guatemala.md)                                               |
 | **✓** | [Guinea](Countries/Guinea.md)                                                     |
 | **✗** | [Guinea-Bissau](Countries/Guinea-Bissau.md)                                       |
