@@ -28,7 +28,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Australia](Countries/Australia/README.md)                                        |
 | **✗** | [Austria](Countries/Austria.md)                                                   |
 | **✗** | [Azerbaijan](Countries/Azerbaijan.md)                                             |
-| **✓** | [Bahamas](Countries/Bahamas.md)                                                   |
+| **✗** | [Bahamas](Countries/Bahamas.md)                                                   |
 | **✗** | [Bahrain](Countries/Bahrain.md)                                                   |
 | **~** | [Bailiwick of Guernsey](Countries/Bailiwick-of-Guernsey/README.md)                |
 | **✗** | [Bangladesh](Countries/Bangladesh.md)                                             |
