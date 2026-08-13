@@ -200,7 +200,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✓** | [Somaliland](Countries/Somaliland.md)                                             |
 | **✗** | [South Africa](Countries/South-Africa.md)                                         |
 | **✗** | [South Korea](Countries/South-Korea.md)                                           |
-| **✓** | [South Ossetia](Countries/South-Ossetia.md)                                       |
+| **✗** | [South Ossetia](Countries/South-Ossetia.md)                                       |
 | **✗** | [South Sudan](Countries/South-Sudan.md)                                           |
 | **✗** | [Sovereign Base Areas of Akrotiri and Dhekelia](Countries/SBAs.md)                |
 | **✗** | [Spain](Countries/Spain.md)                                                       |
