@@ -169,7 +169,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Panama](Countries/Panama.md)                                                     |
 | **~** | [Papua New Guinea](Countries/Papua-New-Guinea/README.md)                          |
 | **✗** | [Paraguay](Countries/Paraguay.md)                                                 |
-| **✓** | [Peru](Countries/Peru.md)                                                         |
+| **✗** | [Peru](Countries/Peru.md)                                                         |
 | **✓** | [Philippines](Countries/Philippines.md)                                           |
 | **✗** | [Pitcairn, Henderson, Ducie and Oeno Islands](Countries/Pitcairn-Islands.md)      |
 | **✗** | [Poland](Countries/Poland.md)                                                     |
