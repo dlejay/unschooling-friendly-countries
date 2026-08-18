@@ -1,45 +1,54 @@
+---
+last_reviewed: 2026-08-18
+home_education_open_to_all: yes
+can_start_immediately: yes
+can_be_interest-driven: yes
+---
 # Unschooling in Colombia
-
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✓** | Homeschooling is a legal form of schooling |
-| **✓** | It requires no prior authorisation         |
-| **✓** | It can be curriculum-free                  |
 
 ## Compulsory education
 
-Education is mandatory in Colombia from age 5 to age 15 (one year of preschool and nine years of basic education),
-as set by the Constitution.
+Article 67 of the Constitution provides that education is compulsory between the ages of 5 and 15 and must comprise at least one year of preschool and nine years of basic education.
 
-## Context
+The Constitution makes the State, society and the family jointly responsible for education. It also provides that parents have the right to choose the type of education received by their minor children.
 
-According to OLASE :
+## Home education
 
-> The issue of home schooling in Colombia is far from being a mainstream topic of interest for educational authorities. Occasionally, however, press reports document isolated histories of families that for one reason or another have decided to take education into their own hands. There is an incipient level of organization for the home-schooling community in Colombia. Home schooling is not even a legally recognized issue in Colombian legislation; as such it is nor forbidden nor encouraged; it is just ignored. If parents decide to take the option of home schooling, they are not required to inform authorities, nor do their activities receive any kind of supervision. A joint research group of the main Colombian Public University, National University of Colombia and Oviedo University in Spain have been conducting an investigation about “Education without schools” in Colombia, for which they are asking families to complete a 100-question survey. The number of families involved is uncertain.
->
-> Home-schooled children can remain completely outside schooling, even if they decide to enter the higher education system. In order to do that, pupils must take a nation-wide state scholastic test (Saber 11) which is a prerequisite for entering higher education, as it grants the title of Bachiller (“Bachellor”). This test is administered by a national government agency. In order to register for the test, pupils are not required to be enrolled in any educational institution. If their result matches the admission requirements of the higher education institution of their choice, they could be admitted and hence have skipped formal schooling in its entirety.
->
-> Pupils of any age or grade level can level-up with formal schooling if they have been out of the system for any reason.
-> This is done via a special process called validación (“validation”),
-> which would allow them to skip any given grade level provided that they pass a special government examination test.
-> Then they would be able to enter the next corresponding grade level.
-> Public and private institutions offer validation programs that also allow pupils to take two or more grade levels in a given school year.
-> Validation is recognized by the law as a special variety of formal schooling.
-> Although designed to be an entrance mechanism to formal education for children left out of the school system for reasons as varied as forced
-> displacement due to armed conflict, extreme rural isolation, the repeated failure of a grade level in the private school system,
-> or any other exceptional circumstance, validation is an entry mechanism that could also be used by home-schooled children.
-> National Decree 2832 (2005) establishes regulations for this process.
+Colombian legislation does not establish a specific regulatory regime for home education. There is no national system of prior authorization, registration or routine supervision specifically applicable to families educating their children at home. As of 2026, homeschooling remains unregulated as a distinct educational modality.
 
-All children residing in Colombia – regardless of nationality – are subject to the compulsory education requirement.
+The absence of a specific homeschooling regime does not remove the general obligations concerning children's education. Under Article 39 of the Code of Childhood and Adolescence, families must ensure children's access to education and provide the conditions and means necessary for their development, continuity and permanence in education.
+
+There is no prescribed national curriculum specifically for children educated independently at home. Home education can therefore be organized around the interests of the child. However, families wishing subsequently to obtain formal recognition of completed school grades must satisfy the requirements of the Colombian validation system.
+
+## Validation of studies
+
+Decree 1075 of 2015 provides for the *validación por grados* of basic and academic secondary education. A student who has not formally completed one or more grades may demonstrate the knowledge, skills and competencies corresponding to those grades through an authorized educational institution. The validation covers the compulsory and fundamental areas established for the relevant grade.
+
+This procedure may be used for one or more grades of basic or secondary education, but not for the final qualification leading directly to the title of *bachiller*.
+
+The complete *bachillerato académico* can instead be validated through the ICFES **Examen de Validación del Bachillerato Académico**. This examination is available to persons aged 18 or over who have not obtained the *bachiller* qualification through regular formal education. Passing it results in the award of the title of *Bachiller Académico*.
+
+This should not be confused with the ordinary **Saber 11** examination. Entry to undergraduate higher education normally requires both a *bachiller* qualification (or its foreign equivalent) and presentation of the State examination.
+
+## Nationality
+
+The Code of Childhood and Adolescence applies to all Colombian and foreign children and adolescents present in Colombian territory. Its provisions concerning the right to education therefore also apply to foreign children residing in Colombia.
 
 ## Statistics
 
+There is no official national register of homeschooled children in Colombia.
+
+A frequently cited 2024 estimate placed the number of homeschooled students at more than 30,000, but the figure originated from a private homeschooling-school operator rather than from government statistics and should therefore be treated as an estimate.
+
 | Year | Homeschooled children |
 | ---- | --------------------- |
-| 2024 | 30,000                |
+| 2024 | >30,000 (estimate)    |
 
 ## Sources
 
-- [Constitution of Colombia, Article 67](https://www.constitucioncolombia.com/titulo-2/capitulo-2/articulo-67)
-- [OLASE](https://sinescuela.org/portada?id=en:colombia:inicio)
-- [_Homeschooling: la opción educativa que conquista a más familias en Colombia_](https://lanotaeconomica.com.co/movidas-empresarial/homeschooling-la-opcion-educativa-que-conquista-a-mas-familias-en-colombia)
+- [Constitution of Colombia, Articles 67–68](https://www.secretariasenado.gov.co/senado/basedoc/constitucion_politica_1991_pr002.html)
+- [Law 1098 of 2006 — Code of Childhood and Adolescence](https://www.secretariasenado.gov.co/senado/basedoc/ley_1098_2006.html)
+- [Decree 1075 of 2015 — Education Sector](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=77913)
+- [ICFES — Validación del Bachillerato Académico](https://www.icfes.gov.co/evaluaciones-icfes/1-acerca-del-examen-validacion-del-bachillerato-academico/)
+- [Law 30 of 1992 — Higher Education](https://www.secretariasenado.gov.co/senado/basedoc/ley_0030_1992.html)
+- [_¿Cuántos alumnos habría en Colombia con el modelo educación en casa?_ — Blu Radio](https://www.bluradio.com/sociedad/educacion/cuantos-alumnos-habria-en-colombia-con-el-modelo-educacion-en-casa-rs15)
