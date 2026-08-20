@@ -1,25 +1,25 @@
+---
+last_reviewed: 2026-08-20
+home_education_open_to_all: no
+---
 # Unschooling in Palau
-
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✗** | Homeschooling is a legal form of schooling |
 
 ## Compulsory education
 
-In Palau, education is complusory for 12 years.
+Section 159 of Title 22 of the Palau National Code requires children aged 6 through 17, inclusive, or until graduation from high school, to attend a public or nonpublic school.
 
-## Unschooling
+The Ministry of Education's 2023–2026 development plan stated that kindergarten would become universal and mandatory for five-year-olds from the 2023–24 school year. Current Ministry attendance guidance, however, continues to state the statutory compulsory-attendance requirement as ages 6–17.
 
-According to the Law :
+## Home education
 
-> § 159. Attendance; parent's or guardian's penalty for child's absence.
->
-> (a) Attendance at a public or nonpublic school shall be required of all children between the ages of 6 and 17, inclusive, or until graduation from high school, unless excluded from school or excepted from attendance by the Minister. For the purpose of beginning school, a child shall be admitted at the beginning of a school year if he has attained the age of 6 on or before September 30. To implement this provision, the Ministry shall provide compulsory education. The Board, in consultation with the Ministers of Education and Health, shall adopt health, safety and educational quality standards for all preschool and kindergarten education programs. The standards shall be adopted no later than June 1997. Thereafter the Ministries of Education and Health, and the Bureau of Public Works, shall conduct periodic inspections to ensure continuing compliance with the standards.
->
-> (b) Any parent, guardian, and other person having the responsibility for or care of a child whose attendance at school is obligatory shall send the child to school. Any parent, guardian, or other person who permits a child who is under his control to be absent from school without good cause and in violation of applicable law or regulations shall be guilty of a violation of this section and, upon conviction, shall be fined not more than $100.
+Title 22 does not establish home education as an alternative to school attendance.
 
-The same law applies to all residents.
+Under § 159, a child may be excluded from school or exempted from attendance by the Minister of Education. The legislation therefore provides for individual exemptions from compulsory school attendance rather than a general right to educate a child at home.
+
+The statutory attendance requirement refers to all children and is not expressed as being limited to Palauan citizens.
 
 ## Sources
 
-- [Education - Title 22](http://www.paclii.org/pw/legis/consol_act/et22144/)
+- [Ministry of Education — Schools](https://www.palaumoe.net/?p=Schools)
+- [Palau Ministry of Education — School Handbook](https://pacificdata.org/data/dataset/4dbf9a5a-f785-4eff-a231-2556676d0acc/resource/1891558f-1c8d-4f63-900c-1eae8338c674/download/school-handbook.pdf)
+- [Palau Development Plan 2023–2026](https://www.palaugov.pw/wp-content/uploads/Palau-Development-Plan-PDP-2023-2026.pdf)
