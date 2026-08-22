@@ -56,7 +56,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Central African Republic](Countries/Central-African-Republic.md)                                         |
 | **✗** | [Chad](Countries/Chad.md)                                                         |
 | **✗** | [Chile](Countries/Chile.md)                                                       |
-| **~** | [China](Countries/China/README.md)                                                |
+| **✗** | [China](Countries/China/README.md)                                                |
 | **✓** | [Colombia](Countries/Colombia.md)                                                 |
 | **✗** | [Comoros](Countries/Comoros.md)                                                   |
 | **✗** | [Congo-Brazzaville](Countries/Congo-Brazzaville.md)                               |
