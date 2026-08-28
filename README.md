@@ -72,7 +72,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Dominica](Countries/Dominica.md)                                                 |
 | **✗** | [Dominican Republic](Countries/Dominican-Republic.md)                             |
 | **✗** | [East Timor](Countries/East-Timor.md)                                             |
-| **✓** | [Ecuador](Countries/Ecuador.md)                                                   |
+| **✗** | [Ecuador](Countries/Ecuador.md)                                                   |
 | **✗** | [Egypt](Countries/Egypt.md)                                                       |
 | **✓** | [El Salvador](Countries/El-Salvador.md)                                           |
 | **✓** | [Equatorial Guinea](Countries/Equatorial-Guinea.md)                               |
