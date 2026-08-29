@@ -125,7 +125,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Lebanon](Countries/Lebanon.md)                                                   |
 | **✗** | [Lesotho](Countries/Lesotho.md)                                                   |
 | **✗** | [Liberia](Countries/Liberia.md)                                                   |
-| **✗** | [Libya](Countries/Libya.md)                                                       |
+| **~** | [Libya](Countries/Libya/README.md)                                                |
 | **✗** | [Liechtenstein](Countries/Liechtenstein.md)                                       |
 | **✗** | [Lithuania](Countries/Lithuania.md)                                               |
 | **✗** | [Luxembourg](Countries/Luxembourg.md)                                             |
