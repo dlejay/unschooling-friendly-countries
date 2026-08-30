@@ -39,7 +39,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Benin](Countries/Benin.md)                                                       |
 | **✗** | [Bermuda](Countries/Bermuda.md)                                                   |
 | **✓** | [Bhutan](Countries/Bhutan.md)                                                     |
-| **✓** | [Bolivia](Countries/Bolivia.md)                                                   |
+| **✗** | [Bolivia](Countries/Bolivia.md)                                                   |
 | **✗** | [Bosnia and Herzegovina](Countries/Bosnia-Herzegoniva.md)                         |
 | **✓** | [Botswana](Countries/Botswana.md)                                                 |
 | **✗** | [Brazil](Countries/Brazil.md)                                                     |
