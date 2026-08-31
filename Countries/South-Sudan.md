@@ -56,11 +56,11 @@ institutions other than international schools.
 
 ## Citizenship and residency
 
-The constitutional right to education is phrased as a right of citizens. The
-parental enrolment and attendance duty in section 18 of the General Education
-Act is not, however, textually confined to citizens. The 2017 policy also
-contemplates access to primary education for refugee children. No separate
-home-education rule for foreign children has been identified.
+The constitutional right to education is phrased as a right of citizens.
+The parental enrolment and attendance duty in section 18 of the General
+Education Act is not, however, textually confined to citizens.
+The 2017 policy also contemplates access to primary education for refugee
+children.
 
 ## Sources
 
