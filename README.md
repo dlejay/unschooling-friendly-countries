@@ -129,7 +129,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Liechtenstein](Countries/Liechtenstein.md)                                       |
 | **✗** | [Lithuania](Countries/Lithuania.md)                                               |
 | **✗** | [Luxembourg](Countries/Luxembourg.md)                                             |
-| **✓** | [Madagascar](Countries/Madagascar.md)                                             |
+| **✗** | [Madagascar](Countries/Madagascar.md)                                             |
 | **✗** | [Malawi](Countries/Malawi.md)                                                     |
 | **✗** | [Malaysia](Countries/Malaysia.md)                                                 |
 | **✗** | [Maldives](Countries/Maldives.md)                                                 |
