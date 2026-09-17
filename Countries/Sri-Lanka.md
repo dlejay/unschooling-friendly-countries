@@ -1,5 +1,5 @@
 ---
-last_reviewed: 2026-09-02
+last_reviewed: 2026-09-17
 home_education_open_to_all: yes
 can_start_immediately: no
 can_be_interest-driven: yes
@@ -9,44 +9,95 @@ can_be_interest-driven: yes
 
 ## Compulsory education
 
-The Education Ordinance authorises compulsory-attendance regulations for
-children from age 5 through age 16. The Compulsory Attendance of Children at
-Schools Regulations No. 1 of 2015 require a parent to ensure that a child in
-this age range receives an education through regular school attendance unless
-the parent has made adequate and suitable alternative provision.
+Section 37(2)(s) of the [Education Ordinance](https://lankalaw.net/wp-content/uploads/2025/02/1981Y14V381C-1.html)
+authorises regulations:
+
+> requiring, subject to such exemptions and qualifications as may be
+> contained in such regulations, the parent of any child not less than five
+> and not more than sixteen years of age residing within such area, to cause
+> such child to attend a school unless he has made adequate and suitable
+> provision for the education of such child; […]
+
+Regulation 2 of the [Compulsory Attendance of Children at Schools Regulations
+No. 1 of 2015](https://www2.jica.go.jp/ja/announce/pdf/20181212_180494_1_03.pdf#page=22),
+published in Gazette Extraordinary No. 1963/30 of 20 April 2016, provides:
+
+> Every parent of a child […] shall cause such child to receive an education
+> by regular attendance at a school unless he has otherwise made adequate
+> and suitable provisions for the education of such child.
 
 ## Home education
 
-Sri Lankan law recognises education outside school, but it does not establish
-an unregulated right to homeschool.
+Section 38(1)(b) of the Ordinance defines alternative educational provision:
 
-Under section 38 of the Education Ordinance, a parent is deemed to have made
-adequate and suitable alternative provision only where the parent proves that
-provision and the Director-General of Education or Chief Education Officer
-certifies it as adequate and suitable.
+> For the purposes of the regulations made under this Ordinance, a parent
+> shall be deemed to have made adequate and suitable provision for the
+> education of his child—
+>
+> […]
+>
+> (b) if he proves that he has made such other provision for his child's
+> education as the Director-General or Chief Education Officer shall
+> certify to be adequate and suitable; or
+>
+> […]
 
-The 2015 Regulations establish school-attendance and monitoring committees to
-identify children who are not attending school. After notice to the parent and
-an inquiry, the Provincial Director of Education may exempt a child from school
-attendance if satisfied that the parent has made adequate and suitable
-provision for the child's education. If the Provincial Director is not
-satisfied, the parent must arrange admission to a nearby school. Contravening
-the attendance requirement is an offence.
+Regulation 20 expressly preserves section 38:
 
-This makes home education a legally available alternative, but not one that
-can safely be started through a simple notification or without official
-approval. Neither the Ordinance nor the 2015 Regulations prescribe particular
-subjects, a national curriculum, teaching hours or standardised tests for the
-alternative provision.
+> For the avoidance of doubts, it is hereby declared that nothing in these
+> regulations shall affect the operation of section 38 of the Education
+> Ordinance.
+
+## Attendance inquiries and exemptions
+
+Regulations 3 and 8 establish school-attendance and monitoring committees
+and require reports identifying children who do not attend school or whose
+parents have not made adequate and suitable educational provision.
+Under regulations 10 and 11, an authorised officer notifies the parents to
+secure school attendance within four weeks. Failure to comply leads to an
+inquiry into the reasons for non-attendance.
+
+Regulation 13 requires a report and recommendation to the Provincial Director
+of Education where the inquiry establishes a medical reason, attendance at
+one of the specified educational institutions, or another unavoidable cause
+impeding attendance. The institutions listed include non-formal literacy
+centres, activity schools and technical vocational training centres as
+transitional measures, special schools, and pirivenas under the Pirivena
+Education Act, No. 64 of 1979.
+
+On receipt of these recommendations, regulation 14 provides that the
+Provincial Director of Education may:
+
+> […] if he is satisfied that the parent of any child has made adequate and
+> suitable provision for the education of his child, exempt such child from
+> attending a school.
+
+Under regulation 15, if the Provincial Director is not satisfied with the
+educational provision, the parent must arrange admission to a school within
+3.2 kilometres of the child's residence. Where the parent cannot provide the
+basic requirements for schooling, the Provincial Director must arrange for
+their provision.
+
+## Enforcement
+
+Regulation 19 provides:
+
+> Every parent who contravenes the provisions of Regulation 2 shall be guilty
+> of an offence.
+
+Section 38(2)(a) of the Ordinance provides a defence where the parent proves
+to the court's satisfaction that there was reasonable cause for not securing
+school attendance. Section 38(2)(b) specifies sickness or another unavoidable
+cause preventing attendance.
 
 ## Foreign families
 
-The compulsory-attendance provision applies to children residing in the
-relevant area and is not limited to Sri Lankan citizens. The legislation does
-not provide a separate exemption for foreign families.
+Section 37(2)(s) refers to children residing in the relevant area, rather than
+to citizenship. Regulation 8 likewise identifies children by residence in
+the school's feeder area and requires the names, addresses and permanent
+places of residence of their parents to be recorded.
 
 ## Sources
 
-- [Education Ordinance, especially sections 37 and 38](https://www.lawnet.gov.lk/education-2/)
-- [Compulsory Attendance of Children at Schools Regulations No. 1 of 2015, Gazette Extraordinary No. 1963/30](https://documents.gov.lk/files/egz/2016/4/1963-30_E.pdf)
-- [Roar Media — Beyond The Blackboard: Why Can't Your Home Be Your Classroom?](https://archive.roar.media/english/life/in-the-know/homeschooling-sri-lanka)
+- [Education Ordinance, especially sections 37 and 38 — consolidated legislative text reproduced by LankaLaw](https://lankalaw.net/wp-content/uploads/2025/02/1981Y14V381C-1.html)
+- [Compulsory Attendance of Children at Schools Regulations No. 1 of 2015, Gazette Extraordinary No. 1963/30, 20 April 2016, pp. 1A–5A — Gazette reproduced in JICA documentation, PDF pp. 22–26](https://www2.jica.go.jp/ja/announce/pdf/20181212_180494_1_03.pdf#page=22)
