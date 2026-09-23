@@ -118,7 +118,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Kenya](Countries/Kenya.md)                                                       |
 | **✗** | [Kiribati](Countries/Kiribati.md)                                                 |
 | **✗** | [Kosovo](Countries/Kosovo.md)                                                     |
-| **✓** | [Kuwait](Countries/Kuwait.md)                                                     |
+| **✗** | [Kuwait](Countries/Kuwait.md)                                                     |
 | **✗** | [Kyrgyzstan](Countries/Kyrgyzstan.md)                                             |
 | **✗** | [Laos](Countries/Laos.md)                                                         |
 | **✗** | [Latvia](Countries/Latvia.md)                                                     |
