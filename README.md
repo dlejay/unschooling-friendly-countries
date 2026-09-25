@@ -178,7 +178,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Qatar](Countries/Qatar.md)                                                       |
 | **✗** | [Romania](Countries/Romania.md)                                                   |
 | **✗** | [Russia](Countries/Russia.md)                                                     |
-| **✓** | [Rwanda](Countries/Rwanda.md)                                                     |
+| **✗** | [Rwanda](Countries/Rwanda.md)                                                     |
 | **✗** | [Sahrawi ADR](Countries/SADR.md)                                                  |
 | **✓** | [Saint Helena, Ascension and Tristan da Cunha](Countries/Saint-Helena.md)         |
 | **✗** | [Saint Kitts and Nevis](Countries/Saint-Kitts-and-Nevis.md)                       |
