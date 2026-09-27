@@ -1,24 +1,65 @@
 ---
-last_reviewed: 2025-09-30
-homeschooling_legal: yes
-prior_authorization_required: yes
-curriculum_free_allowed: no
+last_reviewed: 2026-09-27
+home_education_open_to_all: yes
+can_start_immediately: no
+can_be_interest-driven: no
 ---
+
 # Unschooling in the Commonwealth of the Northern Mariana Islands
 
 ## Compulsory education
 
-In the Commonwealth of the Northern Mariana Islands, compulsory education lasts 13 years,
-from age 5 through age 17 inclusive, under Public Law 20-48.
-This period explicitly includes Kindergarten and runs until completion of 12th grade or graduation requirements.
+[Section 1131 of Title 3 of the Commonwealth Code](https://www.cnmilaw.gov/docs/cmc_section/T3/1131.pdf)
+requires attendance at a public or non-public school from age five through
+seventeen, subject to completion of twelfth grade or satisfaction of high
+school graduation requirements. Parents, guardians and other persons
+responsible for the child's care must secure enrolment.
 
-## Unschooling
+## Home study and prior approval
 
-According to HSLDA :
+Section 1131 empowers the Commissioner of Education to grant:
 
-> You can homeschool your child in the Northern Mariana Islands by receiving a waiver from the Commissioner of Education, which provides an exemption from compulsory attendance as a home study program.
+> individual waivers to this compulsory attendance requirement in cases
+> of approved home study or for other circumstances in accordance with
+> the law.
+
+[Administrative Code § 60-20-535(a)](https://www.cnmilaw.gov/docs/admincode/T60/T60-20.pdf#page=108)
+requires applications at least sixty days before the school year begins.
+Attendance remains compulsory until approval. Applications must explain
+the proposal and identify its curriculum, teaching schedule and instructor
+qualifications. Hired tutors require police clearance covering three years
+and negative active tuberculosis records.
+
+Under subsection (c), approval lasts one school year; changes must be
+reported in writing within five days.
+
+## Curriculum and instructional time
+
+[Section 60-20-535](https://www.cnmilaw.gov/docs/admincode/T60/T60-20.pdf#page=108)
+provides:
+
+> Home study programs must meet Commonwealth curriculum and performance
+> standards and the following provisions will apply for all approved
+> home study programs.
+
+Subsection (f) requires 300 minutes of secular instruction daily for
+180 days annually, mentors meeting Board qualification requirements,
+and Public School System monitoring.
+
+## Records and supervision
+
+Under [subsections (d)–(e)](https://www.cnmilaw.gov/docs/admincode/T60/T60-20.pdf#page=109),
+families must maintain attendance and learning-goal records and send
+monthly, quarterly and annual progress reports to the Commissioner.
+Course records must be transferred annually to the school the child would
+otherwise attend and retained there for at least five years.
+
+[Subsection (g)](https://www.cnmilaw.gov/docs/admincode/T60/T60-20.pdf#page=110)
+requires cooperation, information and access during inquiries.
+Non-compliance can result in suspension or revocation; refusal to
+cooperate also permits rejection of an application.
 
 ## Sources
 
-- [Public Law 20-48](https://www.cnmilaw.org/pdf/public_laws/20/pl20-48.pdf)
-- [HSLDA](https://hslda.org/post/how-to-comply-with-the-northern-mariana-islands-homeschool-law)
+- [Commonwealth Code, Title 3, § 1131 — CNMI Law Revision Commission](https://www.cnmilaw.gov/docs/cmc_section/T3/1131.pdf)
+- [Northern Mariana Islands Administrative Code, Title 60, § 60-20-535, pages 108–110 — CNMI Law Revision Commission](https://www.cnmilaw.gov/docs/admincode/T60/T60-20.pdf)
