@@ -102,7 +102,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Hungary](Countries/Hungary.md)                                                   |
 | **✗** | [Iceland](Countries/Iceland.md)                                                   |
 | **✓** | [India](Countries/India.md)                                                       |
-| **✓** | [Indonesia](Countries/Indonesia.md)                                               |
+| **✗** | [Indonesia](Countries/Indonesia.md)                                               |
 | **✗** | [Iran](Countries/Iran.md)                                                         |
 | **✗** | [Iraq](Countries/Iraq.md)                                                         |
 | **✗** | [Ireland](Countries/Ireland.md)                                                   |
