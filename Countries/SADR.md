@@ -1,30 +1,35 @@
 ---
-last_reviewed: 2025-10-11
+last_reviewed: 2026-10-09
 homeschooling_legal: no
 ---
 
-# Unschooling in SADR
+# Education in the Sahrawi Arab Democratic Republic
 
 ## Compulsory education
 
-Education in the Sahrawi Arab Democratic Republic is free and compulsory under Article 36 of the Constitution, which mandates that the State “shall ensure compulsory and free education and organise the educational institutions in line with the educational legislation”.
+The SADR government's May 2026 report to the African Commission on Human and Peoples' Rights reproduces Article 36 of the Constitution as requiring the State to organise:
 
-In practice, schooling is the only accepted form of fulfilling this duty.
-Basic education lasts about nine to ten years, covering primary and lower-secondary levels.
-Children generally start school at age 6 and must continue through around age 15 – 16.
+> compulsory and free education and the education system as a whole, in accordance with the laws and regulations in force.
 
-The Ministry of Education reaffirmed in 2025 that education in the SADR remains “free, compulsory, and bilingual” (Arabic and Spanish).
+Constitution, Article 36, as reproduced in the [government report, p. 40](https://achpr.au.int/sites/default/files/files/2026-05/sahrawi-republic-combined-periodical-reports-2013-2025eng.pdf#page=40); quotation from the submitted English version.
 
-## Unschooling
+The report describes an education policy directed towards school enrolment for all children of school age, within and outside the country. It refers to the 2005 amendments to school legislation and states that parents or legal guardians who fail to fulfil the educational obligation are, in principle, subject to criminal sanctions. [Government report, p. 40](https://achpr.au.int/sites/default/files/files/2026-05/sahrawi-republic-combined-periodical-reports-2013-2025eng.pdf#page=40).
 
-There is no legal framework for homeschooling or parent-led education.
-All Sahrawi children are expected to attend public schools, most of which operate in the refugee camps administered by the SADR.
+## School curriculum and organisation
 
-Homeschooling is therefore not legally recognised nor permitted for Sahrawi citizens.
+The SADR's bilingual presentation *El sistema educativo*, concerning education in the Sahrawi refugee camps and including figures for the 2021–2022 school year, describes classroom provision:
 
-However, foreign families residing temporarily in SADR-administered areas are not subject to compulsory-attendance enforcement and may educate their children privately or online.
+> The child receives between 22 and 32 hours of instruction per week at school. The Algerian curriculum is used in most subjects.
+
+[Presentation, slide 23](https://www.stes.es/wp-content/uploads/2022/07/SistemaEducativo_RASD.pdf#page=23), unofficial English translation of the Arabic text; original Arabic and Spanish versions are reproduced together.
+
+The government report describes curricula and textbooks based on a competency approach, incorporating citizenship, human rights and environmental education. [Government report, pp. 40–41](https://achpr.au.int/sites/default/files/files/2026-05/sahrawi-republic-combined-periodical-reports-2013-2025eng.pdf#page=40).
+
+## Official statistics
+
+The government reports a school enrolment rate of **99.21% for six-year-olds in 2024**. This figure concerns school enrolment. [Government report, p. 41](https://achpr.au.int/sites/default/files/files/2026-05/sahrawi-republic-combined-periodical-reports-2013-2025eng.pdf#page=41).
 
 ## Sources
 
-- [Consitution of the SADR](https://www.policinglaw.info/assets/downloads/2015_Constitution_of_the_Sahrawi_Arab_Democratic_Republic.pdf)
-- [R. Mané et al., “Education, exile, and teaching in Sahrawi refugee camps”](https://ojs.eumed.net/rev/index.php/educacion_analisis_social/article/download/8_S/8E_Spdf/4825&ved=2ahUKEwj-tIjy2puQAxVHT6QEHau5O8gQFnoECBoQAQ&usg=AOvVaw3-LEpCHqozkKwXjHDdV9rs)
+- SADR, [Combined periodic report covering 2013–2025](https://achpr.au.int/sites/default/files/files/2026-05/sahrawi-republic-combined-periodical-reports-2013-2025eng.pdf), submitted to the African Commission on Human and Peoples' Rights, May 2026, pp. 40–41.
+- SADR, [*El sistema educativo / النظام التعليمي والتربوي*](https://www.stes.es/wp-content/uploads/2022/07/SistemaEducativo_RASD.pdf), bilingual presentation, slides 16 and 23; copy hosted by STES.
