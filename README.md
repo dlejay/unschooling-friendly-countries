@@ -163,7 +163,7 @@ A jurisdiction is treated as _unschooling-friendly_ where:
 | **✗** | [Northern Mariana Islands](Countries/CNMI.md)                                     |
 | **✗** | [Norway](Countries/Norway.md)                                                     |
 | **✗** | [Oman](Countries/Oman.md)                                                         |
-| **✓** | [Pakistan](Countries/Pakistan.md)                                                 |
+| **~** | [Pakistan](Countries/Pakistan/README.md)                                          |
 | **✗** | [Palau](Countries/Palau.md)                                                       |
 | **✗** | [Palestine](Countries/Palestine.md)                                               |
 | **✗** | [Panama](Countries/Panama.md)                                                     |
