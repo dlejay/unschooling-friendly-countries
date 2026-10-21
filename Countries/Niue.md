@@ -1,39 +1,39 @@
 ---
-last_reviewed: 2025-10-24
-homeschooling_legal: yes
-prior_authorization_required: yes
-curriculum_free_allowed: no
+last_reviewed: 2026-10-21
+home_education_open_to_all: yes
+can_start_immediately: no
+can_be_interest-driven: yes
 ---
+
 # Unschooling in Niue
 
-## Compulsory education
+## Compulsory enrolment and attendance
 
-Education is compulsory from age 5 to 16 under the Niue Education Act 1989.
+Sections 24–25 of the [Education Act 1989](https://www.gov.nu/media/pages/information/bfc8b91513-1764012795/niue_laws_vol2_ul2022.pdf#page=71) require children ordinarily resident in Niue to enrol and attend from their fifth to sixteenth birthdays, subject to exemptions. Section 24 also recognises alternative tuition determined necessary by the Director.
 
-## Unschooling
+## Education otherwise than at school
 
-According to the Education Act :
+Section 26(4)(a) permits exemption from enrolment on this ground:
 
-> **29 Exemption from attendance**
-> 
-> (1) The parent of any child may apply for and receive a certificate of exemption from attendance from the Principal of the school at which the child is enrolled.
-> 
-> (2) Every such certificate of exemption from attendance shall exempt the child to whom it relates from attendance in whole or part at school.
-> 
-> (3) No certificate of exemption from attendance shall be granted under this section except upon the ground –
-> 
-> (a) That the child is unable to attend school by reason of sickness, danger of infection, infirmity, severe stress of weather, sudden and serious illness of a parent or other sufficient cause; or
-> 
-> (b) That the road by which the child has to travel to school is not sufficiently passable.
-> 
-> (4) Any parent who is dissatisfied with any refusal to grant a certificate of exemption from attendance may appeal to the Director who may confirm or overrule the refusal.
-> 
-> (5) (a) Every certificate of exemption from attendance shall state the ground of the exemption and shall be for such period only as the circumstances require; and no such certificate of exemption shall be granted for a longer period than 3 months, but any such certificate may be renewed for a like period during the continuance of the conditions for which the exemption has been granted.
-> 
-> (b) The Director, being satisfied that the conditions for which the exemption has been granted no longer exist, may cancel any such certificate of exemption.
-> 
-> (6) A child may be exempted from attendance for a period not exceeding 5 school days notwithstanding that no certificate exempting him from attendance has been granted if the Principal of the school attended by him is satisfied that the child has been absent for good and sufficient reason.
+> That the child is elsewhere under instruction as regular and as efficient as in a Government school;
+
+Under sections 26(1)–(3), parents obtain a certificate from the nearest Government primary-school principal before completion of primary education, or the nearest secondary-school principal afterwards. The certificate exempts the child from school enrolment.
+
+Sections 26(5)–(7) provide an appeal to the Director against refusal, require the certificate to state its grounds and be copied to the Director within fourteen days, and permit cancellation when its grounds cease to justify exemption.
+
+Section 29 separately provides temporary attendance exemptions for illness, other sufficient cause or impassable roads, normally for up to three months, renewable while the circumstances persist.
+
+## Educational standard
+
+Section 26(4)(a) establishes the regularity and efficiency standard for exempted instruction. Section 38 governs courses in Government schools, with ministerial approval of their content and standards.
+
+Source: [Education Act, sections 24–26, 29 and 38, printed pp. 65–67 and 70–71](https://www.gov.nu/media/pages/information/bfc8b91513-1764012795/niue_laws_vol2_ul2022.pdf#page=71).
+
+## Official statistics
+
+The [2022 Census of Population and Housing, Table 3.5, p. 25](https://niuestatistics.nu/download/35/census/2793/2022-niue-census-of-population-and-housing-report.pdf#page=25) recorded **164 usual residents attending primary school** (Years 1–6) and **229 attending secondary school** (Years 7–13). These are school-attendance figures for 2022.
 
 ## Sources
 
-- [Education Act](https://planipolis.iiep.unesco.org/sites/default/files/ressources/niue_education_act_vol_261.pdf)
+- [Education Act 1989, Government of Niue, consolidated legislation as at 31 December 2019, Volume 2](https://www.gov.nu/media/pages/information/bfc8b91513-1764012795/niue_laws_vol2_ul2022.pdf#page=65).
+- [Niue Statistics Office, 2022 Census of Population and Housing Report](https://niuestatistics.nu/download/35/census/2793/2022-niue-census-of-population-and-housing-report.pdf).
