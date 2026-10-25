@@ -1,68 +1,60 @@
 ---
-last_reviewed: 2025-10-28
-homeschooling_legal: yes
-prior_authorization_required: no
-curriculum_free_allowed: no
+last_reviewed: 2026-10-25
+home_education_open_to_all: yes
+can_start_immediately: no
+can_be_interest-driven: no
 ---
 
 # Unschooling in Russia
 
 ## Compulsory education
 
-Education is compulsory for nine years (primary and basic general levels, usually until age 15).  
+Article 66(5) of [Federal Law No. 273-FZ of 29 December 2012 on Education](https://www.consultant.ru/document/cons_doc_LAW_140174/66c0c83e63d34f08870033f56479217971de7ae4/) provides (unofficial translation from Russian) :
 
-## Unschooling
+> Primary general, basic general and secondary general education are compulsory levels of education.
 
-According to Article 44 of the law On Education in the Russian Federation :
+The upper-secondary obligation continues until eighteen unless completed earlier.
+Under Article 67(1), primary-school entry normally occurs between six years six months and eight ; admission outside that range requires parental application.
 
-> 1. Parents (legal representatives) of underage students have a preferential right to the education and upbringing of their children
-> over all other persons.
-> 
-> […]
-> 
-> 3. Parents (legal representatives) of underage students have the right to:
-> 
-> […]
-> 
-> >   6\) receive information about all kinds of planned examinations (psychological, psychological and pedagogical) of students,
-> >   give consent to such examinations or participation in such examinations, refuse to conduct them or participate in them,
-> >   receive information about the results of conducted examinations of students;
+## Education outside school
 
-But, according to Article 58
+[Article 63(2)](https://www.consultant.ru/document/cons_doc_LAW_140174/ec8bc3d6696e014968fc6218972217562b54d84a/) permits general education (unofficial translation from Russian) :
 
-> Article 58 Intermediate certification of students
->
-> 1. The development of the educational program (with the exception of the educational program of preschool education), including a separate part or the entire volume of the subject, course, discipline (module) of the educational program, is accompanied by an intermediate certification of students, carried out in the forms determined by the curriculum, and in the manner established by the educational organization.
-> 
-> 2. Unsatisfactory results of the intermediate certification in one or more academic subjects, courses, disciplines (modules) of the educational program or failure to pass the intermediate certification in the absence of good reasons are recognized as academic debt.
-> 
-> 3. Students are required to eliminate academic debt.
-> 
-> 4. Educational organizations, parents (legal representatives) of a minor student, providing students with general education in the form of family education, are obliged to create conditions for the student to eliminate academic debt and ensure control over the timeliness of its liquidation.
-> 
-> 5. Students with academic debts have the right to pass an intermediate certification in the relevant academic subject, course, discipline (module) no more than twice within the time limits determined by the organization carrying out educational activities, within one year from the moment of formation of academic debts. This period does not include the student's illness, academic leave or maternity leave.
-> 
-> 6. To conduct intermediate certification for the second time, an educational organization creates a commission.
-> 
-> 7. It is not allowed to charge students for passing intermediate certification.
-> 
-> 8. Students who have not passed the intermediate certification for good reasons or who have academic debts are transferred to the next class or to the next course conditionally.
-> 
-> 9. Students studying in an educational organization on educational programs of primary general, basic general and secondary general education, who have not liquidated academic debts within the established time frame from the moment of its formation, at the discretion of their parents (legal representatives) are left for re-education, transferred to training according to adapted educational programs in accordance with the recommendations of the psychological, medical and pedagogical commission or for training according to an individual curriculum.
->
-> 10. Students studying in educational programs of primary general, basic general and secondary general education in the form of family education, who have not liquidated academic debts within the established time limits, continue to receive education in an educational organization.
->
-> 11. Students in basic professional educational programs who have not liquidated academic debts within the established time limits are expelled from this organization as they have not fulfilled their obligations for the conscientious development of the educational program and the implementation of the curriculum.
+> outside educational organisations, in the form of family education.
 
-## Statistics
+Upper-secondary education also permits self-education.
+Under Article 63(4), parents choose for minors, taking account of the child’s opinion.
 
-| Year | Homeschoolers |
-| - | - |
-| 2025 | 60,000 |
+## Notification and transition
+
+Article 63(5) requires parents choosing family education to notify the local authority where they live. Paragraph 5 of [Ministry of Education Order No. 115 of 22 March 2021, as amended on 8 May 2026](https://legalacts.ru/doc/prikaz-minprosveshchenija-rossii-ot-22032021-n-115-ob-utverzhdenii/) specifies notification :
+
+- within **fifteen calendar days after the school’s withdrawal order** following transfer to family education ; or
+- **at least fifteen calendar days before the school year** in which the transition is planned.
+
+Paragraph 27 provides for parents to choose an accredited organisation for external assessment.
+The assessment timetable is agreed with the learner or the minor’s parents ; intermediate assessments cover no more than one subject or course per day.
+
+## Programme, methods and assessment
+
+The Ministry’s [Letter No. NT-1139/08 of 15 November 2013, section 1](https://legalacts.ru/doc/pismo-minobrnauki-rossii-ot-15112013-n-nt-113908/), recommends that assessment arrangements take account of parental views and the child's pace and sequence of study.
+It distinguishes parental responsibility for education from the assessing institution's responsibility for assessment and academic rights.
+
+The [primary general education standard, Order No. 286 of 31 May 2021, as amended on 18 June 2025](https://legalacts.ru/doc/prikaz-minprosveshchenija-rossii-ot-31052021-n-286-ob-utverzhdenii/), recognises family education in paragraph 18. Paragraph 22 provides (unofficial translation from Russian) :
+
+> Regardless of the form of primary education or instruction, the standard is the basis for objective assessment …
+
+Paragraph 32.1 prescribes compulsory curriculum subjects, including Russian, literary reading, a foreign language, mathematics, the surrounding world, religious cultures/secular ethics, visual arts, music, labour/technology and physical education. Paragraph 43 specifies subject learning outcomes.
+
+[Article 34(3)](https://www.consultant.ru/document/cons_doc_LAW_140174/6b08530edad66747252fe4b34361d250e7af65ac/) provides free external assessments. [Article 59(3), (4) and (6)](https://www.consultant.ru/document/cons_doc_LAW_140174/95d9ecc180e13e58ff632723375f109b36986b8c/) makes basic and upper-secondary final assessment compulsory, against state standards, after curriculum completion and clearance of academic deficiencies.
+
+[Article 58(2)–(7), (10)](https://www.consultant.ru/document/cons_doc_LAW_140174/85124c9196d691bcb8ae879146b0a2b60abef3f9/) defines failed or unjustifiably missed intermediate assessments as academic deficiencies.
+Two reassessment opportunities are available within one year.
+Family-educated learners whose deficiencies remain uncleared by the deadline continue education in an educational organisation.
 
 ## Sources
 
-- [Article 44](https://base.garant.ru/77308190/0add9c67393c4454d39a78904e0baac0/) of the law On Education in the Russian Federation N 273-FZ.
-- [Article 58](https://base.garant.ru/70291362/5f5aeb9844a3cec55dca4cf7554741a3/) of the law On Education in the Russia Federation N 273-FZ.
-- [_Сколько осталось частному образованию в России?_](https://www.moscowtimes.ru/2025/05/26/skolko-ostalos-chastnomu-obrazovaniyu-v-rossii-a164317)
-- [Homeschooling in Russia](https://creation.com/en/articles/homeschooling-in-russia)
+- [Federal Law No. 273-FZ on Education, consolidated statutory text incorporating amendments effective from 1 September 2026](https://www.consultant.ru/document/cons_doc_LAW_140174/).
+- [Ministry of Education Order No. 115, consolidated text, paragraphs 5 and 27](https://legalacts.ru/doc/prikaz-minprosveshchenija-rossii-ot-22032021-n-115-ob-utverzhdenii/); [official original publication](https://publication.pravo.gov.ru/Document/View/0001202104200066).
+- [Ministry of Education Order No. 286, consolidated primary education standard](https://legalacts.ru/doc/prikaz-minprosveshchenija-rossii-ot-31052021-n-286-ob-utverzhdenii/).
+- [Ministry of Education and Science Letter No. NT-1139/08, reproduced text](https://legalacts.ru/doc/pismo-minobrnauki-rossii-ot-15112013-n-nt-113908/).
