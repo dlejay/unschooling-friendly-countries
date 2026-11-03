@@ -1,59 +1,54 @@
+---
+last_reviewed: 2026-11-03
+home_education_open_to_all: no
+---
+
 # Unschooling in Sint Maarten
 
-|       |                                            |
-| ----- | ------------------------------------------ |
-| **✓** | Homeschooling is a legal form of schooling |
-| **✗** | It requires no prior authorisation         |
-| **✗** | It can be curriculum-free                  |
+## Compulsory schooling
 
-## Compulsory education
+Articles 2–3 of the *Leerplichtlandsverordening* require school enrolment and attendance from the first school year beginning on or after the fourth birthday. The obligation continues through the school year in which the young person turns 18, or obtains a VSBO, HAVO, VWO or ministerially designated equivalent recognised diploma. It applies to residents. [Articles 2–3](https://lokaleregelgeving.overheid.nl/CVDR142417/2#Artikel2).
 
-School attendance is mandatory from age 4 up to age 18 (inclusive).
+## Home education
 
-## Context
+### Eligibility
 
-According to the *Leerplichtlandsverordering* :
+Article 4(2) requires parents to have:
 
-> Article 2
->
-> If a student of compulsory school age is an adult, then the obligations and powers
-> specified in this ordinance for the persons mentioned in article 2, first paragraph, rests on the student himself. ( Section 1a inserted by FO of June 22, 2007 (OJ 2007, No. 43)
->
-> 1. The person who has custody of a youngster in the Netherlands Antilles, and the person who is in charge of the actual care of such a child,
->    are obliged to ensure:
->
->    a. the registration of that young person as a student in a school, and
->
->    b. that the youngster attends the classes intended for him at the school referred to in subsection a
+> overwegende bezwaren hebben tegen de richting van alle aanwezige scholen
 
-> Article 4
->
-> 1. The supervisory authority shall be entitled, at the request of the persons referred to in Article 2(1), to grant an exemption for a period to be determined by it:
->
-> a.
-> of the obligations referred to in that paragraph, if the young person will not be able to attend his lessons due to long-term mental or physical incapacity;
->
-> B.
-> of the obligation referred to in that paragraph, part b, insofar as the young person will not be able to attend certain lessons on the basis of prolonged mental or physical incapacity.
->
-> 2. At the request of the persons referred to in Article 2, paragraph 1, the Minister shall grant exemption from the obligations referred to in that paragraph, if those persons have predominant objections to the direction of all existing schools in which the young person could attend the lessons and they demonstrate that the young person receives sufficient education in another way.
+This means predominant objections to the orientation of all available schools the child could attend. Parents must also demonstrate sufficient alternative education. The Minister grants an exemption upon application when these conditions are met. Eligibility therefore depends on qualifying objections, rather than parental preference alone. Article 4(1) separately permits exemptions for long-term mental or physical incapacity preventing attendance. [Article 4](https://lokaleregelgeving.overheid.nl/CVDR142417/2#Artikel4).
 
-Foreigners are subject to the same laws.
+### Approval and supervision
+
+The Ministry's October 2022 *Education Review* describes applications to the Minister of Education, Culture, Youth and Sport through the Inspectorate of Education. Home education is thus subject to an exemption decision rather than a declaration allowing immediate withdrawal from school. [Education Review, p.20](https://www.sintmaartengov.org/Documents/Reports/Final%20Report%20Education%20Review%20measure%20G1%20Country%20Package.pdf#page=20).
+
+The *Landsbesluit toezicht leerplicht* (AB 2023 no. 18), effective from 10 May 2023, designates the Education Inspectorate as the supervisory authority. Its article 7 provides for investigation where a compulsory-school-age child is not enrolled without an exemption, and possible administrative penalties for continued non-compliance. [Articles 3 and 7](https://lokaleregelgeving.overheid.nl/CVDR697484/1#Artikel3).
+
+### Educational approach
+
+Article 4(2) requires sufficient alternative education; it does not establish an unconditional entitlement to curriculum-free learning. This educational requirement applies in addition to the restriction on eligible grounds. [Article 4(2)](https://lokaleregelgeving.overheid.nl/CVDR142417/2#Artikel4).
 
 ## Statistics
 
-According to the SINT MAARTEN EDUCATION REVIEW,
+### Home-education applications
 
-> **Home Schooling**
-> The term ‘homeschooling’ applies to education provided in a home setting, either by
-> a parent or (online) tutors. Parents can request the right to homeschool their child
-> from the Minister of ECYS through the Inspectorate of Education. There were more
-> requests and approvals of homeschooling requests in the school year 2016-2017
-> than in the previous four school years: 7 requests for primary or secondary
-> education were submitted and 5 requests were granted. Post Hurricane Irma, the
-> requests for homeschooling decreased to four with all four being approved.
+The Ministry's October 2022 *Education Review* reports the following applications for primary or secondary home education:
+
+| Reporting period | Applications | Approvals |
+| ---------------- | -----------: | --------: |
+| School year 2016–2017 | 7 | 5 |
+| Post-Hurricane Irma period described in the report | 4 | 4 |
+
+These are application and approval counts, not a census of home-educated children. The report does not assign a specific school year to the post-Irma figure. [Education Review, p.20](https://www.sintmaartengov.org/Documents/Reports/Final%20Report%20Education%20Review%20measure%20G1%20Country%20Package.pdf#page=20).
+
+### Recent school-system data
+
+The Sint Maarten Trust Fund's *Annual Report 2025* describes the second national learning assessment, conducted in June 2025. It covered reading and mathematics in **24 student groups across public and subsidised primary schools**, with **20 local educators trained to administer it**. These figures describe school assessment coverage and implementation, rather than home-education participation. [Annual Report 2025, p.25](https://www.sintmaartenrecovery.org/sites/default/files/2026-04/Sint%20Maarten%20TF%20Annual%20Report%202025_2.pdf).
 
 ## Sources
 
-- [_LANDSVERORDENING houdende bepalingen tot regeling van de leerplicht_](https://lokaleregelgeving.overheid.nl/CVDR142417)
-- [SINT MAARTEN EDUCATION REVIEW](https://www.sintmaartengov.org/Documents/Reports/Final%20Report%20Education%20Review%20measure%20G1%20Country%20Package.pdf)
+- [Leerplichtlandsverordening — articles 2–4, consolidated version effective from 30 May 2015](https://lokaleregelgeving.overheid.nl/CVDR142417/2).
+- [Landsbesluit toezicht leerplicht — AB 2023 no. 18, effective from 10 May 2023](https://lokaleregelgeving.overheid.nl/CVDR697484/1).
+- [Ministry of Education, Culture, Youth and Sport — Sint Maarten Education Review, final report, October 2022](https://www.sintmaartengov.org/Documents/Reports/Final%20Report%20Education%20Review%20measure%20G1%20Country%20Package.pdf).
+- [Sint Maarten Trust Fund — Annual Report 2025](https://www.sintmaartenrecovery.org/sites/default/files/2026-04/Sint%20Maarten%20TF%20Annual%20Report%202025_2.pdf).
