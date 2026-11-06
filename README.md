@@ -7,7 +7,7 @@ In this list, an _unschooling-friendly jurisdiction_ is a territory with autonom
 A jurisdiction is treated as _unschooling-friendly_ where:
 
 1. Home education is open to all ;
-2. It can be started immediately ;
+2. It can be started at will : parents can begin home education whenever they choose, without their choice being subject to initial approval ;
 3. It can be interest-driven.
 
 ## List of jurisdictions

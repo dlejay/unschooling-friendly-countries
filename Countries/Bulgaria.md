@@ -1,7 +1,7 @@
 ---
 last_reviewed: 2026-04-08
 homeschooling_legal: yes
-can_start_immediately: no
+can_start_at_will: no
 curriculum_free_allowed: no
 ---
 # Unschooling in Bulgaria

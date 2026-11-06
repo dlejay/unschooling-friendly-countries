@@ -1,7 +1,7 @@
 ---
 last_reviewed: 2026-05-10
 home_education_open_to_all: yes
-can_start_immediately: yes
+can_start_at_will: yes
 can_be_interest_driven: yes
 ---
 # Unschooling in Botswana

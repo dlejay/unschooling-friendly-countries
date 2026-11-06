@@ -1,7 +1,7 @@
 ---
 last_reviewed: 2026-10-08
 home_education_open_to_all: yes
-can_start_immediately: no
+can_start_at_will: no
 can_be_interest-driven: no
 ---
 # Unschooling in Hungary

@@ -1,7 +1,7 @@
 ---
 last_reviewed: 2026-03-26
 homeschooling_legal: yes
-can_start_immediately: yes
+can_start_at_will: yes
 curriculum_free_allowed: no
 ---
 # Unschooling in New Hampshire

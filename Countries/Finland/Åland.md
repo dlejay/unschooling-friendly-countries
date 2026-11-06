@@ -1,7 +1,7 @@
 ---
 last_reviewed: 2026-04-29
 home_education_open_to_all: yes
-can_start_immediately: yes
+can_start_at_will: yes
 can_be_curriculum_free: no
 ---
 # Home education in Åland

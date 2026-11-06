@@ -1,7 +1,7 @@
 ---
 last_reviewed: 2026-06-02
 home_education_open_to_all: no
-can_start_immediately: no
+can_start_at_will: no
 can_be_interest-driven: no
 ---
 
